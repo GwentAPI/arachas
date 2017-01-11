@@ -107,7 +107,7 @@ def getCardJson(html):
                 dataMap["lane"].append("Melee")
                 dataMap["lane"].append("Siege")
             else:
-                dataMap["lane"] = lane
+                dataMap["lane"].append(lane)
     try:
         info = cardArticle.find('div', class_="card-text").find('p').get_text().strip()
         dataMap["info"] = info
