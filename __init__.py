@@ -7,11 +7,21 @@ import time
 import queue
 import threading
 import requests
+import mimetypes
+import argparse
 
 import gwentifyHandler as siteHandler
 
+args = {}
+
 # URL where we can begin the crawl.
 HOST = 'http://gwentify.com/cards/?view=table'
+
+IMAGE_FOLDER = 'media'
+
+FILE_NAME = 'latest.json'
+
+DOWNLOAD_ARTWORK = False
 
 # Timeout for the requests module.
 TIMEOUT = 5.0
@@ -26,10 +36,23 @@ cardQueue = queue.Queue()
 # Queue containing every cards already processed and ready to be saved.
 finalDataQueue = queue.Queue()
 
+imageQueue = queue.Queue()
+
 # Request headers
 HEADERS = {
     'User-Agent': 'Mozilla/5.0'
 }
+
+
+def setParser():
+    parser = argparse.ArgumentParser(description='This script allows you to crawl different Gwent community website '
+                                                 'to parse and save data about the cards.')
+    parser.add_argument('-o', '--output', help='Name of the json file that will be saved.', required=False)
+    parser.add_argument('-i', '--image', help='Use this argument to download all cards artworks.',
+                        action='store_true', required=False)
+
+    global args
+    args = parser.parse_args()
 
 
 # Class responsible for processing the URL of a page and obtaining the URL of every cards on the page.
@@ -58,10 +81,11 @@ class ThreadPage(threading.Thread):
 
 # Class responsible for processing the URL of a card and obtaining all information related to the card.
 class CardThread(threading.Thread):
-    def __init__(self, cardQueue, finalDataQueue):
+    def __init__(self, cardQueue, finalDataQueue, imageQueue):
         threading.Thread.__init__(self)
         self.cardQueue = cardQueue
         self.finalDataQueue = finalDataQueue
+        self.imageQueue = imageQueue
 
     def run(self):
         while True:
@@ -73,11 +97,34 @@ class CardThread(threading.Thread):
                 # Return a card.
                 cardData = siteHandler.getCardJson(res.content)
                 self.finalDataQueue.put(cardData)
+                self.imageQueue.put((cardData['name'], cardData['imageUrl']))
+
             else:
                 print("bad")
             # Notify that we have finished one task.
             self.cardQueue.task_done()
 
+
+class ImageThread(threading.Thread):
+    def __init__(self, imageQueue):
+        threading.Thread.__init__(self)
+        self.imageQueue = imageQueue
+
+    def run(self):
+        while True:
+            name, url = self.imageQueue.get()
+            res = requests.get(url, headers=HEADERS, timeout=TIMEOUT, stream=True)
+
+            if res.status_code == 200:
+                content_type = res.headers['content-type']
+                extension = mimetypes.guess_extension(content_type)
+
+                filepath = os.path.join('./' + IMAGE_FOLDER + '/' + name + extension)
+
+                with open(filepath, 'wb') as f:
+                    for chunk in res:
+                        f.write(chunk)
+            self.imageQueue.task_done()
 
 # Function to retrieve a list of URL for every pages of cards.
 # The url parameter is the entry point of the website where we might extract the information.
@@ -108,6 +155,19 @@ def saveJson(filename, cardList):
 
 
 def main():
+
+    global DOWNLOAD_ARTWORK
+
+    if args.image:
+        DOWNLOAD_ARTWORK = args.image
+
+    print(DOWNLOAD_ARTWORK)
+
+    imageFilePath = os.path.join('./' + IMAGE_FOLDER)
+
+    if not os.path.exists(imageFilePath):
+        os.makedirs(imageFilePath)
+
     # Start THREADS_COUNT number of thread working on retrieving cards URL from a page URL.
     for i in range(THREADS_COUNT):
         t = ThreadPage(pageQueue, cardQueue)
@@ -126,9 +186,15 @@ def main():
 
     # Start THREADS_COUNT number of thread working on retrieving card data from card URL.
     for i in range(THREADS_COUNT):
-        c = CardThread(cardQueue, finalDataQueue)
+        c = CardThread(cardQueue, finalDataQueue, imageQueue)
         c.setDaemon(True)
         c.start()
+
+    if DOWNLOAD_ARTWORK:
+        for i in range(THREADS_COUNT):
+            it = ImageThread(imageQueue)
+            it.setDaemon(True)
+            it.start()
 
     # Blocks until the queue is finished processing.
     pageQueue.join()
@@ -136,16 +202,25 @@ def main():
     # Blocks until the queue is finished processing.
     cardQueue.join()
 
+    if DOWNLOAD_ARTWORK:
+        imageQueue.join()
+
     cardList = list(finalDataQueue.queue)
 
     # Sort the cards in the list by the name of the cards in order to get a predictable output.
     # Makes it easier to see difference when using a diff tool.
     cardList = sorted(cardList, key=lambda element: element['name'])
 
-    saveJson("latest.json", cardList)
+    global FILE_NAME
+
+    if args.output:
+        FILE_NAME = args.output
+
+    saveJson(FILE_NAME, cardList)
 
 
 if __name__ == '__main__':
+    setParser()
     print("Starting")
     start = time.time()
     main()
