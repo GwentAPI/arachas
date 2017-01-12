@@ -43,12 +43,11 @@ class ThreadPage(threading.Thread):
         while True:
             url = self.pageQueue.get()
             res = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-            res.encoding = 'UTF-8'
 
             if res.status_code == 200:
                 # Send the html to the siteHandler module for processing.
                 # Return a list of URL where every URL is the URL for a card.
-                listCards = siteHandler.getCardsUrl(res.text)
+                listCards = siteHandler.getCardsUrl(res.content)
                 # Add all entry of listCards in the cardQueue.
                 list(map(self.cardQueue.put, listCards))
             else:
@@ -68,12 +67,11 @@ class CardThread(threading.Thread):
         while True:
             url = self.cardQueue.get()
             res = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-            res.encoding = 'UTF-8'
 
             if res.status_code == 200:
                 # Send the html to the siteHandler module for processing.
                 # Return a card.
-                cardData = siteHandler.getCardJson(res.text)
+                cardData = siteHandler.getCardJson(res.content)
                 self.finalDataQueue.put(cardData)
             else:
                 print("bad")
@@ -87,11 +85,10 @@ def getPages(url):
     listPages = []
 
     res = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-    res.encoding = 'UTF-8'
 
     if res.status_code == 200:
         # Process the html and return a list of URL for every available pages.
-        listPages = siteHandler.getPages(res.text)
+        listPages = siteHandler.getPages(res.content)
         listPages.append(url)
     else:
         print("bad")

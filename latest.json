@@ -11,7 +11,7 @@
     "faction:": "Neutral",
     "flavour": "The beast rushed at them, wildly, with fury in its eyes, immune to pain and any strikes the defenders could land. Nothing stood to stop it\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/adrenaline-rush-1.png",
-    "info": "Keep\u00a0a non-Gold unit\u00a0on the battlefield at the end of this round.",
+    "info": "Keep a non-Gold unit on the battlefield at the end of this round.",
     "lane": [
       "Event"
     ],
@@ -89,7 +89,7 @@
     "faction:": "Scoia'tael",
     "flavour": "Brokilon bleeds\u2026 and not even I can heal it.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/agalis-1.png",
-    "info": "Resurrect\u00a0a non-Gold Special Card from either graveyard.",
+    "info": "Resurrect a non-Gold Special Card from either graveyard.",
     "lane": [
       "Ranged",
       "Melee",
@@ -143,7 +143,7 @@
     "faction:": "Neutral",
     "flavour": "We stand not the slightest chance of incanting a spell so complex as Alzur's Thunder. It is claimed Alzur had a voice like a hunting horn and the diction of a master orator.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/alzurs-thunder-1.png",
-    "info": "Remove 7\u00a0strength from\u00a0a\u00a0non-Gold unit.",
+    "info": "Remove 7 strength from a non-Gold unit.",
     "lane": [
       "Event"
     ],
@@ -192,7 +192,7 @@
     "faction:": "Monsters",
     "flavour": "Ugly \u2013 nature's way of saying \"stay away.\"",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/arachas-1.png",
-    "info": "Play all\u00a0Arachasae from your deck.",
+    "info": "Play all Arachasae from your deck.",
     "lane": [
       "Ranged"
     ],
@@ -217,7 +217,7 @@
     "faction:": "Monsters",
     "flavour": "Like a cross between a crab, a spider\u2026 and a mountain.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/arachas-behemoth-1.png",
-    "info": "Spawn an\u00a0Arachas\u00a0whenever a unit on your side absorbs strength.",
+    "info": "Spawn an Arachas whenever a unit on your side absorbs strength.",
     "lane": [
       "Siege"
     ],
@@ -242,7 +242,7 @@
     "faction:": "Monsters",
     "flavour": "It's a griffin, just more... griffiny.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/archgriffin-2.png",
-    "info": "Remove Weather\u00a0from its row and reset all weakened non-immune units there to their base strength.",
+    "info": "Remove Weather from its row and reset all weakened non-immune units there to their base strength.",
     "lane": [
       "Ranged",
       "Melee",
@@ -336,7 +336,7 @@
     "faction:": "Scoia'tael",
     "flavour": "Our mead smells rotten to ye, do it? Easy to fix \u2013 I'll break yer nose!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/barclay-els-1.png",
-    "info": "Add 1 strength to all your\u00a0Dwarf units, wherever they are.",
+    "info": "Add 1 strength to all your Dwarf units, wherever they are.",
     "lane": [
       "Siege"
     ],
@@ -427,7 +427,7 @@
     "faction:": "Skellige",
     "flavour": "Skellige must have a strong king. No matter what it takes.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/birna-bran-2.png",
-    "info": "Draw 3\u00a0cards.\u00a0Keep 1 and discard the rest.",
+    "info": "Draw 3 cards. Keep 1 and discard the rest.",
     "lane": [
       "Ranged"
     ],
@@ -535,7 +535,7 @@
     "faction:": "Northern Realms",
     "flavour": "I'd do anything for Temeria. Mostly though, I kill for her.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/blue-stripes-commando-2.png",
-    "info": "Add 2 strength to all your other\u00a0Blue Stripes Commandos, wherever they are.",
+    "info": "Add 2 strength to all your other Blue Stripes Commandos, wherever they are.",
     "lane": [
       "Melee"
     ],
@@ -563,7 +563,7 @@
     "faction:": "Northern Realms",
     "flavour": "Blue Stripes and Scoia'tael are similar in one regard \u2013 hatred fuels both.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/blue-stripes-scout-2.png",
-    "info": "Add 4 strength to a\u00a0non-Gold unit\u00a0on your side of the battlefield.",
+    "info": "Add 4 strength to a non-Gold unit on your side of the battlefield.",
     "lane": [
       "Ranged"
     ],
@@ -588,7 +588,7 @@
     "faction:": "Skellige",
     "flavour": "I'm near ready to puke from boredom.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/blueboy-lugos-2.png",
-    "info": "Spawn\u00a0a\u00a0Spectral Whale\u00a0on a random row on\u00a0the opposite side.",
+    "info": "Spawn a Spectral Whale on a random row on the opposite side.",
     "lane": [
       "Melee"
     ],
@@ -663,7 +663,7 @@
     "faction:": "Scoia'tael",
     "flavour": "That doddery dolt? Ye cannae even tell if he's alive or stuffed!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/brouver-hoog-3.png",
-    "info": "Play\u00a0a Silver card from your deck.",
+    "info": "Play a Silver card from your deck.",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -684,7 +684,7 @@
     "faction:": "Monsters",
     "flavour": "A favorite son who chose a life of villainy.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/caranthir-3.png",
-    "info": "Immune to Frost. Spawn a\u00a0Frost effect and 2 Wild Hunt Hounds.",
+    "info": "Immune to Frost. Spawn a Frost effect and 2 Wild Hunt Hounds.",
     "lane": [
       "Melee"
     ],
@@ -998,7 +998,7 @@
     "faction:": "Skellige",
     "flavour": "Haul together, hoist the colors high!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/clan-dimun-pirate-captain-4.png",
-    "info": "Immune to Fog. Gain\u00a02\u00a0strength whenever you discard a unit.",
+    "info": "Immune to Fog. Gain 2 strength whenever you discard a unit.",
     "lane": [
       "Ranged"
     ],
@@ -1100,7 +1100,7 @@
     "faction:": "Skellige",
     "flavour": "Friends we show heart, foes we show our axe. Remember that.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-skirmishers-1.png",
-    "info": "When resurrected,\u00a0gain 4 base strength.",
+    "info": "When resurrected, gain 4 base strength.",
     "lane": [
       "Melee"
     ],
@@ -1171,7 +1171,7 @@
     "faction:": "Neutral",
     "flavour": "Plus one to morale, minus one to hearing.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/commanders-horn-3.png",
-    "info": "Double the strength of all non-Gold units on a row on your side, then\u00a0banish.",
+    "info": "Double the strength of all non-Gold units on a row on your side, then banish.",
     "lane": [
       "Event"
     ],
@@ -1348,7 +1348,7 @@
     "faction:": "Monsters",
     "flavour": "That is not dead which can eternal lie, and with strange aeons even death may die.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/dagon-4.png",
-    "info": "Spawn a Biting Frost, Impenetrable Fog Torrential Rain or\u00a0First Light card.",
+    "info": "Spawn a Biting Frost, Impenetrable Fog Torrential Rain or First Light card.",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -1366,7 +1366,7 @@
     "faction:": "Northern Realms",
     "flavour": "Dandelion, you're a cynic, a lecher, a liar \u2013 and my best friend.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/dandelion-4.png",
-    "info": "Add 2 strength to each non-Gold unit\u00a0played on your side and 1 strength to each played on the opposing side. Does not affect spawned units.",
+    "info": "Add 2 strength to each non-Gold unit played on your side and 1 strength to each played on the opposing side. Does not affect spawned units.",
     "lane": [
       "Melee"
     ],
@@ -1416,7 +1416,7 @@
     "faction:": "Northern Realms",
     "flavour": "Really believe you can dupe me with that tale you just pulled from your arse?",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/dijkstra-3.png",
-    "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain\u00a01 strength for each unit converted.",
+    "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain 1 strength for each unit converted.",
     "lane": [
       "Siege"
     ],
@@ -1551,7 +1551,7 @@
     "faction:": "Skellige",
     "flavour": "I've gathered all the jarls together. Now make your case.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/donar-an-hindar-3.png",
-    "info": "Draw 1 card and discard 1\u00a0random non-Gold card from your deck.",
+    "info": "Draw 1 card and discard 1 random non-Gold card from your deck.",
     "lane": [
       "Ranged"
     ],
@@ -1576,7 +1576,7 @@
     "faction:": "Skellige",
     "flavour": "Hear ye now the tale of the heroic deeds of Clan an Craite.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/draig-bon-dhu-2.png",
-    "info": "Add 2\u00a0base\u00a0strength to all non-Gold units in your graveyard.",
+    "info": "Add 2 base strength to all non-Gold units in your graveyard.",
     "lane": [
       "Siege"
     ],
@@ -1676,7 +1676,7 @@
     "faction:": "Northern Realms",
     "flavour": "Always wondered \u2013 how the blazes do those lads handle nature's call\u2026?",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/dun-banner-heavy-cavalry-2.png",
-    "info": "After 2 turns, convert to Gold\u00a0until removed from the battlefield or the round ends.",
+    "info": "After 2 turns, convert to Gold until removed from the battlefield or the round ends.",
     "lane": [
       "Siege"
     ],
@@ -1782,7 +1782,7 @@
     "faction:": "Monsters",
     "flavour": "How do you fight an earth elemental? You don't. You run. Fast as you can.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/earth-elemental-1.png",
-    "info": "When removed from the battlefield, spawn\u00a03\u00a0Lesser Earth Elementals on the row where this unit was.",
+    "info": "When removed from the battlefield, spawn 3 Lesser Earth Elementals on the row where this unit was.",
     "lane": [
       "Melee"
     ],
@@ -1859,7 +1859,7 @@
     "faction:": "Scoia'tael",
     "flavour": "Love justifies madness in any of its forms.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/eleyas-2.png",
-    "info": "Gain 3\u00a0strength whenever a Commando Neophyte\u00a0unit appears on your side.",
+    "info": "Gain 3 strength whenever a Commando Neophyte unit appears on your side.",
     "lane": [
       "Ranged",
       "Melee",
@@ -1889,7 +1889,7 @@
     "faction:": "Scoia'tael",
     "flavour": "I spit on Scoia'tael ideals, but not on their coin.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/elven-mercenary-1.png",
-    "info": "Play a random non-Gold\u00a0Special Card from your deck.",
+    "info": "Play a random non-Gold Special Card from your deck.",
     "lane": [
       "Ranged",
       "Melee",
@@ -2147,7 +2147,7 @@
     "faction:": "Monsters",
     "flavour": "Can't stand the heat? Then you don't stand a chance.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/fire-elemental-1.png",
-    "info": "Spawn a\u00a0Lesser Fire Elemental\u00a0on this unit\u2019s row at the start of your turn.",
+    "info": "Spawn a Lesser Fire Elemental on this unit\u2019s row at the start of your turn.",
     "lane": [
       "Ranged"
     ],
@@ -2175,7 +2175,7 @@
     "faction:": "Scoia'tael",
     "flavour": "Careful\u2026! One more step and you'll be turned into molten glass.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/fireball-trap.png",
-    "info": "Ambush: When a\u00a0revealed non-Gold unit appears on the opposite side, remove 5 strength from it.",
+    "info": "Ambush: When a revealed non-Gold unit appears on the opposite side, remove 5 strength from it.",
     "lane": [
       "Ranged",
       "Melee",
@@ -2227,7 +2227,7 @@
     "faction:": "Monsters",
     "flavour": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/foglet-3.png",
-    "info": "Immune to Fog. Play from your deck or graveyard\u00a0whenever Fog is spawned. Gain 1 strength whenever a Fog effect is applied. Destroy when moved outside of Fog or Fog is removed.",
+    "info": "Immune to Fog. Play from your deck or graveyard whenever Fog is spawned. Gain 1 strength whenever a Fog effect is applied. Destroy when moved outside of Fog or Fog is removed.",
     "lane": [
       "Ranged"
     ],
@@ -2399,7 +2399,7 @@
     "faction:": "Neutral",
     "flavour": "A twist of a witcher's fingers can light a lamp\u2026 or incinerate a foe.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/geralt-igni-3.png",
-    "info": "Destroy the strongest non-Gold unit(s) on the opposite row if that row totals 20\u00a0or more strength.",
+    "info": "Destroy the strongest non-Gold unit(s) on the opposite row if that row totals 20 or more strength.",
     "lane": [
       "Ranged",
       "Melee",
@@ -2447,7 +2447,7 @@
     "faction:": "Monsters",
     "flavour": "If ghouls are part of the Circle of Life\u2026 then it's one vicious circle.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ghoul-1.png",
-    "info": "Banish\u00a0a random\u00a0non-Gold unit in either graveyard from the game and absorb its strength.",
+    "info": "Banish a random non-Gold unit in either graveyard from the game and absorb its strength.",
     "lane": [
       "Melee"
     ],
@@ -2472,7 +2472,7 @@
     "faction:": "Monsters",
     "flavour": "Big, bad, ugly. Squats in the sewers.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/giant-toad-3.png",
-    "info": "If possible, discard\u00a0a non-Gold unit, absorb its strength and draw a card.",
+    "info": "If possible, discard a non-Gold unit, absorb its strength and draw a card.",
     "lane": [
       "Siege"
     ],
@@ -2497,7 +2497,7 @@
     "faction:": "Monsters",
     "flavour": "Does not drink. Does not eat. Does walk, however. And fight.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/golem-4.png",
-    "info": "When removed from the battlefield, spawn\u00a02 Lesser Golem\u00a0on the row where this unit was.",
+    "info": "When removed from the battlefield, spawn 2 Lesser Golem on the row where this unit was.",
     "lane": [
       "Melee"
     ],
@@ -2522,7 +2522,7 @@
     "faction:": "Monsters",
     "flavour": "Their long tongues're for slurping marrow \u2013 and whipping prey.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/grave-hag-3.png",
-    "info": "After 1\u00a0turn, banish all\u00a0non-Gold units in your graveyard and gain 1 strength for each.",
+    "info": "After 1 turn, banish all non-Gold units in your graveyard and gain 1 strength for each.",
     "lane": [
       "Ranged"
     ],
@@ -2572,7 +2572,7 @@
     "faction:": "Monsters",
     "flavour": "Griffins like to toy with their prey. Eat 'em alive, piece by piece.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/griffin-3.png",
-    "info": "Move\u00a0a non-Gold unit from your opponent\u2019s graveyard\u00a0to your own.",
+    "info": "Move a non-Gold unit from your opponent\u2019s graveyard to your own.",
     "lane": [
       "Siege"
     ],
@@ -2597,7 +2597,7 @@
     "faction:": "Skellige",
     "flavour": "No one knows how he got his nickname \u2013 no one's dared to ask.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/harald-the-cripple-2.png",
-    "info": "Remove 3\u00a0strength from all\u00a0weakened opposing\u00a0units and 2 strength from all other opposing units.",
+    "info": "Remove 3 strength from all weakened opposing units and 2 strength from all other opposing units.",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -2645,7 +2645,7 @@
     "faction:": "Scoia'tael",
     "flavour": "Elf, dwarf, makes no difference \u2013 long as they've got coin.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/hawker-support-2.png",
-    "info": "Gain 3 strength whenever you play a\u00a0Special Card.",
+    "info": "Gain 3 strength whenever you play a Special Card.",
     "lane": [
       "Ranged",
       "Melee",
@@ -2704,7 +2704,7 @@
     "faction:": "Skellige",
     "flavour": "Instead of mournin' the fallen, let's drink to their memory!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/hjalmar-3.png",
-    "info": "Spawn a\u00a0Lord of Undvik\u00a0on\u00a0the opposite side.",
+    "info": "Spawn a Lord of Undvik on the opposite side.",
     "lane": [
       "Melee"
     ],
@@ -2923,7 +2923,7 @@
     "faction:": "Scoia'tael",
     "flavour": "It dawns on them once they notice my scar: a realization of imminent death.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/isengrim-1.png",
-    "info": "Spawn 1\u00a0Commando Neophytes on random row whenever you play a Special Card.",
+    "info": "Spawn 1 Commando Neophytes on random row whenever you play a Special Card.",
     "lane": [
       "Ranged",
       "Melee",
@@ -2950,7 +2950,7 @@
     "faction:": "Northern Realms",
     "flavour": "That square should bear the names of my soldiers, of the dead. Not mine.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/john-natalis-1.png",
-    "info": "Add 3 strength to\u00a03\u00a0non-Gold units on your side of the battlefield.",
+    "info": "Add 3 strength to 3 non-Gold units on your side of the battlefield.",
     "lane": [
       "Melee"
     ],
@@ -3029,7 +3029,7 @@
     "faction:": "Northern Realms",
     "flavour": "Forward, you sorry sods! Forward or you'll see the Nilfgaardians are the least of your worries!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/kaedweni-sergeant-1.png",
-    "info": "Convert a\u00a0Gold unit to Silver (or Bronze, if that was its original color).",
+    "info": "Convert a Gold unit to Silver (or Bronze, if that was its original color).",
     "lane": [
       "Melee"
     ],
@@ -3054,7 +3054,7 @@
     "faction:": "Northern Realms",
     "flavour": "\"You gotta recalibrate the arm by five degrees.\" \"Do what by the what now?\"",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-3.png",
-    "info": "Add 3 strength to 2\u00a0non-Gold units on your side of the battlefield.",
+    "info": "Add 3 strength to 2 non-Gold units on your side of the battlefield.",
     "lane": [
       "Ranged",
       "Melee",
@@ -3081,7 +3081,7 @@
     "faction:": "Skellige",
     "flavour": "When the time comes, the cockerel Kambi shall crow and awaken Hemdall.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/kambi-1.png",
-    "info": "After 3 turns,\u00a0spawn Hemdall on this unit\u2019s side. Destroy Kambi\u00a0whenever Hemdall appears on the same side.",
+    "info": "After 3 turns, spawn Hemdall on this unit\u2019s side. Destroy Kambi whenever Hemdall appears on the same side.",
     "lane": [
       "Ranged"
     ],
@@ -3204,7 +3204,7 @@
     "faction:": "Neutral",
     "flavour": "I might just discover I look great without ears... or hands. Apparently the King of Beggars accepts both as partial payment.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/king-of-beggars-1.png",
-    "info": "Play the weakest\u00a0non-Gold unit from your deck. Ties are resolved randomly.",
+    "info": "Play the weakest non-Gold unit from your deck. Ties are resolved randomly.",
     "lane": [
       "Ranged"
     ],
@@ -3588,7 +3588,7 @@
     "faction:": "Northern Realms",
     "flavour": "I care only about what's good for Aretuza and my pupils.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/margarita-laux-antille-1.png",
-    "info": "Spawn\u00a0a\u00a0Ban Ard Adept\u00a0whenever a Gold card appears on your side.",
+    "info": "Spawn a Ban Ard Adept whenever a Gold card appears on your side.",
     "lane": [
       "Ranged"
     ],
@@ -3790,7 +3790,7 @@
     "faction:": "Scoia'tael",
     "flavour": "You exact from the earth a blood ransom, ripping out its riches by force. To us it bloomed, bore fruit and gave freely, for it loved us as we loved it.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/natures-gift-1.png",
-    "info": "Spawn a base copy of the last non-Gold Special Card played, then\u00a0banish.",
+    "info": "Spawn a base copy of the last non-Gold Special Card played, then banish.",
     "lane": [
       "Event"
     ],
@@ -3895,7 +3895,7 @@
     "faction:": "Monsters",
     "flavour": "Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/nithral-4.png",
-    "info": "Immune to Frost. Remove 2\u00a0strength from a random opposing non-Gold unit whenever a Wild Hunt unit appears on your side.",
+    "info": "Immune to Frost. Remove 2 strength from a random opposing non-Gold unit whenever a Wild Hunt unit appears on your side.",
     "lane": [
       "Melee"
     ],
@@ -3923,7 +3923,7 @@
     "faction:": "Neutral",
     "flavour": "The Master of Quartz Mountain, the Destroyer, Trajan's Slayer. In his free time, he likes long walks and candlelight dinners.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ocvist-2.png",
-    "info": "After 4\u00a0turns, remove 1 strength from all opposing\u00a0non-Gold units and return this card to your hand.",
+    "info": "After 4 turns, remove 1 strength from all opposing non-Gold units and return this card to your hand.",
     "lane": [
       "Siege"
     ],
@@ -3975,7 +3975,7 @@
     "faction:": "Neutral",
     "flavour": "At least you now know I don't easily lose my head.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/olgierd-1.png",
-    "info": "Resurrect at the start of the round and remove 2\u00a0base strength.",
+    "info": "Resurrect at the start of the round and remove 2 base strength.",
     "lane": [
       "Melee"
     ],
@@ -4005,7 +4005,7 @@
     "faction:": "Neutral",
     "flavour": "As time and space collapse before us, they expand behind us. In that way one moves forward through both.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/operator-4.png",
-    "info": "Choose a non-Gold unit in your hand (other than the Operator). Create an exact\u00a0copy in both players\u2019 hands. Banish\u00a0when destroyed.",
+    "info": "Choose a non-Gold unit in your hand (other than the Operator). Create an exact copy in both players\u2019 hands. Banish when destroyed.",
     "lane": [
       "Ranged"
     ],
@@ -4191,7 +4191,7 @@
     "faction:": "Neutral",
     "flavour": "Mooooooo.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/prize-winning-cow-2.png",
-    "info": "When removed from the battlfield, spawn a\u00a0Chort\u00a0on the row where this unit was.",
+    "info": "When removed from the battlfield, spawn a Chort on the row where this unit was.",
     "lane": [
       "Melee"
     ],
@@ -4219,7 +4219,7 @@
     "faction:": "Northern Realms",
     "flavour": "Not wealth or fame but intentions true -- that's what makes a hero of you!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/promote-2.png",
-    "info": "Convert all instances of a non-Gold unit on your side of the battlefield to Gold until removed from the battlefield\u00a0or the round ends.",
+    "info": "Convert all instances of a non-Gold unit on your side of the battlefield to Gold until removed from the battlefield or the round ends.",
     "lane": [
       "Event"
     ],
@@ -4303,7 +4303,7 @@
     "faction:": "Northern Realms",
     "flavour": "A king should be merciless towards his enemies and generous to his friends.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/radovid-2.png",
-    "info": "Remove 8\u00a0strength from any unit.",
+    "info": "Remove 8 strength from any unit.",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -4401,7 +4401,7 @@
     "faction:": "Northern Realms",
     "flavour": "See this here tattoo? 'At's me, hackin' at a dragon. A DRAGON, m'lady.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/reaver-hunter-1.png",
-    "info": "Add 1 strength to all your other Reaver Hunters, wherever they are. After 2 turns, play a Reaver Hunter\u00a0from your deck.",
+    "info": "Add 1 strength to all your other Reaver Hunters, wherever they are. After 2 turns, play a Reaver Hunter from your deck.",
     "lane": [
       "Ranged"
     ],
@@ -4505,7 +4505,7 @@
     "faction:": "Neutral",
     "flavour": "Men, the polite ones, at least, would call me a monster. A blood\u2013drinking freak.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/regis-1.png",
-    "info": "When removed from the battlefield, transform into\u00a0Regis: Higher Vampire and play.",
+    "info": "When removed from the battlefield, transform into Regis: Higher Vampire and play.",
     "lane": [
       "Melee"
     ],
@@ -4597,7 +4597,7 @@
     "faction:": "Northern Realms",
     "flavour": "Feel that? The earth trembles each time Big Bertha looses a stone.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/reinforced-trebuchet-3.png",
-    "info": "Every 3\u00a0turns, remove 2\u00a0strength from a random opposing non-Gold unit.",
+    "info": "Every 3 turns, remove 2 strength from a random opposing non-Gold unit.",
     "lane": [
       "Siege"
     ],
@@ -4694,7 +4694,7 @@
     "faction:": "Neutral",
     "flavour": "Geralt, we gotta have a man-to-horse talk. No offense, but your riding skills? They leave a bit to be desired, buddy.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/roach-3.png",
-    "info": "Play on a random row from\u00a0your deck or graveyard whenever a Gold card appears on your side.",
+    "info": "Play on a random row from your deck or graveyard whenever a Gold card appears on your side.",
     "lane": [
       "Ranged",
       "Melee",
@@ -4724,7 +4724,7 @@
     "faction:": "Northern Realms",
     "flavour": "The Daughter of the Kaedweni Wilderness.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/sabrina-glevissig-1.png",
-    "info": "When destroyed, remove 3\u00a0strength from all non-Gold units on its side.",
+    "info": "When destroyed, remove 3 strength from all non-Gold units on its side.",
     "lane": [
       "Ranged"
     ],
@@ -4749,7 +4749,7 @@
     "faction:": "Neutral",
     "flavour": "Little Sarah wants to play!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/sarah-1.png",
-    "info": "Immune to Weather. Gain 3 strength each time a Weather\u00a0effect appears.",
+    "info": "Immune to Weather. Gain 3 strength each time a Weather effect appears.",
     "lane": [
       "Siege"
     ],
@@ -4802,7 +4802,7 @@
     "faction:": "Skellige",
     "flavour": "\"Tame\"? Och, lad, Skelligers might train bears, but that don't at all mean they tame 'em\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/savage-bear-2.png",
-    "info": "Remove 1 strength from each non-Gold unit\u00a0played on the battlefield. Does not affect spawned units.",
+    "info": "Remove 1 strength from each non-Gold unit played on the battlefield. Does not affect spawned units.",
     "lane": [
       "Melee"
     ],
@@ -4896,7 +4896,7 @@
     "faction:": "Northern Realms",
     "flavour": "I'm a medic. I tend to know what I'm doing when I prescribe something.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/shani-4.png",
-    "info": "Resurrect a non-Gold,\u00a0non-Permadeath unit and convert it to Gold until removed from the battlefield or the round ends.",
+    "info": "Resurrect a non-Gold, non-Permadeath unit and convert it to Gold until removed from the battlefield or the round ends.",
     "lane": [
       "Ranged"
     ],
@@ -4952,7 +4952,7 @@
     "faction:": "Skellige",
     "flavour": "Fall on your knees and beg Modron Freya for forgiveness.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/sigrdrifa-4.png",
-    "info": "Resurrect\u00a0a non-Gold unit (can be Permadeath). Gain 1 strength whenever a unit is played from the graveyard.",
+    "info": "Resurrect a non-Gold unit (can be Permadeath). Gain 1 strength whenever a unit is played from the graveyard.",
     "lane": [
       "Siege"
     ],
@@ -5095,7 +5095,7 @@
     "faction:": "Neutral",
     "flavour": "The sorcerer Stammelford moved a mountain that obscured the view from his tower. Rumor has it he could only do so for he'd fettered a d'ao, an earth elemental.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/stammelfords-tremors-1.png",
-    "info": "Remove 2 strength from all\u00a0non-Gold units on both sides of the battlefield.",
+    "info": "Remove 2 strength from all non-Gold units on both sides of the battlefield.",
     "lane": [
       "Event"
     ],
@@ -5194,7 +5194,7 @@
     "faction:": "Neutral",
     "flavour": "A djinn, good sirs, fulfills but three wishes. Thus freed, it flees to dimensions unknown.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/the-last-wish-1.png",
-    "info": "Draw 2 cards.\u00a0Discard 2 cards.",
+    "info": "Draw 2 cards. Discard 2 cards.",
     "lane": [
       "Event"
     ],
@@ -5325,7 +5325,7 @@
     "faction:": "Neutral",
     "flavour": "I can take care of myself. Trust me.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/triss-merigold-1.png",
-    "info": "Remove 4 strength from\u00a0an\u00a0opposing unit.",
+    "info": "Remove 4 strength from an opposing unit.",
     "lane": [
       "Ranged"
     ],
@@ -5447,7 +5447,7 @@
     "faction:": "Northern Realms",
     "flavour": "Better to live one day as a king than a whole life as a beggar.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/ves-3.png",
-    "info": "Play a\u00a0Blue Stripes Commando\u00a0from your deck whenever a Gold card appears on your side.",
+    "info": "Play a Blue Stripes Commando from your deck whenever a Gold card appears on your side.",
     "lane": [
       "Melee"
     ],
@@ -5503,7 +5503,7 @@
     "faction:": "Neutral",
     "flavour": "Also calls himself Borkh Three Jackdaws\u2026 he's not the best at names.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/villentretenmerth.png",
-    "info": "After 3 turns,\u00a0destroy the strongest non-Gold unit(s) twice in a row.",
+    "info": "After 3 turns, destroy the strongest non-Gold unit(s) twice in a row.",
     "lane": [
       "Ranged"
     ],
@@ -5677,7 +5677,7 @@
     "faction:": "Scoia'tael",
     "flavour": "Temerians, Redanians, all the same. Better off dead.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/vrihedd-vanguard-4.png",
-    "info": "Spawn a\u00a0Commando Neophyte\u00a0on a random row.",
+    "info": "Spawn a Commando Neophyte on a random row.",
     "lane": [
       "Ranged",
       "Melee",
@@ -5704,7 +5704,7 @@
     "faction:": "Skellige",
     "flavour": "They say Hemdall's heart swells whenever the longships sail out on a raid.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/war-longship-2.png",
-    "info": "Remove 2 strength from a random opposing non-Gold unit whenever a unit on your side is destroyed or\u00a0you discard a unit.",
+    "info": "Remove 2 strength from a random opposing non-Gold unit whenever a unit on your side is destroyed or you discard a unit.",
     "lane": [
       "Siege"
     ],
@@ -5876,7 +5876,7 @@
     "faction:": "Monsters",
     "flavour": "We never hunt in these woods. Not even if it means the whole village'll starve.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/woodland-spirit.png",
-    "info": "Immune to Fog. Spawn a\u00a0Fog\u00a0effect and 3 Rabid Wolves.",
+    "info": "Immune to Fog. Spawn a Fog effect and 3 Rabid Wolves.",
     "lane": [
       "Ranged"
     ],
