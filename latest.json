@@ -12,6 +12,7 @@
     "flavour": "The beast rushed at them, wildly, with fury in its eyes, immune to pain and any strikes the defenders could land. Nothing stood to stop it\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/adrenaline-rush-1.png",
     "info": "Keep a non-Gold unit on the battlefield at the end of this round.",
+    "key": "adrenaline_rush",
     "lane": [
       "Event"
     ],
@@ -36,6 +37,7 @@
     "flavour": "Better to die standing than to live on bent knee.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/aelirenn-3.png",
     "info": "Play immediately from your deck whenever there are 5 or more revealed Elf units on your side.",
+    "key": "aelirenn",
     "lane": [
       "Ranged",
       "Melee",
@@ -66,6 +68,7 @@
     "flavour": "The druid Vaedermakar controls the elements. He soothes storms into silence, musters destructive hail, summons lightning to turn foes into ash. So I advise you well\u2026 treat him with utmost respect.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/aeromancy-1.png",
     "info": "Spawn a Biting Frost, Impenetrable Fog or Torrential Rain card.",
+    "key": "aeromancy",
     "lane": [
       "Event"
     ],
@@ -90,6 +93,7 @@
     "flavour": "Brokilon bleeds\u2026 and not even I can heal it.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/agalis-1.png",
     "info": "Resurrect a non-Gold Special Card from either graveyard.",
+    "key": "aglais",
     "lane": [
       "Ranged",
       "Melee",
@@ -120,6 +124,7 @@
     "flavour": "A few of Alzur's monstrous creations roam the world still. Not least among them the horrid viy, who massacred its mage-creator and destroyed half of Maribor before fleeing into Riverdell's gloomy woodland.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/alzurs-double-cross.png",
     "info": "Play the strongest non-Gold unit from your deck. Ties are resolved randomly.",
+    "key": "alzurs_double_cross",
     "lane": [
       "Event"
     ],
@@ -144,6 +149,7 @@
     "flavour": "We stand not the slightest chance of incanting a spell so complex as Alzur's Thunder. It is claimed Alzur had a voice like a hunting horn and the diction of a master orator.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/alzurs-thunder-1.png",
     "info": "Remove 7 strength from a non-Gold unit.",
+    "key": "alzurs_thunder",
     "lane": [
       "Event"
     ],
@@ -165,6 +171,7 @@
     "flavour": "Many primal fears lurk in the hearts of men. The fear of the mist is well\u2013founded\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/ancient-foglet-3.png",
     "info": "Immune to Fog. Gain 1 strength at the start of your turn if on a row affected by Fog.",
+    "key": "ancient_foglet",
     "lane": [
       "Ranged"
     ],
@@ -193,6 +200,7 @@
     "flavour": "Ugly \u2013 nature's way of saying \"stay away.\"",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/arachas-1.png",
     "info": "Play all Arachasae from your deck.",
+    "key": "arachas",
     "lane": [
       "Ranged"
     ],
@@ -218,6 +226,7 @@
     "flavour": "Like a cross between a crab, a spider\u2026 and a mountain.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/arachas-behemoth-1.png",
     "info": "Spawn an Arachas whenever a unit on your side absorbs strength.",
+    "key": "arachas_behemoth",
     "lane": [
       "Siege"
     ],
@@ -243,6 +252,7 @@
     "flavour": "It's a griffin, just more... griffiny.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/archgriffin-2.png",
     "info": "Remove Weather from its row and reset all weakened non-immune units there to their base strength.",
+    "key": "archgriffin",
     "lane": [
       "Ranged",
       "Melee",
@@ -270,6 +280,7 @@
     "flavour": "You humans have\u2026 unusual tastes.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/avallach-1.png",
     "info": "Draw 2 cards. Your opponent draws 1 card.",
+    "key": "avallach",
     "lane": [
       "Siege"
     ],
@@ -295,6 +306,7 @@
     "flavour": "What crossbows want to be when they grow up.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ballista-1.png",
     "info": "Remove 2 strength from an opposing non-Gold unit.",
+    "key": "ballista",
     "lane": [
       "Siege"
     ],
@@ -316,6 +328,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms.png",
     "info": "",
+    "key": "ban_ard_adept",
     "lane": [
       "Siege"
     ],
@@ -337,6 +350,7 @@
     "flavour": "Our mead smells rotten to ye, do it? Easy to fix \u2013 I'll break yer nose!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/barclay-els-1.png",
     "info": "Add 1 strength to all your Dwarf units, wherever they are.",
+    "key": "barclay_els",
     "lane": [
       "Siege"
     ],
@@ -358,6 +372,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
     "info": "Gain 2 strength for each weakened unit on the battlefield.",
+    "key": "bear",
     "lane": [
       "Melee"
     ],
@@ -379,6 +394,7 @@
     "flavour": "Gaze long into the abyss, and the abyss will gaze back into you.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/bekkers-twisted-mirror-1.png",
     "info": "Swap the strength of the strongest and the weakest units on the battlefield. Ties are resolved randomly.",
+    "key": "bekkers_twisted_mirror",
     "lane": [
       "Event"
     ],
@@ -403,6 +419,7 @@
     "flavour": "Now finish your soup, or a berserker'll come and swallow ye whole.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/berserker-1.png",
     "info": "When moved to the graveyard, transform into a Bear.",
+    "key": "berserker",
     "lane": [
       "Melee"
     ],
@@ -428,6 +445,7 @@
     "flavour": "Skellige must have a strong king. No matter what it takes.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/birna-bran-2.png",
     "info": "Draw 3 cards. Keep 1 and discard the rest.",
+    "key": "birna_bran",
     "lane": [
       "Ranged"
     ],
@@ -457,6 +475,7 @@
     "flavour": "Best thing about frost? Bodies of the fallen don't rot so quickly.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/biting-frost-4.png",
     "info": "Spawn a Frost effect on both Melee rows that sets the strength of all non-Gold units on or appearing there to 1.",
+    "key": "biting_frost",
     "lane": [
       "Event"
     ],
@@ -478,6 +497,7 @@
     "flavour": "I've not been a good father, I know, but\u2026 perhaps it's not too late.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/bloody-baron-1.png",
     "info": "Spawn a Botchling or a Lubberkin.",
+    "key": "bloody_baron",
     "lane": [
       "Siege"
     ],
@@ -506,6 +526,7 @@
     "flavour": "By the time we'd heard them, it was already too late\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/blue-mountain-commando-2.png",
     "info": "Return a Bronze, non-Relentless unit on your side (other than a Blue Mountain Commando) to your hand and immediately play it again.",
+    "key": "blue_mountain_commando",
     "lane": [
       "Ranged",
       "Melee",
@@ -536,6 +557,7 @@
     "flavour": "I'd do anything for Temeria. Mostly though, I kill for her.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/blue-stripes-commando-2.png",
     "info": "Add 2 strength to all your other Blue Stripes Commandos, wherever they are.",
+    "key": "blue_stripes_commando",
     "lane": [
       "Melee"
     ],
@@ -564,6 +586,7 @@
     "flavour": "Blue Stripes and Scoia'tael are similar in one regard \u2013 hatred fuels both.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/blue-stripes-scout-2.png",
     "info": "Add 4 strength to a non-Gold unit on your side of the battlefield.",
+    "key": "blue_stripes_scout",
     "lane": [
       "Ranged"
     ],
@@ -589,6 +612,7 @@
     "flavour": "I'm near ready to puke from boredom.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/blueboy-lugos-2.png",
     "info": "Spawn a Spectral Whale on a random row on the opposite side.",
+    "key": "blueboy_lugos",
     "lane": [
       "Melee"
     ],
@@ -610,6 +634,7 @@
     "flavour": "Admit your mistakes and bury them proper - else they'll come back to haunt you.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms.png",
     "info": "Keep on the battlefield at the end of this round.",
+    "key": "botchling",
     "lane": [
       "Melee"
     ],
@@ -634,6 +659,7 @@
     "flavour": "Mona\u2026? No\u2026 no. I'm Braenn. A daughter of Brokilon.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/braenn-2.png",
     "info": "Remove an amount equal to this unit\u2019s strength from an opposing non-Gold unit.",
+    "key": "braenn",
     "lane": [
       "Ranged",
       "Melee",
@@ -664,6 +690,7 @@
     "flavour": "That doddery dolt? Ye cannae even tell if he's alive or stuffed!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/brouver-hoog-3.png",
     "info": "Play a Silver card from your deck.",
+    "key": "brouver_hoog",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -685,6 +712,7 @@
     "flavour": "A favorite son who chose a life of villainy.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/caranthir-3.png",
     "info": "Immune to Frost. Spawn a Frost effect and 2 Wild Hunt Hounds.",
+    "key": "caranthir",
     "lane": [
       "Melee"
     ],
@@ -713,6 +741,7 @@
     "flavour": "There are more things in heaven and earth than all the world's philosopher's have dreamt.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/caretaker-4.png",
     "info": "Resurrect a non-Gold unit (can be Permadeath) from your opponent\u2019s graveyard.",
+    "key": "caretaker",
     "lane": [
       "Siege"
     ],
@@ -738,6 +767,7 @@
     "flavour": "They call me Sparrowhawk. Know why? Because I eat rats like you for breakfast.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/cerys-2.png",
     "info": "When moved to graveyard, convert to Silver.",
+    "key": "cerys",
     "lane": [
       "Melee"
     ],
@@ -763,6 +793,7 @@
     "flavour": "He'll not reveal his name till he's defeated. He's a troll errant, see?",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/champion-of-champions.png",
     "info": "Gain 2 strength at the start of your turn if it\u2019s the sole unit on its row.",
+    "key": "champion_of_champions",
     "lane": [
       "Ranged",
       "Melee",
@@ -783,6 +814,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "Remove 2 strength from all other units.",
+    "key": "chironex",
     "lane": [
       "Siege"
     ],
@@ -797,6 +829,7 @@
     "flavour": "A member of the Bovine Defense Force. Semper fi!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "No ability.",
+    "key": "chort",
     "lane": [
       "Ranged",
       "Melee",
@@ -821,6 +854,7 @@
     "flavour": "The path to freedom is paved in blood, not ink.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ciaran-1.png",
     "info": "Ambush: When the round ends, return to the hand of the current owner if that player lost.",
+    "key": "ciaran",
     "lane": [
       "Ranged",
       "Melee",
@@ -849,6 +883,7 @@
     "flavour": "I go wherever I please, whenever I please.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/ciri-3.png",
     "info": "Return to your hand if you lose the round.",
+    "key": "ciri",
     "lane": [
       "Melee"
     ],
@@ -874,6 +909,7 @@
     "flavour": "Know when fairy tales cease to be tales? When people start believing them.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/ciri-dash.png",
     "info": "When destroyed, move to your deck and gain 3 base strength.",
+    "key": "ciri_dash",
     "lane": [
       "Ranged"
     ],
@@ -899,6 +935,7 @@
     "flavour": "Our clan's bards will sing of my deeds long after you're dead and forgotten!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/clan-an-craite-warrior-2.png",
     "info": "Lose 2 strength.",
+    "key": "clan_an_craite_warrior",
     "lane": [
       "Melee"
     ],
@@ -924,6 +961,7 @@
     "flavour": "So ye can hit a movin' target at two hundred paces? Me, too. In a storm.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-archer-1.png",
     "info": "Immune to Rain. Remove 1 strength from 3 non-Gold unit(s).",
+    "key": "clan_brokvar_archer",
     "lane": [
       "Siege"
     ],
@@ -949,6 +987,7 @@
     "flavour": "Better believe we can hunt. Thing is, not much game on Undvik\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-hunter-1.png",
     "info": "Remove 3 strength from a non-Gold unit.",
+    "key": "clan_brokvar_hunter",
     "lane": [
       "Ranged"
     ],
@@ -974,6 +1013,7 @@
     "flavour": "Can see the fear in their eyes. Fear o' me\u2026 fear o' Clan Dimun!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-dimun-pirate-2.png",
     "info": "Immune to Fog. Discard all Clan Dimun Pirates from your deck.",
+    "key": "clan_dimun_pirate",
     "lane": [
       "Ranged"
     ],
@@ -999,6 +1039,7 @@
     "flavour": "Haul together, hoist the colors high!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/clan-dimun-pirate-captain-4.png",
     "info": "Immune to Fog. Gain 2 strength whenever you discard a unit.",
+    "key": "clan_dimun_pirate_captain",
     "lane": [
       "Ranged"
     ],
@@ -1024,6 +1065,7 @@
     "flavour": "The deeds of Clan Heymaey will go down in history.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-heymaey-skald-1.png",
     "info": "Add 2 strength to all other non-Gold units on the row.",
+    "key": "clan_heymaey_skald",
     "lane": [
       "Ranged",
       "Melee",
@@ -1051,6 +1093,7 @@
     "flavour": "Remember me words \u2013 a good shield can save yer life.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-tordarroch-shieldsmith-3.png",
     "info": "Add 2 base strength to a non-Gold unit on your side of the battlefield.",
+    "key": "clan_tordarroch_shieldsmith",
     "lane": [
       "Siege"
     ],
@@ -1076,6 +1119,7 @@
     "flavour": "Swords are for wenches. Get yourself an axe.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-axeman-1.png",
     "info": "Gain 2 strength whenever another unit on your side is weakened.",
+    "key": "clan_tuirseach_axeman",
     "lane": [
       "Ranged"
     ],
@@ -1101,6 +1145,7 @@
     "flavour": "Friends we show heart, foes we show our axe. Remember that.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-skirmishers-1.png",
     "info": "When resurrected, gain 4 base strength.",
+    "key": "clan_tuirseach_skirmishers",
     "lane": [
       "Melee"
     ],
@@ -1126,6 +1171,7 @@
     "flavour": "We are an Craite! What others buy with gold, we buy with our lifeblood.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/clan-an-craite-raider-2.png",
     "info": "Resurrect when discarded.",
+    "key": "clan_an_craite_raider",
     "lane": [
       "Melee"
     ],
@@ -1151,6 +1197,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/clear-skies-3.png",
     "info": "Remove all Weather effects and reset all weakened non-immune units on affected rows to their base strength.",
+    "key": "clear_skies",
     "lane": [
       "Event"
     ],
@@ -1172,6 +1219,7 @@
     "flavour": "Plus one to morale, minus one to hearing.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/commanders-horn-3.png",
     "info": "Double the strength of all non-Gold units on a row on your side, then banish.",
+    "key": "commanders_horn",
     "lane": [
       "Event"
     ],
@@ -1189,6 +1237,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-scoiatael.png",
     "info": "No ability.",
+    "key": "commando_neophyte",
     "lane": [
       "Ranged",
       "Melee",
@@ -1212,6 +1261,7 @@
     "flavour": "Her true name's Astrid Lyttneyd Asgeirrfinnbjornsdottir, but that never fit on any forms.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coral-1.png",
     "info": "Spawn Fog and Rain effects on the opposing side only.",
+    "key": "coral",
     "lane": [
       "Ranged"
     ],
@@ -1237,6 +1287,7 @@
     "flavour": "Nilfgaardians call 'im Tirth ys Muire, the Wild Boar o' the Sea. Use 'im to scare their kiddies!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/crach-an-craite-4.png",
     "info": "Spawn 2 Clan an Craite Warriors.",
+    "key": "crach_an_craite",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -1251,6 +1302,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
     "info": "Add 2 strength to any non-Gold unit appearing on the row.",
+    "key": "craven_revived",
     "lane": [
       "Ranged",
       "Melee",
@@ -1271,6 +1323,7 @@
     "flavour": "We'll cut you up, boy. A fine broth you will make.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/crone-brewess-2.png",
     "info": "Play all Crone units from your deck.",
+    "key": "crone_brewess",
     "lane": [
       "Siege"
     ],
@@ -1296,6 +1349,7 @@
     "flavour": "I sense your pain. I see your fear.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-2.png",
     "info": "Play all Crone units from your deck.",
+    "key": "crone_weavess",
     "lane": [
       "Siege"
     ],
@@ -1321,6 +1375,7 @@
     "flavour": "I'd be your best \u2013 and last.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/crone-whispess-3.png",
     "info": "Play all Crone units from your deck.",
+    "key": "crone_whispess",
     "lane": [
       "Siege"
     ],
@@ -1349,6 +1404,7 @@
     "flavour": "That is not dead which can eternal lie, and with strange aeons even death may die.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/dagon-4.png",
     "info": "Spawn a Biting Frost, Impenetrable Fog Torrential Rain or First Light card.",
+    "key": "dagon",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -1367,6 +1423,7 @@
     "flavour": "Dandelion, you're a cynic, a lecher, a liar \u2013 and my best friend.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/dandelion-4.png",
     "info": "Add 2 strength to each non-Gold unit played on your side and 1 strength to each played on the opposing side. Does not affect spawned units.",
+    "key": "dandelion",
     "lane": [
       "Melee"
     ],
@@ -1396,6 +1453,7 @@
     "flavour": "When you run out of peasants, decoys also make decent arrow fodder.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/decoy-3.png",
     "info": "Return a non-Gold, non-Relentless unit on your side to your hand, then banish.",
+    "key": "decoy",
     "lane": [
       "Event"
     ],
@@ -1417,6 +1475,7 @@
     "flavour": "Really believe you can dupe me with that tale you just pulled from your arse?",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/dijkstra-3.png",
     "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain 1 strength for each unit converted.",
+    "key": "dijkstra",
     "lane": [
       "Siege"
     ],
@@ -1445,6 +1504,7 @@
     "flavour": "An important part of every Witch Hunter's kit. In one muted flash, it turns the most powerful sorcerer into pork jelly ripe for cutting.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/dimeritium-bomb-1.png",
     "info": "Reset all units on the battlefield to their base strength.",
+    "key": "dimeritium_bomb",
     "lane": [
       "Event"
     ],
@@ -1469,6 +1529,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/dimeritium-shackles.png",
     "info": "Reset any unit on the battlefield to its base strength. If Gold, convert it to Silver (or Bronze, if that was its original color).",
+    "key": "dimeritium_shackles",
     "lane": [
       "Event"
     ],
@@ -1493,6 +1554,7 @@
     "flavour": "Take another step, dh'oine. You'd look better with an arrow between your eyes.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-archer-1.png",
     "info": "Remove 5 strength from an opposing non-Gold unit.",
+    "key": "dol_blathanna_archer",
     "lane": [
       "Ranged",
       "Melee",
@@ -1524,6 +1586,7 @@
     "flavour": "They track like hounds, run like deer and kill like heartless demons.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-trapper-2.png",
     "info": "Ambush: When a revealed non-Gold unit appears on the row, remove 5 strength from all non-Gold units on the row (except self).",
+    "key": "dol_blathanna_trapper",
     "lane": [
       "Ranged",
       "Melee",
@@ -1552,6 +1615,7 @@
     "flavour": "I've gathered all the jarls together. Now make your case.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/donar-an-hindar-3.png",
     "info": "Draw 1 card and discard 1 random non-Gold card from your deck.",
+    "key": "donar_an_hindar",
     "lane": [
       "Ranged"
     ],
@@ -1577,6 +1641,7 @@
     "flavour": "Hear ye now the tale of the heroic deeds of Clan an Craite.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/draig-bon-dhu-2.png",
     "info": "Add 2 base strength to all non-Gold units in your graveyard.",
+    "key": "draig_bon\u2013dhu",
     "lane": [
       "Siege"
     ],
@@ -1602,6 +1667,7 @@
     "flavour": "Some men cannot admit defeat. Some keep fighting from beyond the grave.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/draug-2.png",
     "info": "Destroy all non-Gold units with 3 strength or lower on both sides of the battlefield.",
+    "key": "draug",
     "lane": [
       "Melee"
     ],
@@ -1627,6 +1693,7 @@
     "flavour": "Though the witchman lusts for gold, for the smiting of a drowner thou shalt give him but a silver penny, or three halfpence, at most.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/drowner-2.png",
     "info": "Immune to Rain. Move an opposing non-Gold unit to that side\u2019s Siege row.",
+    "key": "drowner",
     "lane": [
       "Siege"
     ],
@@ -1652,6 +1719,7 @@
     "flavour": "A mimic, among the many other name for his sort: changelings, doublings, vexlings... or dopplers.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/dudu.png",
     "info": "Set strength to that of an opposing non-Gold unit.",
+    "key": "dudu",
     "lane": [
       "Ranged"
     ],
@@ -1677,6 +1745,7 @@
     "flavour": "Always wondered \u2013 how the blazes do those lads handle nature's call\u2026?",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/dun-banner-heavy-cavalry-2.png",
     "info": "After 2 turns, convert to Gold until removed from the battlefield or the round ends.",
+    "key": "dun_banner_heavy_cavalry",
     "lane": [
       "Siege"
     ],
@@ -1702,6 +1771,7 @@
     "flavour": "Stay calm, everyone. And be alert. The true owners of those cloaks and beaver-skin caps might be elsewhere.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/dun-banner-light-cavalry-2.png",
     "info": "No ability.",
+    "key": "dun_banner_light_cavalry",
     "lane": [
       "Ranged"
     ],
@@ -1730,6 +1800,7 @@
     "flavour": "The key's mixin' pleasure an' business \u2013 like smackin' foes and gettin' coin for it.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/dwarven-mercenary-2.png",
     "info": "Gain 2 strength for each Dwarf unit on your side of the battlefield.",
+    "key": "dwarven_mercenary",
     "lane": [
       "Ranged"
     ],
@@ -1758,6 +1829,7 @@
     "flavour": "Worked a pickaxe all me life. Battleaxe won't be any trouble.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/dwarven-skirmisher-1.png",
     "info": "Remove 3 strength from an opposing non-Gold unit. If it is not destroyed, gain 2 strength.",
+    "key": "dwarven_skirmisher",
     "lane": [
       "Siege"
     ],
@@ -1783,6 +1855,7 @@
     "flavour": "How do you fight an earth elemental? You don't. You run. Fast as you can.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/earth-elemental-1.png",
     "info": "When removed from the battlefield, spawn 3 Lesser Earth Elementals on the row where this unit was.",
+    "key": "earth_elemental",
     "lane": [
       "Melee"
     ],
@@ -1811,6 +1884,7 @@
     "flavour": "The dryad queen has eyes of molten silver, and a heart of cold\u2013forged steel.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/eithne.png",
     "info": "Return a non-Relentless unit on your side to your hand and immediately play it again.",
+    "key": "eithn\u00e9",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -1832,6 +1906,7 @@
     "flavour": "Who would think that overgrown bats would have a taste for gaudy jewelry?",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ekimmara-1.png",
     "info": "Destroy a non-Gold unit on your side and absorb its strength.",
+    "key": "ekimmara",
     "lane": [
       "Melee"
     ],
@@ -1860,6 +1935,7 @@
     "flavour": "Love justifies madness in any of its forms.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/eleyas-2.png",
     "info": "Gain 3 strength whenever a Commando Neophyte unit appears on your side.",
+    "key": "eleyas",
     "lane": [
       "Ranged",
       "Melee",
@@ -1890,6 +1966,7 @@
     "flavour": "I spit on Scoia'tael ideals, but not on their coin.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/elven-mercenary-1.png",
     "info": "Play a random non-Gold Special Card from your deck.",
+    "key": "elven_mercenary",
     "lane": [
       "Ranged",
       "Melee",
@@ -1917,6 +1994,7 @@
     "flavour": "You mean to say the she\u2013elf danced amidst the fray? Have you lost your mind, corporal?!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/elven-wardancer-2.png",
     "info": "Gain 4 strength whenever an Ambush is played.",
+    "key": "elven_wardancer",
     "lane": [
       "Ranged",
       "Melee",
@@ -1947,6 +2025,7 @@
     "flavour": "Epidemics respect no persons, no borders.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/epidemic-3.png",
     "info": "Destroy the weakest non-Gold unit(s) on the battlefield.",
+    "key": "epidemic",
     "lane": [
       "Event"
     ],
@@ -1971,6 +2050,7 @@
     "flavour": "Have some dignity. You know how this will end.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/eredin-4.png",
     "info": "Play Eredin.",
+    "key": "eredin",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -1988,6 +2068,7 @@
     "flavour": "Have some dignity. You know how this will end.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/eredein-token.png",
     "info": "Immune to Frost.",
+    "key": "eredin_token",
     "lane": [
       "Melee"
     ],
@@ -2008,6 +2089,7 @@
     "flavour": "Only the ignorant dismiss the importance of myths.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ermion-2.png",
     "info": "If possible, discard 2 cards and draw 2 cards.",
+    "key": "ermion",
     "lane": [
       "Siege"
     ],
@@ -2036,6 +2118,7 @@
     "flavour": "I'm a simple witcher, Wolf. Don't fight dragons, don't fraternize with kings and don't sleep with sorceresses\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/eskel-2.png",
     "info": "Play Vesemir and Lambert from your deck.",
+    "key": "eskel",
     "lane": [
       "Melee"
     ],
@@ -2057,6 +2140,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "Remove 2 strength from all other non-Gold units on the row.",
+    "key": "field_marshal_duda_agitator",
     "lane": [
       "Ranged",
       "Melee",
@@ -2075,6 +2159,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "Add 2 strength to all other non-Gold units on the row.",
+    "key": "field_marshal_duda_companion",
     "lane": [
       "Ranged",
       "Melee",
@@ -2098,6 +2183,7 @@
     "flavour": "Stitch red to red, white to white, and everything will be all right.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/field-medic-1.png",
     "info": "Resurrect a random non-Gold unit, non-Permadeath unit.",
+    "key": "field_medic",
     "lane": [
       "Melee"
     ],
@@ -2123,6 +2209,7 @@
     "flavour": "A fiend looks a bit like a deer. An enormous, evil deer.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/fiend-2.png",
     "info": "No ability.",
+    "key": "fiend",
     "lane": [
       "Melee"
     ],
@@ -2148,6 +2235,7 @@
     "flavour": "Can't stand the heat? Then you don't stand a chance.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/fire-elemental-1.png",
     "info": "Spawn a Lesser Fire Elemental on this unit\u2019s row at the start of your turn.",
+    "key": "fire_elemental",
     "lane": [
       "Ranged"
     ],
@@ -2176,6 +2264,7 @@
     "flavour": "Careful\u2026! One more step and you'll be turned into molten glass.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/fireball-trap.png",
     "info": "Ambush: When a revealed non-Gold unit appears on the opposite side, remove 5 strength from it.",
+    "key": "fireball_trap",
     "lane": [
       "Ranged",
       "Melee",
@@ -2207,6 +2296,7 @@
     "flavour": "The sun's shinin', Dromle! The sun's shinin'! Maybe there's hope after all\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/clear-skies-3.png",
     "info": "Spawn either a Clear Skies or a Rally effect.",
+    "key": "first_light",
     "lane": [
       "Event"
     ],
@@ -2228,6 +2318,7 @@
     "flavour": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/foglet-3.png",
     "info": "Immune to Fog. Play from your deck or graveyard whenever Fog is spawned. Gain 1 strength whenever a Fog effect is applied. Destroy when moved outside of Fog or Fog is removed.",
+    "key": "foglet",
     "lane": [
       "Ranged"
     ],
@@ -2253,6 +2344,7 @@
     "flavour": "Don't need advisors and their schemes. I place my trust in my soldiers' blades.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/foltest-2.png",
     "info": "Choose a Bronze unit on your side of the battlefield. Spawn an exact copy on the same row.",
+    "key": "foltest",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -2274,6 +2366,7 @@
     "flavour": "To live in peace, we first must kill. This is human oppression's cruel finale.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/francesca-2.png",
     "info": "Redraw up to 3 cards.",
+    "key": "francesca",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -2292,6 +2385,7 @@
     "flavour": "\u201dWhat have I done?\u201d the mage cried out, frightened of his own creation.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/frightener-5.png",
     "info": "Every 2 turns, if possible, banish a random non-Gold Special Card in your graveyard and gain 3 strength.",
+    "key": "frightener",
     "lane": [
       "Siege"
     ],
@@ -2317,6 +2411,7 @@
     "flavour": "He always grants exactly what you wish for. That's the problem.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/gaunter-odimm-2.png",
     "info": "Spawn 3 Shadows.",
+    "key": "gaunter_odimm",
     "lane": [
       "Siege"
     ],
@@ -2345,6 +2440,7 @@
     "flavour": "If that's what it takes to save the world, it's better to let that world die.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/geralt-1.png",
     "info": "No ability.",
+    "key": "geralt",
     "lane": [
       "Melee"
     ],
@@ -2370,6 +2466,7 @@
     "flavour": "A blast of concentrated energy that pummels everything in its path. Great for when you forget your keys.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/geralt-aard-1.png",
     "info": "Move all non-Gold units on the opposite row one row back. Remove 1 strength from all moved units.",
+    "key": "geralt_aard",
     "lane": [
       "Ranged",
       "Melee",
@@ -2400,6 +2497,7 @@
     "flavour": "A twist of a witcher's fingers can light a lamp\u2026 or incinerate a foe.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/geralt-igni-3.png",
     "info": "Destroy the strongest non-Gold unit(s) on the opposite row if that row totals 20 or more strength.",
+    "key": "geralt_igni",
     "lane": [
       "Ranged",
       "Melee",
@@ -2430,6 +2528,7 @@
     "flavour": "Paintings should convey emotion, not words.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/geels-2.png",
     "info": "Set the strength of all non-Gold units on one of your rows to 6.",
+    "key": "geels",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -2448,6 +2547,7 @@
     "flavour": "If ghouls are part of the Circle of Life\u2026 then it's one vicious circle.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ghoul-1.png",
     "info": "Banish a random non-Gold unit in either graveyard from the game and absorb its strength.",
+    "key": "ghoul",
     "lane": [
       "Melee"
     ],
@@ -2473,6 +2573,7 @@
     "flavour": "Big, bad, ugly. Squats in the sewers.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/giant-toad-3.png",
     "info": "If possible, discard a non-Gold unit, absorb its strength and draw a card.",
+    "key": "giant_toad",
     "lane": [
       "Siege"
     ],
@@ -2498,6 +2599,7 @@
     "flavour": "Does not drink. Does not eat. Does walk, however. And fight.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/golem-4.png",
     "info": "When removed from the battlefield, spawn 2 Lesser Golem on the row where this unit was.",
+    "key": "golem",
     "lane": [
       "Melee"
     ],
@@ -2523,6 +2625,7 @@
     "flavour": "Their long tongues're for slurping marrow \u2013 and whipping prey.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/grave-hag-3.png",
     "info": "After 1 turn, banish all non-Gold units in your graveyard and gain 1 strength for each.",
+    "key": "grave_hag",
     "lane": [
       "Ranged"
     ],
@@ -2548,6 +2651,7 @@
     "flavour": "An archdruid, a master of alchemy, and the grumpiest old fart in the Isles.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/gremist-1.png",
     "info": "Remove 2 strength from 3 non-Gold units on your sideof the battlefield. Gain 3 strength for each.",
+    "key": "gremist",
     "lane": [
       "Siege"
     ],
@@ -2573,6 +2677,7 @@
     "flavour": "Griffins like to toy with their prey. Eat 'em alive, piece by piece.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/griffin-3.png",
     "info": "Move a non-Gold unit from your opponent\u2019s graveyard to your own.",
+    "key": "griffin",
     "lane": [
       "Siege"
     ],
@@ -2598,6 +2703,7 @@
     "flavour": "No one knows how he got his nickname \u2013 no one's dared to ask.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/harald-the-cripple-2.png",
     "info": "Remove 3 strength from all weakened opposing units and 2 strength from all other opposing units.",
+    "key": "harald_the_cripple",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -2619,6 +2725,7 @@
     "flavour": "Sure, I'll patch you up. Gonna cost you though.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/hawker-healer-2.png",
     "info": "Add 3 strength to all other non-Gold units on the row.",
+    "key": "hawker_healer",
     "lane": [
       "Ranged",
       "Melee",
@@ -2646,6 +2753,7 @@
     "flavour": "Elf, dwarf, makes no difference \u2013 long as they've got coin.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/hawker-support-2.png",
     "info": "Gain 3 strength whenever you play a Special Card.",
+    "key": "hawker_support",
     "lane": [
       "Ranged",
       "Melee",
@@ -2669,6 +2777,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
     "info": "Destroy all non-Gold units on both sides of the battlefield and remove all Weather effects.",
+    "key": "hemdall",
     "lane": [
       "Melee"
     ],
@@ -2687,6 +2796,7 @@
     "flavour": "King Henselt did not look like a thief, but, with all due respect, that's really what he was.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/henselt-2.png",
     "info": "Convert all units on one of your rows to Gold until removed from the battlefield or the round ends.",
+    "key": "henselt",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -2705,6 +2815,7 @@
     "flavour": "Instead of mournin' the fallen, let's drink to their memory!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/hjalmar-3.png",
     "info": "Spawn a Lord of Undvik on the opposite side.",
+    "key": "hjalmar",
     "lane": [
       "Melee"
     ],
@@ -2730,6 +2841,7 @@
     "flavour": "Now let's drink to Emperor of Nilfgaard \u2013 may he die of somethin' hideous!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/holger-blackhand-1.png",
     "info": "Immune to Fog. Remove 2 strength from 3 non-Gold units.",
+    "key": "holger_blackhand",
     "lane": [
       "Ranged"
     ],
@@ -2755,6 +2867,7 @@
     "flavour": "Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/ice-giant-4.png",
     "info": "Immune to Frost. Gain 7 strength while on a row affected by Frost.",
+    "key": "ice_giant",
     "lane": [
       "Melee"
     ],
@@ -2785,6 +2898,7 @@
     "flavour": "I am a Sage. My power lies in possessing knowledge. Not sharing it.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ida-emean-1.png",
     "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects.",
+    "key": "ida_emean",
     "lane": [
       "Ranged",
       "Melee",
@@ -2816,6 +2930,7 @@
     "flavour": "Ladd nahw! Kill them! Litter the earth with their entrails!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/imlerith-4.png",
     "info": "Immune to Frost. Remove 3 strength from an opposing unit and 1 strength from all other units on its row.",
+    "key": "imlerith",
     "lane": [
       "Melee"
     ],
@@ -2845,6 +2960,7 @@
     "flavour": "A good commander's dream\u2026 and a bad one's horror.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/impenetrable-fog-4.png",
     "info": "Spawn a Fog effect on both Ranged rows that sets the strength of all non-Gold units on or appearing there to 1.",
+    "key": "impenetrable_fog",
     "lane": [
       "Event"
     ],
@@ -2869,6 +2985,7 @@
     "flavour": "King or beggar, what's the difference? One dh'oine less.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/iorveth-1.png",
     "info": "Remove 6 strength from an opposing unit.",
+    "key": "iorveth",
     "lane": [
       "Ranged",
       "Melee",
@@ -2896,6 +3013,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/iris-von-everec.png",
     "info": "When destroyed, add 3 strength to all opposing non-Gold units.",
+    "key": "iris",
     "lane": [
       "Siege"
     ],
@@ -2924,6 +3042,7 @@
     "flavour": "It dawns on them once they notice my scar: a realization of imminent death.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/isengrim-1.png",
     "info": "Spawn 1 Commando Neophytes on random row whenever you play a Special Card.",
+    "key": "isengrim",
     "lane": [
       "Ranged",
       "Melee",
@@ -2951,6 +3070,7 @@
     "flavour": "That square should bear the names of my soldiers, of the dead. Not mine.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/john-natalis-1.png",
     "info": "Add 3 strength to 3 non-Gold units on your side of the battlefield.",
+    "key": "john_natalis",
     "lane": [
       "Melee"
     ],
@@ -2980,6 +3100,7 @@
     "flavour": "Life without savoring the sound of \"surreptitious shananacking\" is like licking snails through a cloth.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/johnny-1.png",
     "info": "Move a card in your hand to the bottom of your deck. Create in your hand a base copy of another card of the same color randomly chosen from both players\u2019 cars (all locations). Banish when destroyed.",
+    "key": "johnny",
     "lane": [
       "Siege"
     ],
@@ -3005,6 +3126,7 @@
     "flavour": "Some call her the \"Iron Maiden.\"",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/jutta-an-dimun-1.png",
     "info": "No ability.",
+    "key": "jutta_an_dimun",
     "lane": [
       "Melee"
     ],
@@ -3030,6 +3152,7 @@
     "flavour": "Forward, you sorry sods! Forward or you'll see the Nilfgaardians are the least of your worries!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/kaedweni-sergeant-1.png",
     "info": "Convert a Gold unit to Silver (or Bronze, if that was its original color).",
+    "key": "kaedweni_sergeant",
     "lane": [
       "Melee"
     ],
@@ -3055,6 +3178,7 @@
     "flavour": "\"You gotta recalibrate the arm by five degrees.\" \"Do what by the what now?\"",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-3.png",
     "info": "Add 3 strength to 2 non-Gold units on your side of the battlefield.",
+    "key": "kaedweni_siege_support",
     "lane": [
       "Ranged",
       "Melee",
@@ -3082,6 +3206,7 @@
     "flavour": "When the time comes, the cockerel Kambi shall crow and awaken Hemdall.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/kambi-1.png",
     "info": "After 3 turns, spawn Hemdall on this unit\u2019s side. Destroy Kambi whenever Hemdall appears on the same side.",
+    "key": "kambi",
     "lane": [
       "Ranged"
     ],
@@ -3110,6 +3235,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/katakan-1.png",
     "info": "Every 3 turns, banish a random non-gold unit in your graveyard and absorb its strength.",
+    "key": "katakan",
     "lane": [
       "Melee"
     ],
@@ -3135,6 +3261,7 @@
     "flavour": "How to kill a kayran? Simple! Take your best sword... then sell it, and hire a witcher.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/kayran.png",
     "info": "Destroy 3 loyal non-Gold units and add their strength to this unit\u2019s base strength. When removed, set base strength to 8.",
+    "key": "kayran",
     "lane": [
       "Siege"
     ],
@@ -3163,6 +3290,7 @@
     "flavour": "If I'm to die today, i wish to look smashing for the occasion.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/keira-metz-1.png",
     "info": "Give a shield to all non-Gold units on the row. The shield protects its bearer from one strength-removing effect.",
+    "key": "keira_metz",
     "lane": [
       "Ranged",
       "Melee",
@@ -3187,6 +3315,7 @@
     "flavour": "No one can replace Bran. Though they're sure to try.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/king-bran-2.png",
     "info": "Discard 2 cards and add 2 base strength to them. Choose any card in your deck and place it in your hand.",
+    "key": "king_bran",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -3205,6 +3334,7 @@
     "flavour": "I might just discover I look great without ears... or hands. Apparently the King of Beggars accepts both as partial payment.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/king-of-beggars-1.png",
     "info": "Play the weakest non-Gold unit from your deck. Ties are resolved randomly.",
+    "key": "king_of_beggars",
     "lane": [
       "Ranged"
     ],
@@ -3233,6 +3363,7 @@
     "flavour": "A sight more horrid you've never seen\u2026 The poor soul lay shredded as the beast lapped up its blood from the ground all around.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/lacerate-1.png",
     "info": "Remove 3 strength from all non-Gold units on a row.",
+    "key": "lacerate",
     "lane": [
       "Event"
     ],
@@ -3257,6 +3388,7 @@
     "flavour": "Now that's the kind of negotiating I understand.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/lambert-3.png",
     "info": "Play Eskel and Vesemir from your deck.",
+    "key": "lambert",
     "lane": [
       "Melee"
     ],
@@ -3281,6 +3413,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
     "info": "No ability.",
+    "key": "lesser_earth_elemental",
     "lane": [
       "Ranged",
       "Melee",
@@ -3303,6 +3436,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
     "info": "No ability.",
+    "key": "lesser_fire_elemental",
     "lane": [
       "Ranged",
       "Melee",
@@ -3325,6 +3459,7 @@
     "flavour": "\"Lesser does not mean worse!\" - Master Istredd of Aedd Gynvael.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
     "info": "No ability.",
+    "key": "lesser_golem",
     "lane": [
       "Ranged",
       "Melee",
@@ -3348,6 +3483,7 @@
     "flavour": "Escape them? In the waters of Skellige? Good luck.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/light-longship-1.png",
     "info": "Immune to Rain.",
+    "key": "light_longship",
     "lane": [
       "Siege"
     ],
@@ -3369,6 +3505,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
     "info": "Immune to Frost. When removed from the battlefield, add 10 strength to any Hjalmars on the opposite side.",
+    "key": "lord_of_undvik",
     "lane": [
       "Melee"
     ],
@@ -3386,6 +3523,7 @@
     "flavour": "I name thee Dea and embrace thee as my daughter.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms.png",
     "info": "Resurrect a non-Gold, non-Permadeath unit.",
+    "key": "lubberkin",
     "lane": [
       "Melee"
     ],
@@ -3407,6 +3545,7 @@
     "flavour": "WAAAAAAAAAAGH!!!!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/madman-lugos-2.png",
     "info": "After 2 turns, gain 1 strength for each unit in your graveyard.",
+    "key": "madman_lugos",
     "lane": [
       "Melee"
     ],
@@ -3435,6 +3574,7 @@
     "flavour": "I'm telling ye, we're born fer battle \u2013 we slash straight at their knees!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/mahakam-defender-2.png",
     "info": "Keep on the battlefield at the end of each round.",
+    "key": "mahakam_defender",
     "lane": [
       "Melee"
     ],
@@ -3463,6 +3603,7 @@
     "flavour": "Only one punishment for disturbin' the peace in Mahakam: a hammer to the heid.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/mahakam-guard-2.png",
     "info": "Immune to Frost. Add 3 strength to a non-Gold unit on your side of the battlefield. If it\u2019s a Dwarf, add 5 strength instead.",
+    "key": "mahakam_guard",
     "lane": [
       "Melee"
     ],
@@ -3491,6 +3632,7 @@
     "flavour": "I have you, dh'oine. You are all the same.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/malene.png",
     "info": "Remove 1 strength from a random opposing non-gold unit whenever a revealed Elf unit appears on your side.",
+    "key": "malena",
     "lane": [
       "Ranged"
     ],
@@ -3513,6 +3655,7 @@
     "flavour": "We know little about what manticores look like: though many have seen them, very few have lived to tell their tale.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/manticore-1.png",
     "info": "No ability.",
+    "key": "manticore",
     "lane": [
       "Siege"
     ],
@@ -3541,6 +3684,7 @@
     "flavour": "Kills quicker than you can recite the Emperor of Nilfgaard's title in full.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/manticore-venom-1.png",
     "info": "Remove 4 strength from all instances of a non-Gold unit on its side.",
+    "key": "manticore_venom",
     "lane": [
       "Event"
     ],
@@ -3565,6 +3709,7 @@
     "flavour": "Eat enough of them, and the world will never be the same...",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/mardroeme-1.png",
     "info": "Spawn either a Mutagen or a Spores effect.",
+    "key": "mardroeme",
     "lane": [
       "Event"
     ],
@@ -3589,6 +3734,7 @@
     "flavour": "I care only about what's good for Aretuza and my pupils.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/margarita-laux-antille-1.png",
     "info": "Spawn a Ban Ard Adept whenever a Gold card appears on your side.",
+    "key": "margarita_laux\u2013antille",
     "lane": [
       "Ranged"
     ],
@@ -3618,6 +3764,7 @@
     "flavour": "The sky dimmed of a sudden, and clouds amassed over the town. It grew fiendishly dark, and a cold gust swept in. \"Oh my,\" gasped Yennefer. \"We're about to make quite the mess, I think.\"",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/merigolds-hailstorm-1.png",
     "info": "Spawn Frost and Rain.",
+    "key": "merigolds_hailstorm",
     "lane": [
       "Event"
     ],
@@ -3639,6 +3786,7 @@
     "flavour": "With each arrow I loose, I think of my da. He'd be proud. I think.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/milva-1.png",
     "info": "Return the strongest non-Gold, non Relentless unit (except self) on each side to the owners\u2019 hands. Ties are resolved randomly.",
+    "key": "milva",
     "lane": [
       "Siege"
     ],
@@ -3667,6 +3815,7 @@
     "flavour": "Damn, the filth's o'errun us\u2026 We need a witcher or there's no livin' 'ere!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/monster-nest-1.png",
     "info": "Spawn a base copy of all Breedable units on your side of the battlefield.",
+    "key": "monster_nest",
     "lane": [
       "Event"
     ],
@@ -3691,6 +3840,7 @@
     "flavour": "Lady Eithn\u00e9's daughter had inherited her sublime beauty and her wild hatred for all that is human.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/morenn-2.png",
     "info": "If possible, destroy an unrevealed Ambush card and gain 4 strength.",
+    "key": "morenn",
     "lane": [
       "Ranged",
       "Melee",
@@ -3718,6 +3868,7 @@
     "flavour": "The vilest man Skellige's ever known.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/morkvarg-4.png",
     "info": "When moved to the graveyard, lose 2 base strength and resurrect.",
+    "key": "morkvarg",
     "lane": [
       "Melee"
     ],
@@ -3742,6 +3893,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "Add 4 base strength to a non-Gold unit on your side of the battlefield.",
+    "key": "mutagen",
     "lane": [
       "Event"
     ],
@@ -3762,6 +3914,7 @@
     "flavour": "Never get between a mother dragon and her young.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/myrgtabrakke-3.png",
     "info": "Choose a non-Gold unit three times. Remove 3 strength the first time, 2 the second and 1 the third.",
+    "key": "myrgtabrakke",
     "lane": [
       "Ranged"
     ],
@@ -3791,6 +3944,7 @@
     "flavour": "You exact from the earth a blood ransom, ripping out its riches by force. To us it bloomed, bore fruit and gave freely, for it loved us as we loved it.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/natures-gift-1.png",
     "info": "Spawn a base copy of the last non-Gold Special Card played, then banish.",
+    "key": "natures_gift",
     "lane": [
       "Event"
     ],
@@ -3815,6 +3969,7 @@
     "flavour": "These little guys are almost cute, if you ignore the whole vicious killer aspect.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/nekker-1.png",
     "info": "While in your hand or deck, gain 1 strength whenever a unit on your side absorbs another\u2019s strength. When removed from the battlefield, play a Nekker from your deck.",
+    "key": "nekker",
     "lane": [
       "Melee"
     ],
@@ -3840,6 +3995,7 @@
     "flavour": "Take heed, gents, there's nekkers under this here bridge.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/nekker-warrior-2.png",
     "info": "Create in your deck 2 base copies of a Bronze unit on your side of the battlefield.",
+    "key": "nekker_warrior",
     "lane": [
       "Melee"
     ],
@@ -3868,6 +4024,7 @@
     "flavour": "Few know more about healing than Nenneke.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/nenneke-3.png",
     "info": "Resurrect a non-Gold, non-Permadeath unit.",
+    "key": "nenneke",
     "lane": [
       "Siege"
     ],
@@ -3896,6 +4053,7 @@
     "flavour": "Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/nithral-4.png",
     "info": "Immune to Frost. Remove 2 strength from a random opposing non-Gold unit whenever a Wild Hunt unit appears on your side.",
+    "key": "nithral",
     "lane": [
       "Melee"
     ],
@@ -3924,6 +4082,7 @@
     "flavour": "The Master of Quartz Mountain, the Destroyer, Trajan's Slayer. In his free time, he likes long walks and candlelight dinners.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ocvist-2.png",
     "info": "After 4 turns, remove 1 strength from all opposing non-Gold units and return this card to your hand.",
+    "key": "ocvist",
     "lane": [
       "Siege"
     ],
@@ -3949,6 +4108,7 @@
     "flavour": "Drinkin' without Odrin is like rowin' without a paddle.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/odrin-2.png",
     "info": "Move to a random row on the same side at the start of your turn and add 1 strength to all other non-Gold units on the row.",
+    "key": "odrin",
     "lane": [
       "Ranged",
       "Melee",
@@ -3976,6 +4136,7 @@
     "flavour": "At least you now know I don't easily lose my head.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/olgierd-1.png",
     "info": "Resurrect at the start of the round and remove 2 base strength.",
+    "key": "olgierd",
     "lane": [
       "Melee"
     ],
@@ -4006,6 +4167,7 @@
     "flavour": "As time and space collapse before us, they expand behind us. In that way one moves forward through both.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/operator-4.png",
     "info": "Choose a non-Gold unit in your hand (other than the Operator). Create an exact copy in both players\u2019 hands. Banish when destroyed.",
+    "key": "operator",
     "lane": [
       "Ranged"
     ],
@@ -4034,6 +4196,7 @@
     "flavour": "They said the queen was prone to outbursts, but I did not expect that\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/pavetta-1.png",
     "info": "Destroy the weakest non-Gold unit(s) twice in a row.",
+    "key": "pavetta",
     "lane": [
       "Siege"
     ],
@@ -4062,6 +4225,7 @@
     "flavour": "Soon the power of kings will wither, and the Lodge shall seize its rightful place.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/philippa-eilhart-3.png",
     "info": "Set the strength of all other non-Gold units on the row to 1.",
+    "key": "philippa_eilhart",
     "lane": [
       "Ranged",
       "Melee",
@@ -4089,6 +4253,7 @@
     "flavour": "I's a war veteran! Spare me a crown?",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/poor-infantry-2.png",
     "info": "Spawn an exact copy of this unit on the same row.",
+    "key": "poor_infantry",
     "lane": [
       "Melee"
     ],
@@ -4117,6 +4282,7 @@
     "flavour": "Modron Freya, the Great Mother, is the goddess of love, beauty and bounty.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/priestess-of-freya-3.png",
     "info": "Resurrect a Bronze non-Permadeath unit.",
+    "key": "priestess_of_freya",
     "lane": [
       "Siege"
     ],
@@ -4142,6 +4308,7 @@
     "flavour": "He wears armor made of gold. Of course he's a jerk.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/prince-stennis-2.png",
     "info": "Draw 1 card face up and 1 card face down. Keep 1, return the other to your deck.",
+    "key": "prince_stennis",
     "lane": [
       "Melee"
     ],
@@ -4167,6 +4334,7 @@
     "flavour": "Picture Dandelion in a dress and you've got the general idea.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/priscilla-2.png",
     "info": "Draw 2 non-Gold cards. Play 1 and return the other to your deck.",
+    "key": "priscilla",
     "lane": [
       "Siege"
     ],
@@ -4192,6 +4360,7 @@
     "flavour": "Mooooooo.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/prize-winning-cow-2.png",
     "info": "When removed from the battlfield, spawn a Chort on the row where this unit was.",
+    "key": "prize_winning_cow",
     "lane": [
       "Melee"
     ],
@@ -4220,6 +4389,7 @@
     "flavour": "Not wealth or fame but intentions true -- that's what makes a hero of you!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/promote-2.png",
     "info": "Convert all instances of a non-Gold unit on your side of the battlefield to Gold until removed from the battlefield or the round ends.",
+    "key": "promote",
     "lane": [
       "Event"
     ],
@@ -4241,6 +4411,7 @@
     "flavour": "The queen is guarded by the hardiest and fiercest shieldmaidens Skellige's ever known.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/queensguard-1.png",
     "info": "Resurrect all Queensguards and add 1 base strength to your Cerys unit, wherever it is.",
+    "key": "queensguard",
     "lane": [
       "Melee"
     ],
@@ -4269,6 +4440,7 @@
     "flavour": "The witcher raised a hand and quickly traced a path with it in the air. The crowd's rumble rose, the stones flew thicker. Yet the Sign curved their course, pushing them aside. They simply passed their target, protected by a shield unseen.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/quen-sign.png",
     "info": "Give all instances of a non-gold unit on your side a shield. The shield protects its bearer from one strength-removing effect.",
+    "key": "quen_sign",
     "lane": [
       "Event"
     ],
@@ -4286,6 +4458,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
     "info": "No ability.",
+    "key": "rabid_wolf",
     "lane": [
       "Melee"
     ],
@@ -4304,6 +4477,7 @@
     "flavour": "A king should be merciless towards his enemies and generous to his friends.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/radovid-2.png",
     "info": "Remove 8 strength from any unit.",
+    "key": "radovid",
     "mill": {
       "normal": "50",
       "premium": "200"
@@ -4326,6 +4500,7 @@
     "flavour": "In the Final Age, Hemdall will come forth to face the evil issuing from the land of Morhogg \u2013 the legions of wraiths, demons and specters of Chaos.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/ragh-nar-roog-1.png",
     "info": "Spawn Frost, Fog and Rain effects.",
+    "key": "ragh_nar_roog",
     "lane": [
       "Event"
     ],
@@ -4343,6 +4518,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
     "info": "Immune to Frost. When first appearing, gain 1 base strength of it\u2019s Round 2 or 2 base strength if it\u2019s Round 3.",
+    "key": "raging_bear",
     "lane": [
       "Melee"
     ],
@@ -4364,6 +4540,7 @@
     "flavour": "In their ballads skalds claim you cannot tell a berserker changed in the heat of battle from a true\u2013born bear.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/young-berserker-1.png",
     "info": "Transform into a Raging Bear if weakened but not destroyed.",
+    "key": "raging_berserker",
     "lane": [
       "Melee"
     ],
@@ -4385,6 +4562,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "Play a random Bronze unit from your deck.",
+    "key": "rally",
     "lane": [
       "Event"
     ],
@@ -4402,6 +4580,7 @@
     "flavour": "See this here tattoo? 'At's me, hackin' at a dragon. A DRAGON, m'lady.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/reaver-hunter-1.png",
     "info": "Add 1 strength to all your other Reaver Hunters, wherever they are. After 2 turns, play a Reaver Hunter from your deck.",
+    "key": "reaver_hunter",
     "lane": [
       "Ranged"
     ],
@@ -4427,6 +4606,7 @@
     "flavour": "Haven't had much luck with monsters of late, so we enlisted.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/reaver-scout-1.png",
     "info": "Choose a Bronze unit on your side of the battlefield. Play an instance of it from your deck.",
+    "key": "reaver_scout",
     "lane": [
       "Ranged"
     ],
@@ -4452,6 +4632,7 @@
     "flavour": "I'll die for Redania, I'll kill for Redania\u2026 I'll even eat worms for Redania!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/redanian-elite-4.png",
     "info": "If 3 or more Redanian Elites are on your side of the battlefield, convert them to Gold until removed from the battlefield or the round ends.",
+    "key": "redanian_elite",
     "lane": [
       "Siege"
     ],
@@ -4477,6 +4658,7 @@
     "flavour": "For flory! For Radovid!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/09/redanian-knight-2.png",
     "info": "No ability.",
+    "key": "redanian_knight",
     "lane": [
       "Melee"
     ],
@@ -4506,6 +4688,7 @@
     "flavour": "Men, the polite ones, at least, would call me a monster. A blood\u2013drinking freak.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/regis-1.png",
     "info": "When removed from the battlefield, transform into Regis: Higher Vampire and play.",
+    "key": "regis",
     "lane": [
       "Melee"
     ],
@@ -4527,6 +4710,7 @@
     "flavour": "He becomes invisible at will. His glance hypnotizes into a deep sleep. He then drinks his fill, turns into a bat and flies off. Altogether uncouth.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "No ability.",
+    "key": "regis_higher_vampire",
     "lane": [
       "Melee"
     ],
@@ -4548,6 +4732,7 @@
     "flavour": "Never manages to hit the same place twice, which, upon further reflection, might constitute a real problem.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/reinforced-ballista-2.png",
     "info": "Remove 1 strength from a random opposing non-Gold unit whenever a Gold card appears on your side.",
+    "key": "reinforced_ballista",
     "lane": [
       "Siege"
     ],
@@ -4573,6 +4758,7 @@
     "flavour": "The latest rage in assaults on walled cities.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/reinforced-siege-tower-1.png",
     "info": "Gain 2 strength whenever a Gold card appears on your side.",
+    "key": "reinforced_siege_tower",
     "lane": [
       "Siege"
     ],
@@ -4598,6 +4784,7 @@
     "flavour": "Feel that? The earth trembles each time Big Bertha looses a stone.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/reinforced-trebuchet-3.png",
     "info": "Every 3 turns, remove 2 strength from a random opposing non-Gold unit.",
+    "key": "reinforced_trebuchet",
     "lane": [
       "Siege"
     ],
@@ -4626,6 +4813,7 @@
     "flavour": "Sound the retreat! Regroup! And wait for reinforccements!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/reinforcement-1.png",
     "info": "Play all instances from your deck of a Bronze unit on your side of the battlefield.",
+    "key": "reinforcement",
     "lane": [
       "Event"
     ],
@@ -4650,6 +4838,7 @@
     "flavour": "Medicus curat, magicae sanat.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/renew.png",
     "info": "Resurrect a Gold unit.",
+    "key": "renew",
     "lane": [
       "Event"
     ],
@@ -4674,6 +4863,7 @@
     "flavour": "Those cursed sorcresses are stealing our thunder! Whyever should folk choose a procedure taking several hours, when some perfumed tart can solve their problem with a wave of her hand?",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/restoration-1.png",
     "info": "Add 2 to the base strength of a non-Gold unit in your graveyard (can be Permadeath), then resurrect it.",
+    "key": "restoration",
     "lane": [
       "Event"
     ],
@@ -4695,6 +4885,7 @@
     "flavour": "Geralt, we gotta have a man-to-horse talk. No offense, but your riding skills? They leave a bit to be desired, buddy.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/roach-3.png",
     "info": "Play on a random row from your deck or graveyard whenever a Gold card appears on your side.",
+    "key": "roach",
     "lane": [
       "Ranged",
       "Melee",
@@ -4725,6 +4916,7 @@
     "flavour": "The Daughter of the Kaedweni Wilderness.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/sabrina-glevissig-1.png",
     "info": "When destroyed, remove 3 strength from all non-Gold units on its side.",
+    "key": "sabrina_glevissig",
     "lane": [
       "Ranged"
     ],
@@ -4750,6 +4942,7 @@
     "flavour": "Little Sarah wants to play!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/sarah-1.png",
     "info": "Immune to Weather. Gain 3 strength each time a Weather effect appears.",
+    "key": "sarah",
     "lane": [
       "Siege"
     ],
@@ -4778,6 +4971,7 @@
     "flavour": "I care not for kings and their titles. In the east lives one who truly deserves a crown.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/saskia-2.png",
     "info": "Remove 1 strength from all opposing non-Gold units. Add 1 strength to all non-Gold units on your side of the battlefield.",
+    "key": "saskia",
     "lane": [
       "Melee"
     ],
@@ -4803,6 +4997,7 @@
     "flavour": "\"Tame\"? Och, lad, Skelligers might train bears, but that don't at all mean they tame 'em\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/savage-bear-2.png",
     "info": "Remove 1 strength from each non-Gold unit played on the battlefield. Does not affect spawned units.",
+    "key": "savage_bear",
     "lane": [
       "Melee"
     ],
@@ -4832,6 +5027,7 @@
     "flavour": "Time to look death in the face.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/schirru.png",
     "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects, then destroy the strongest non-Gold unit(s) on the battlefield.",
+    "key": "schirru",
     "lane": [
       "Ranged",
       "Melee",
@@ -4859,6 +5055,7 @@
     "flavour": "Geralt took one step back. He'd seen men hit by Scorch before. Or more accurately, seen what remained of them afterwards.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/scorch-3.png",
     "info": "Destroy the strongest non-Gold unit(s) on the battlefield.",
+    "key": "scorch",
     "lane": [
       "Event"
     ],
@@ -4876,6 +5073,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "Remove 1 strength from a random opposing non-Gold unit.",
+    "key": "shadow",
     "lane": [
       "Melee"
     ],
@@ -4897,6 +5095,7 @@
     "flavour": "I'm a medic. I tend to know what I'm doing when I prescribe something.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/shani-4.png",
     "info": "Resurrect a non-Gold, non-Permadeath unit and convert it to Gold until removed from the battlefield or the round ends.",
+    "key": "shani",
     "lane": [
       "Ranged"
     ],
@@ -4925,6 +5124,7 @@
     "flavour": "I was there, on the front lines! Right where the fightin' was the thickest!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/sheldon-skaggs-2.png",
     "info": "No ability.",
+    "key": "sheldon_skaggs",
     "lane": [
       "Melee"
     ],
@@ -4953,6 +5153,7 @@
     "flavour": "Fall on your knees and beg Modron Freya for forgiveness.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/sigrdrifa-4.png",
     "info": "Resurrect a non-Gold unit (can be Permadeath). Gain 1 strength whenever a unit is played from the graveyard.",
+    "key": "sigrdrifa",
     "lane": [
       "Siege"
     ],
@@ -4981,6 +5182,7 @@
     "flavour": "The Lodge lacks humility. Our lust for power may yet be our undoing.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/sile-de-tansarville-1.png",
     "info": "Remove 4 strength from an opposing non-Gold unit.",
+    "key": "sile_de_tansarville",
     "lane": [
       "Ranged"
     ],
@@ -5010,6 +5212,7 @@
     "flavour": "This ain't no normal storm. This here's the wrath of the gods.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/skellige-storm-3.png",
     "info": "Spawn Fog and Rain effects.",
+    "key": "skellige_storm",
     "lane": [
       "Event"
     ],
@@ -5031,6 +5234,7 @@
     "flavour": "Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/skjall-2.png",
     "info": "Remove 3 strength from this unit, then from the strongest opposing non-Gold unit(s). When removed from the battlefield, spawn Craven Revived on the same row.",
+    "key": "skjall",
     "lane": [
       "Ranged",
       "Melee",
@@ -5054,6 +5258,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
     "info": "Immune to Weather. Move to a random opposing row at the start of your turn and remove 1 strength from all non-Gold units on the row.",
+    "key": "spectral_whale",
     "lane": [
       "Ranged",
       "Melee",
@@ -5076,6 +5281,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "Remove 4 base strength from an opposing non-Gold unit.",
+    "key": "spores",
     "lane": [
       "Event"
     ],
@@ -5096,6 +5302,7 @@
     "flavour": "The sorcerer Stammelford moved a mountain that obscured the view from his tower. Rumor has it he could only do so for he'd fettered a d'ao, an earth elemental.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/stammelfords-tremors-1.png",
     "info": "Remove 2 strength from all non-Gold units on both sides of the battlefield.",
+    "key": "stammelfords_tremors",
     "lane": [
       "Event"
     ],
@@ -5117,6 +5324,7 @@
     "flavour": "The emperor also thought him an accidental king. At first.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/svanrige-1.png",
     "info": "If possible, discard 1 card and draw 1 card.",
+    "key": "svanrige",
     "lane": [
       "Siege"
     ],
@@ -5146,6 +5354,7 @@
     "flavour": "Symbolizing spring and rejuvenation, the swallow lent its name to this potion that accelerates the rate at which wounds scab over and heal.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/swallow-potion-1.png",
     "info": "Add 8 strength to a non-Gold unit. If it\u2019s a Witcher, add 12 strength instead.",
+    "key": "swallow_potion",
     "lane": [
       "Event"
     ],
@@ -5167,6 +5376,7 @@
     "flavour": "Piss off! We aren't all philanderers. Some of us have depth\u2026",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/thaler-3.png",
     "info": "Redraw up to 1 card.",
+    "key": "thaler",
     "lane": [
       "Siege"
     ],
@@ -5195,6 +5405,7 @@
     "flavour": "A djinn, good sirs, fulfills but three wishes. Thus freed, it flees to dimensions unknown.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/the-last-wish-1.png",
     "info": "Draw 2 cards. Discard 2 cards.",
+    "key": "the_last_wish",
     "lane": [
       "Event"
     ],
@@ -5220,6 +5431,7 @@
     "flavour": "The witcher's face changed\u2026 His mien turning inhuman, horrifying.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/thunderbolt-potion-1.png",
     "info": "Add 4 strength to all instances of a non-Gold unit on its side. If it\u2019s a Witcher, add 6 strength instead.",
+    "key": "thunderbolt_potion",
     "lane": [
       "Event"
     ],
@@ -5245,6 +5457,7 @@
     "flavour": "Even the rain in this land smells vile.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/torrential-rain-3.png",
     "info": "Spawn a Rain effect on both Siege rows that sets the strength of all non-Gold units on or appearing there to 1.",
+    "key": "torrential_rain",
     "lane": [
       "Event"
     ],
@@ -5270,6 +5483,7 @@
     "flavour": "I'd gladly kill you from up close, stare in your eyes\u2026 But you reek, human.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/toruviel-1.png",
     "info": "Ambush: When the player on the opposing side passes, add 2 strength to all other non-Gold units on the row.",
+    "key": "toruviel",
     "lane": [
       "Ranged",
       "Melee",
@@ -5298,6 +5512,7 @@
     "flavour": "Castle won't batter itself down, now will it? Get them trebuchets rollin'!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/trebuchet-3.png",
     "info": "Remove 2 strength from 2 opposing non-Gold units.",
+    "key": "trebuchet",
     "lane": [
       "Siege"
     ],
@@ -5326,6 +5541,7 @@
     "flavour": "I can take care of myself. Trust me.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/triss-merigold-1.png",
     "info": "Remove 4 strength from an opposing unit.",
+    "key": "triss_merigold",
     "lane": [
       "Ranged"
     ],
@@ -5351,6 +5567,7 @@
     "flavour": "Join me King Ravodid army. Order got - guard boatses.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/trololo.png",
     "info": "Remove 1 strength from all non-Gold units on the opposite row. Gain 1 strength for each.",
+    "key": "trololo",
     "lane": [
       "Ranged",
       "Melee",
@@ -5378,6 +5595,7 @@
     "flavour": "The gods have spoken: a sacrifice is required.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/udalryk-1.png",
     "info": "Move a random card from your opponent\u2019s graveyard to your hand.",
+    "key": "udalryk",
     "lane": [
       "Melee"
     ],
@@ -5399,6 +5617,7 @@
     "flavour": "",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
     "info": "Add 2 strength to all other units.",
+    "key": "unicorn",
     "lane": [
       "Siege"
     ],
@@ -5420,6 +5639,7 @@
     "flavour": "A patriot\u2026 and a real pain in the rear.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/vernon-roche-3.png",
     "info": "Remove 5 strength from any opposing unit.",
+    "key": "vernon_roche",
     "lane": [
       "Melee"
     ],
@@ -5448,6 +5668,7 @@
     "flavour": "Better to live one day as a king than a whole life as a beggar.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/ves-3.png",
     "info": "Play a Blue Stripes Commando from your deck whenever a Gold card appears on your side.",
+    "key": "ves",
     "lane": [
       "Melee"
     ],
@@ -5476,6 +5697,7 @@
     "flavour": "If you're to be hanged, ask for water. Anything can happen before they fetch it.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/vesemir-3.png",
     "info": "Play Eskel and Lambert from your deck.",
+    "key": "vesemir",
     "lane": [
       "Melee"
     ],
@@ -5504,6 +5726,7 @@
     "flavour": "Also calls himself Borkh Three Jackdaws\u2026 he's not the best at names.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/villentretenmerth.png",
     "info": "After 3 turns, destroy the strongest non-Gold unit(s) twice in a row.",
+    "key": "villentretenmerth",
     "lane": [
       "Ranged"
     ],
@@ -5529,6 +5752,7 @@
     "flavour": "They sat still on their horses, seemingly relaxed. He saw their weapons \u2013 short spears with wide tips. Swords with oddly forged guards. Battle axes. Toothed gisarmes.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/vran-warrior-1.png",
     "info": "No ability.",
+    "key": "vran_warrior",
     "lane": [
       "Ranged"
     ],
@@ -5557,6 +5781,7 @@
     "flavour": "\"Vrihedd? What's that mean?\" \"Trouble.\"",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-brigade-2.png",
     "info": "No ability.",
+    "key": "vrihedd_brigade",
     "lane": [
       "Ranged",
       "Melee",
@@ -5587,6 +5812,7 @@
     "flavour": "Most terrible things I've witnessed? The Catriona plague, the razing of Vengerberg and the charge of the Vrihedd Dragoons.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-dragoon.png",
     "info": "Add 3 strength to a non-Gold unit in your hand.",
+    "key": "vrihedd_dragoon",
     "lane": [
       "Ranged",
       "Melee",
@@ -5617,6 +5843,7 @@
     "flavour": "\u201dHatred burns brighter than any fire, and cuts deeper than any blade.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-officer-1.png",
     "info": "Add 1 strength to the weakest non-Gold unit(s) on your side of the battlefield (except self), remove 1 strength from the weakest opposing non-Gold unit(s).",
+    "key": "vrihedd_officer",
     "lane": [
       "Ranged",
       "Melee",
@@ -5647,6 +5874,7 @@
     "flavour": "No matter what you may have heard, elves don't take human scalps. Too much lice.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-sappers-1.png",
     "info": "Remove 2 strength from all non-Gold units on the row whenever a Special Card is played.",
+    "key": "vrihedd_sappers",
     "lane": [
       "Ranged",
       "Melee",
@@ -5678,6 +5906,7 @@
     "flavour": "Temerians, Redanians, all the same. Better off dead.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/vrihedd-vanguard-4.png",
     "info": "Spawn a Commando Neophyte on a random row.",
+    "key": "vrihedd_vanguard",
     "lane": [
       "Ranged",
       "Melee",
@@ -5705,6 +5934,7 @@
     "flavour": "They say Hemdall's heart swells whenever the longships sail out on a raid.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/war-longship-2.png",
     "info": "Remove 2 strength from a random opposing non-Gold unit whenever a unit on your side is destroyed or you discard a unit.",
+    "key": "war_longship",
     "lane": [
       "Siege"
     ],
@@ -5733,6 +5963,7 @@
     "flavour": "Some fight for Temeria. Other fight for Nilfgaard. I fight for the Heron.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/warcry-1.png",
     "info": "Double the strength of all weakened non-Gold units on your side of the battlefield.",
+    "key": "warcry",
     "lane": [
       "Event"
     ],
@@ -5754,6 +5985,7 @@
     "flavour": "Seen a lot o' ugly critters in me life \u2013 morays, lampreys, blobfish\u2026 But never nothin' like this!",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/water-hag-1.png",
     "info": "Immune to Rain. Spawn a Rain effect.",
+    "key": "water_hag",
     "lane": [
       "Siege"
     ],
@@ -5783,6 +6015,7 @@
     "flavour": "Behold Tedd Deireadh, the Final Age. The world destroyed by the White Frost.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/white-frost-3.png",
     "info": "Spawn Frost and Fog effects.",
+    "key": "white_frost",
     "lane": [
       "Event"
     ],
@@ -5800,6 +6033,7 @@
     "flavour": "Cry 'Havoc!', and let slip the dogs of war.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
     "info": "Immune to Frost.",
+    "key": "wild_hunt_hound",
     "lane": [
       "Melee"
     ],
@@ -5824,6 +6058,7 @@
     "flavour": "First the buffalo horns atop their helms penetrate one's view, then the crest betwixt them, and finally the skull\u2013like face exposed beneath their visors.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/wild-hunt-rider-2.png",
     "info": "Immune to Frost. Play all Wild Hunt Riders from your deck.",
+    "key": "wild_hunt_rider",
     "lane": [
       "Melee"
     ],
@@ -5852,6 +6087,7 @@
     "flavour": "The White Frost is coming.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/wild-hunt-warrior-4.png",
     "info": "Immune to Frost. Remove 1 strength from an opposing non-Gold unit and gain 2 strength if that unit is destroyed.",
+    "key": "wild_hunt_warrior",
     "lane": [
       "Melee"
     ],
@@ -5877,6 +6113,7 @@
     "flavour": "We never hunt in these woods. Not even if it means the whole village'll starve.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/woodland-spirit.png",
     "info": "Immune to Fog. Spawn a Fog effect and 3 Rabid Wolves.",
+    "key": "woodland_spirit",
     "lane": [
       "Ranged"
     ],
@@ -5902,6 +6139,7 @@
     "flavour": "Imagine a cross between a winged snake and a nightmare. Wyverns are worse.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/wyvern-3.png",
     "info": "Remove 4 strength from an opposing unit non-Gold unit.",
+    "key": "wyvern",
     "lane": [
       "Ranged"
     ],
@@ -5930,6 +6168,7 @@
     "flavour": "We are the drops of rain that together make a ferocious storm.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/07/yaevinn-2.png",
     "info": "Remove 2 strength from all other non-Gold units on the row. Draw a card.",
+    "key": "yaevinn",
     "lane": [
       "Ranged",
       "Melee",
@@ -5960,6 +6199,7 @@
     "flavour": "Ever hear o' the dragon Ocvist? From Quartz Mountain? Well, Yarpen Zigrin and his band o' dwarves did 'im in.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/yarpen-zigrin-1.png",
     "info": "Keep on the battlefield at the end of this round.",
+    "key": "yarpen_zigrin",
     "lane": [
       "Siege"
     ],
@@ -5988,6 +6228,7 @@
     "flavour": "Magic is Chaos, Art and Science. It is a curse, a blessing and a progression.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/10/yennefer-1.png",
     "info": "Spawn either a Unicorn or a Chironex.",
+    "key": "yennefer",
     "lane": [
       "Siege"
     ],
@@ -6016,6 +6257,7 @@
     "flavour": "A good sorceress must know when to conjure ice... and when to conjure fire.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/12/yennefer-the-conjurer.png",
     "info": "At the start of your turn, remove 1 strength from the strongest non-Gold unit(s) (except self) on the battlefield.",
+    "key": "yennefer_the_conjurer",
     "lane": [
       "Siege"
     ],
@@ -6044,6 +6286,7 @@
     "flavour": "Drinkin' alone's like crappin' with company.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/zoltan-chivay-1.png",
     "info": "Keep on the battlefield at the end of each round.",
+    "key": "zoltan_chivay",
     "lane": [
       "Melee"
     ],
@@ -6072,6 +6315,7 @@
     "flavour": "Apologies. My exotic pet's a clever birdie, but a wee bit lewd. Paid ten thalers for the beaute.",
     "imageUrl": "http://gwentify.com/wp-content/uploads/2016/06/zoltan-animal-tamer-5.png",
     "info": "Spawn one of the two Field Marshal Duda units.",
+    "key": "zoltan_animal_tamer",
     "lane": [
       "Ranged"
     ],

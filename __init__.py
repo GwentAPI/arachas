@@ -9,10 +9,15 @@ import threading
 import requests
 import mimetypes
 import argparse
+import re
+
+import unicodedata
 
 import gwentifyHandler as siteHandler
 
 args = {}
+
+NAME_REPLACE = {" ": "_", ":": "", "'": "", "`": "", "’": "", "(": "", ")": ""}
 
 # URL where we can begin the crawl.
 HOST = 'http://gwentify.com/cards/?view=table'
@@ -96,13 +101,27 @@ class CardThread(threading.Thread):
                 # Send the html to the siteHandler module for processing.
                 # Return a card.
                 cardData = siteHandler.getCardJson(res.content)
+                key = getNameKey(cardData['name'])
+                cardData['key'] = key
                 self.finalDataQueue.put(cardData)
-                self.imageQueue.put((cardData['name'], cardData['imageUrl']))
+                self.imageQueue.put((cardData['key'], cardData['imageUrl']))
 
             else:
                 print("bad")
             # Notify that we have finished one task.
             self.cardQueue.task_done()
+
+
+def getNameKey(name):
+    # test = unicodedata.normalize('NFD', name).encode('ascii', 'ignore')
+    # https://stackoverflow.com/questions/6116978/python-replace-multiple-strings
+    name = name.lower()
+
+    rep = dict((re.escape(k), v) for k, v in NAME_REPLACE.items())
+    pattern = re.compile("|".join(rep.keys()))
+    name = pattern.sub(lambda m: rep[re.escape(m.group(0))], name)
+
+    return name
 
 
 class ImageThread(threading.Thread):
@@ -160,8 +179,6 @@ def main():
 
     if args.image:
         DOWNLOAD_ARTWORK = args.image
-
-    print(DOWNLOAD_ARTWORK)
 
     imageFilePath = os.path.join('./' + IMAGE_FOLDER)
 
