@@ -14,6 +14,7 @@ import re
 import unicodedata
 
 import gwentifyHandler as siteHandler
+import indexer
 
 args = {}
 
@@ -235,6 +236,8 @@ def main():
 
     saveJson(FILE_NAME, cardList)
 
+    test = indexer.Indexer(cardList)
+    test.createIndex()
 
 if __name__ == '__main__':
     setParser()

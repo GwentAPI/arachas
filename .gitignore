@@ -88,5 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# Image folder
+# Project Generated
 media/
+.card_index
