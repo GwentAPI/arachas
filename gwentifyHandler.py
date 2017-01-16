@@ -82,7 +82,17 @@ def getCardJson(html):
     content = cardArticle.find('div', class_="entry-content")
 
     dataMap["name"] = name.strip()
-    dataMap["imageUrl"] = imageUrl.strip()
+    dataMap["variations"] = []
+
+    # Only one variation in gwentify, but the game can have many variations of a card
+    variation = {}
+    variation["availability"] = "BaseSet" # Currently all cards are from the base set.
+    art = {}
+    art["fullsizeImageUrl"] = imageUrl.strip()
+
+    variation["art"] = art
+
+    dataMap["variations"].append(variation)
 
     # The div contains an unordered list. We will get all the elements of that list
     # and iterate through them.
@@ -94,7 +104,9 @@ def getCardJson(html):
         if attribute == "Group:":
             dataMap["type"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Rarity:":
-            dataMap["rarity"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            # Currently, all variations have the same rarity.
+            for variation in dataMap["variations"]:
+                variation["rarity"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Faction:":
             dataMap["faction"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Strength:":
