@@ -92,14 +92,14 @@ def getCardJson(html):
 
         # We check the name and do the appropriate action to store it in the map.
         if attribute == "Group:":
-            dataMap["type:"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            dataMap["type"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Rarity:":
-            dataMap["rarity:"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            dataMap["rarity"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Faction:":
-            dataMap["faction:"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            dataMap["faction"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Strength:":
             # The strength is in a sibling element.
-            dataMap["strength:"] = data.strong.next_sibling.strip()
+            dataMap["strength"] = data.strong.next_sibling.strip()
 
         if attribute == "Loyalty:":
             # A card can have multiple loyalties.
