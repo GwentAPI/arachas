@@ -165,10 +165,9 @@ def getCardJson(html):
     # Same as for info.
     try:
         flavor = cardArticle.find('p', class_="flavor").get_text().replace(u'\u00a0', u' ').strip()
-        # According to the format agreed with Chris and Jamie A., we will name it "flavour" and not "flavor".
-        dataMap["flavour"] = flavor
+        dataMap["flavor"] = flavor
     except AttributeError:
-        dataMap["flavour"] = ""
+        dataMap["flavor"] = ""
 
     # For Uncollectible
     dataMap["collectible"] = True
