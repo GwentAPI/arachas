@@ -82,7 +82,17 @@ def getCardJson(html):
     content = cardArticle.find('div', class_="entry-content")
 
     dataMap["name"] = name.strip()
-    dataMap["imageUrl"] = imageUrl.strip()
+    dataMap["variations"] = []
+
+    # Only one variation in gwentify, but the game can have many variations of a card
+    variation = {}
+    variation["availability"] = "BaseSet" # Currently all cards are from the base set.
+    art = {}
+    art["fullsizeImageUrl"] = imageUrl.strip()
+
+    variation["art"] = art
+
+    dataMap["variations"].append(variation)
 
     # The div contains an unordered list. We will get all the elements of that list
     # and iterate through them.
@@ -92,14 +102,16 @@ def getCardJson(html):
 
         # We check the name and do the appropriate action to store it in the map.
         if attribute == "Group:":
-            dataMap["type:"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            dataMap["type"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Rarity:":
-            dataMap["rarity:"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            # Currently, all variations have the same rarity.
+            for variation in dataMap["variations"]:
+                variation["rarity"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Faction:":
-            dataMap["faction:"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            dataMap["faction"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
         if attribute == "Strength:":
             # The strength is in a sibling element.
-            dataMap["strength:"] = data.strong.next_sibling.strip()
+            dataMap["strength"] = data.strong.next_sibling.strip()
 
         if attribute == "Loyalty:":
             # A card can have multiple loyalties.
@@ -165,10 +177,9 @@ def getCardJson(html):
     # Same as for info.
     try:
         flavor = cardArticle.find('p', class_="flavor").get_text().replace(u'\u00a0', u' ').strip()
-        # According to the format agreed with Chris and Jamie A., we will name it "flavour" and not "flavor".
-        dataMap["flavour"] = flavor
+        dataMap["flavor"] = flavor
     except AttributeError:
-        dataMap["flavour"] = ""
+        dataMap["flavor"] = ""
 
     # For Uncollectible
     dataMap["collectible"] = True
