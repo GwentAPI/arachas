@@ -111,7 +111,7 @@ def getCardJson(html):
             dataMap["faction"] = data.a.get_text().strip()
         if attribute == "Strength:":
             # The strength is in a sibling element.
-            dataMap["strength"] = data.strong.next_sibling.strip()
+            dataMap["strength"] = int(data.strong.next_sibling.strip())
 
         if attribute == "Loyalty:":
             # A card can have multiple loyalties.
@@ -135,8 +135,8 @@ def getCardJson(html):
             match = costRegex.findall(data.strong.next_sibling.strip())
             # Both group should be matched.
             if match and len(match[0]) == 2:
-                dataMap["craft"]["normal"] = match[0][0]
-                dataMap["craft"]["premium"] = match[0][1]
+                dataMap["craft"]["normal"] = int(match[0][0])
+                dataMap["craft"]["premium"] = int(match[0][1])
 
         # Same as the crafting cost.
         if attribute == "Mill:":
@@ -146,8 +146,8 @@ def getCardJson(html):
 
             match = costRegex.findall(data.strong.next_sibling.strip())
             if match and len(match[0]) == 2:
-                dataMap["mill"]["normal"] = match[0][0]
-                dataMap["mill"]["premium"] = match[0][1]
+                dataMap["mill"]["normal"] = int(match[0][0])
+                dataMap["mill"]["premium"] = int(match[0][1])
 
         if attribute == "Position:":
             # A card can be played on multiple lanes (called position on the website).
