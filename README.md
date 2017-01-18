@@ -10,4 +10,6 @@ Install both Beautiful Soup and Requests:
 ```
 pip install beautifulsoup4
 pip install requests
+pip install pytz
+pip install termcolor
 ```

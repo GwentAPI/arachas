@@ -171,7 +171,7 @@ def saveJson(filename, cardList):
     filepath = os.path.join('./' + filename)
     print("Saving %s cards to: %s" % (len(cardList), filepath))
     with open(filepath, "w", encoding="utf-8-sig", newline="\n") as f:
-        json.dump(cardList, f, sort_keys=True, indent=2, separators=(',', ': '))
+        json.dump(cardList, f, ensure_ascii=False, sort_keys=True, indent=2, separators=(',', ': '))
 
 
 def main():
@@ -236,8 +236,7 @@ def main():
 
     saveJson(FILE_NAME, cardList)
 
-    test = indexer.Indexer(cardList)
-    test.createIndex()
+    indexer.Indexer(cardList)
 
 if __name__ == '__main__':
     setParser()

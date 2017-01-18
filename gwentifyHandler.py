@@ -73,7 +73,7 @@ def getCardJson(html):
     cardArticle = soup.find('div', id='primary').article
 
     # The card name is found outside of cardArticle. Just the main header of the page.
-    name = cardArticle.find('h1').get_text().replace(u'\u00a0', u' ')
+    name = cardArticle.find('h1').get_text()
     # Retrieve the main href of the image of the card (the href when we click on the picture).
     # It's the full size picture of the card.
     imageUrl = cardArticle.find('div', class_="card-img").a.get('href')
@@ -98,17 +98,17 @@ def getCardJson(html):
     # and iterate through them.
     for data in content.select('ul.card-cats > li'):
         # The name of the card field is inside a strong element.
-        attribute = data.strong.get_text().replace(u'\u00a0', u' ').strip()
+        attribute = data.strong.get_text().strip()
 
         # We check the name and do the appropriate action to store it in the map.
         if attribute == "Group:":
-            dataMap["type"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            dataMap["type"] = data.a.get_text().strip()
         if attribute == "Rarity:":
             # Currently, all variations have the same rarity.
             for variation in dataMap["variations"]:
-                variation["rarity"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+                variation["rarity"] = data.a.get_text().strip()
         if attribute == "Faction:":
-            dataMap["faction"] = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            dataMap["faction"] = data.a.get_text().strip()
         if attribute == "Strength:":
             # The strength is in a sibling element.
             dataMap["strength"] = data.strong.next_sibling.strip()
@@ -117,13 +117,13 @@ def getCardJson(html):
             # A card can have multiple loyalties.
             dataMap["loyalty"] = list()
             for loyalty in data.find_all('a'):
-                dataMap["loyalty"].append(loyalty.get_text().replace(u'\u00a0', u' ').strip())
+                dataMap["loyalty"].append(loyalty.get_text().strip())
 
         if attribute == "Type:":
             # A card can have multiple categories (called types on the website).
             dataMap["category"] = list()
             for category in data.find_all('a'):
-                dataMap["category"].append(category.get_text().replace(u'\u00a0', u' ').strip())
+                dataMap["category"].append(category.get_text().strip())
 
         if attribute == "Craft:":
             # Create a map for the crafting cost. To store both normal and premium cost.
@@ -152,7 +152,7 @@ def getCardJson(html):
         if attribute == "Position:":
             # A card can be played on multiple lanes (called position on the website).
             dataMap["lane"] = list()
-            lane = data.a.get_text().replace(u'\u00a0', u' ').strip()
+            lane = data.a.get_text().strip()
 
             # If the text is "Multiple", then that mean all 3 lanes are valid.
             # We add the 3 different lanes to the list instead of giving it a special significance.
@@ -169,14 +169,14 @@ def getCardJson(html):
     # Some cards might not have their info data already either. We wrap it in a try catch it case the element doesn't
     # exists.
     try:
-        info = cardArticle.find('div', class_="card-text").find('p').get_text().replace(u'\u00a0', u' ').strip()
+        info = cardArticle.find('div', class_="card-text").find('p').get_text().strip()
         dataMap["info"] = info
     except AttributeError:
         dataMap["info"] = ""
 
     # Same as for info.
     try:
-        flavor = cardArticle.find('p', class_="flavor").get_text().replace(u'\u00a0', u' ').strip()
+        flavor = cardArticle.find('p', class_="flavor").get_text().strip()
         dataMap["flavor"] = flavor
     except AttributeError:
         dataMap["flavor"] = ""
@@ -188,7 +188,7 @@ def getCardJson(html):
     # in the game. Those cards have a special element on their page to inform the reader. This is why this we're using
     # a try catch. Cards are collectible by default unless otherwise noted.
     try:
-        textCollectable = content.find('ul', class_="card-cats").find_next_sibling('strong').a.get_text().replace(u'\u00a0', u' ').strip()
+        textCollectable = content.find('ul', class_="card-cats").find_next_sibling('strong').a.get_text().strip()
         if textCollectable == "Uncollectible":
             dataMap["collectible"] = False
     except AttributeError:
