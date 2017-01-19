@@ -98,7 +98,6 @@ class Indexer:
     # Will print a summary of deleted/added cards.
     def verifyIndex(self):
         needReIndex = False
-        message = "SUMMARY OF CHANGES"
 
         # Object used to calculate the difference between the two dict.
         # We only pass the "cards" key because it contain all the cards and we are not interested in the card
@@ -109,14 +108,27 @@ class Indexer:
         # Set of keys that were removed.
         removed = diff.removed()
 
+        if len(added) > 0 or len(removed) > 0:
+            needReIndex = True
+
+        self.printSummary(added, removed)
+
+        return needReIndex
+        # Todo: prompt action if something changed.
+        # Todo: Write a machine friendly log that could be used to automate.
+
+    def printSummary(self, added, removed):
+
+        if not (len(added) or len(removed)):
+            return
+        message = "SUMMARY OF CHANGES"
+
         # Print an header.
         print("=".center(80, "="))
         print('\n'.join('{:^80}'.format(s) for s in message.split('\n')))
         print("=".center(80, "="))
 
         if len(added) > 0:
-            needReIndex = True
-
             print()
             print("The following cards were added: \n")
             for card in added:
@@ -124,8 +136,6 @@ class Indexer:
             print()
 
         if len(removed) > 0:
-            needReIndex = True
-
             print()
             print("The following cards were removed: \n")
             for card in removed:
@@ -138,7 +148,3 @@ class Indexer:
 
         print("=".center(80, "="))
         print()
-
-        return needReIndex
-        # Todo: prompt action if something changed.
-        # Todo: Write a machine friendly log that could be used to automate.
