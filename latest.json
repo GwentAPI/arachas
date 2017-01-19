@@ -2088,7 +2088,7 @@
     "faction": "Skellige",
     "flavor": "Hear ye now the tale of the heroic deeds of Clan an Craite.",
     "info": "Add 2 base strength to all non-Gold units in your graveyard.",
-    "key": "draig_bon–dhu",
+    "key": "draig_bon-dhu",
     "lane": [
       "Siege"
     ],
@@ -2394,7 +2394,7 @@
     "faction": "Scoia'tael",
     "flavor": "The dryad queen has eyes of molten silver, and a heart of cold–forged steel.",
     "info": "Return a non-Relentless unit on your side to your hand and immediately play it again.",
-    "key": "eithné",
+    "key": "eithne",
     "mill": {
       "normal": 50,
       "premium": 200
@@ -4748,7 +4748,7 @@
     "faction": "Northern Realms",
     "flavor": "I care only about what's good for Aretuza and my pupils.",
     "info": "Spawn a Ban Ard Adept whenever a Gold card appears on your side.",
-    "key": "margarita_laux–antille",
+    "key": "margarita_laux-antille",
     "lane": [
       "Ranged"
     ],

@@ -11,7 +11,7 @@ import mimetypes
 import argparse
 import re
 
-import unicodedata
+from unidecode import unidecode
 
 import gwentifyHandler as siteHandler
 import indexer
@@ -50,11 +50,12 @@ HEADERS = {
 }
 
 
+# Set the command line parameters.
 def setParser():
     parser = argparse.ArgumentParser(description='This script allows you to crawl different Gwent community website '
                                                  'to parse and save data about the cards.')
     parser.add_argument('-o', '--output', help='Name of the json file that will be saved.', required=False)
-    parser.add_argument('-i', '--image', help='Use this argument to download all cards artworks.',
+    parser.add_argument('--image', help='Use this argument to download the full size artwork for all cards.',
                         action='store_true', required=False)
 
     global args
@@ -113,18 +114,22 @@ class CardThread(threading.Thread):
             self.cardQueue.task_done()
 
 
+# Transform the given name to an url friendly format.
 def getNameKey(name):
-    # test = unicodedata.normalize('NFD', name).encode('ascii', 'ignore')
     # https://stackoverflow.com/questions/6116978/python-replace-multiple-strings
     name = name.lower()
 
+    # In one pass, replace a few space characters and special characters.
     rep = dict((re.escape(k), v) for k, v in NAME_REPLACE.items())
     pattern = re.compile("|".join(rep.keys()))
     name = pattern.sub(lambda m: rep[re.escape(m.group(0))], name)
 
+    # Tries to represent the Unicode data in ASCII characters. It will remove accents and the likes.
+    name = unidecode(name)
     return name
 
 
+# Class responsible for downloading the card artworks.
 class ImageThread(threading.Thread):
     def __init__(self, imageQueue):
         threading.Thread.__init__(self)
@@ -132,18 +137,21 @@ class ImageThread(threading.Thread):
 
     def run(self):
         while True:
+            # The name will be used for saving the file
             name, url = self.imageQueue.get()
             res = requests.get(url, headers=HEADERS, timeout=TIMEOUT, stream=True)
 
             if res.status_code == 200:
                 content_type = res.headers['content-type']
+                # With the content type received from the web server, use mimetypes to guess the file extension.
                 extension = mimetypes.guess_extension(content_type)
 
                 filepath = os.path.join('./' + IMAGE_FOLDER + '/' + name + extension)
-
                 with open(filepath, 'wb') as f:
+                    # Stream the files.
                     for chunk in res:
                         f.write(chunk)
+            # Notify that we have finished one task.
             self.imageQueue.task_done()
 
 # Function to retrieve a list of URL for every pages of cards.
@@ -175,16 +183,18 @@ def saveJson(filename, cardList):
 
 
 def main():
-
+    # Attribute for the cli parameter to know whether or not we should download the artworks.
     global DOWNLOAD_ARTWORK
 
+    # Retrieve the parameter send by the user.
     if args.image:
         DOWNLOAD_ARTWORK = args.image
 
-    imageFilePath = os.path.join('./' + IMAGE_FOLDER)
+    # Folder where the artworks are saved.
+    imageFolderPath = os.path.join('./' + IMAGE_FOLDER)
 
-    if not os.path.exists(imageFilePath):
-        os.makedirs(imageFilePath)
+    if not os.path.exists(imageFolderPath):
+        os.makedirs(imageFolderPath)
 
     # Start THREADS_COUNT number of thread working on retrieving cards URL from a page URL.
     for i in range(THREADS_COUNT):
@@ -208,6 +218,7 @@ def main():
         c.setDaemon(True)
         c.start()
 
+    # Start THREADS_COUNT number of thread working on downloading the artwork for the cards.
     if DOWNLOAD_ARTWORK:
         for i in range(THREADS_COUNT):
             it = ImageThread(imageQueue)
@@ -229,13 +240,16 @@ def main():
     # Makes it easier to see difference when using a diff tool.
     cardList = sorted(cardList, key=lambda element: element['name'])
 
+    # Attribute for the default file name used to save the data.
     global FILE_NAME
 
+    # If it was overwritten by sending a cli parameter.
     if args.output:
         FILE_NAME = args.output
 
     saveJson(FILE_NAME, cardList)
 
+    # Run the indexer to have a gross summary of changes between evert run of the script.
     indexer.Indexer(cardList)
 
 if __name__ == '__main__':
