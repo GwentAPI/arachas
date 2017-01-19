@@ -33,9 +33,12 @@ If you want to download the full sized card images:
 ```
 python arachas.py --image
 ```
+The images will be saved under `./media`.
 
 If you want to save the output data under a different name:
 
 ```
 python arachas.py --output <name>
 ```
+
+The file is saved under the **local** directory.
