@@ -87,12 +87,26 @@ def getCardJson(html):
     # Only one variation in gwentify, but the game can have many variations of a card
     variation = {}
     variation["availability"] = "BaseSet" # Currently all cards are from the base set.
+
+    # Certain cards created from effects (like tokens) are called "uncollectible" because we can't actually collect them
+    # in the game. Those cards have a special element on their page to inform the reader. This is why this we're using
+    # a try catch. Cards are collectible by default unless otherwise noted.
+    # There is no way to differentiate a token from an unreleased/removed card of the game.
+    try:
+        textCollectable = content.find('ul', class_="card-cats").find_next_sibling('strong').a.get_text().strip()
+        if textCollectable == "Uncollectible":
+            variation["availability"] = "NonOwnable"
+        else:
+            variation["availability"] = "BaseSet"
+    except AttributeError:
+        variation["availability"] = "BaseSet"
+
+
+
     art = {}
     art["fullsizeImageUrl"] = imageUrl.strip()
 
     variation["art"] = art
-
-    dataMap["variations"].append(variation)
 
     # The div contains an unordered list. We will get all the elements of that list
     # and iterate through them.
@@ -104,9 +118,8 @@ def getCardJson(html):
         if attribute == "Group:":
             dataMap["type"] = data.a.get_text().strip()
         if attribute == "Rarity:":
-            # Currently, all variations have the same rarity.
-            for variation in dataMap["variations"]:
-                variation["rarity"] = data.a.get_text().strip()
+            # Currently, we don't have any other variation so we only work with the single variation.
+            variation["rarity"] = data.a.get_text().strip()
         if attribute == "Faction:":
             dataMap["faction"] = data.a.get_text().strip()
         if attribute == "Strength:":
@@ -127,27 +140,27 @@ def getCardJson(html):
 
         if attribute == "Craft:":
             # Create a map for the crafting cost. To store both normal and premium cost.
-            dataMap["craft"] = {}
-            dataMap["craft"]["normal"] = -1
-            dataMap["craft"]["premium"] = -1
+            variation["craft"] = {}
+            variation["craft"]["normal"] = -1
+            variation["craft"]["premium"] = -1
 
             # Use the regex to extract both the normal and premium cost.
             match = costRegex.findall(data.strong.next_sibling.strip())
             # Both group should be matched.
             if match and len(match[0]) == 2:
-                dataMap["craft"]["normal"] = int(match[0][0])
-                dataMap["craft"]["premium"] = int(match[0][1])
+                variation["craft"]["normal"] = int(match[0][0])
+                variation["craft"]["premium"] = int(match[0][1])
 
         # Same as the crafting cost.
         if attribute == "Mill:":
-            dataMap["mill"] = {}
-            dataMap["mill"]["normal"] = -1
-            dataMap["mill"]["premium"] = -1
+            variation["mill"] = {}
+            variation["mill"]["normal"] = -1
+            variation["mill"]["premium"] = -1
 
             match = costRegex.findall(data.strong.next_sibling.strip())
             if match and len(match[0]) == 2:
-                dataMap["mill"]["normal"] = int(match[0][0])
-                dataMap["mill"]["premium"] = int(match[0][1])
+                variation["mill"]["normal"] = int(match[0][0])
+                variation["mill"]["premium"] = int(match[0][1])
 
         if attribute == "Position:":
             # A card can be played on multiple lanes (called position on the website).
@@ -165,6 +178,8 @@ def getCardJson(html):
             else:
                 dataMap["lane"].append(lane)
 
+    dataMap["variations"].append(variation)
+
     # The card info (the text describing its ability) is stored in a particular element that is uniquely identifiable.
     # Some cards might not have their info data already either. We wrap it in a try catch it case the element doesn't
     # exists.
@@ -180,18 +195,5 @@ def getCardJson(html):
         dataMap["flavor"] = flavor
     except AttributeError:
         dataMap["flavor"] = ""
-
-    # For Uncollectible
-    dataMap["collectible"] = True
-
-    # Certain cards created from effects (like tokens) are called "uncollectible" because we can't actually collect them
-    # in the game. Those cards have a special element on their page to inform the reader. This is why this we're using
-    # a try catch. Cards are collectible by default unless otherwise noted.
-    try:
-        textCollectable = content.find('ul', class_="card-cats").find_next_sibling('strong').a.get_text().strip()
-        if textCollectable == "Uncollectible":
-            dataMap["collectible"] = False
-    except AttributeError:
-        dataMap["collectible"] = True
 
     return dataMap
