@@ -25,7 +25,7 @@ HOST = 'http://gwentify.com/cards/?view=table'
 
 IMAGE_FOLDER = 'media'
 
-FILE_NAME = 'latest.json'
+FILE_NAME = 'latest'
 
 DOWNLOAD_ARTWORK = False
 
@@ -176,10 +176,15 @@ def getPages(url):
 # cardList is the list of cards.
 # The file is saved in the same path as where the script is ran from.
 def saveJson(filename, cardList):
-    filepath = os.path.join('./' + filename)
+    filepath = os.path.join('./output/' + filename)
     print("Saving %s cards to: %s" % (len(cardList), filepath))
-    with open(filepath, "w", encoding="utf-8", newline="\n") as f:
+    with open(filepath + ".json", "w", encoding="utf-8", newline="\n") as f:
         json.dump(cardList, f, ensure_ascii=False, sort_keys=True, indent=2, separators=(',', ': '))
+    with open(filepath + ".jsonl", "w", encoding="utf-8", newline="\n") as f:
+        for card in cardList:
+            json.dump(card, f, ensure_ascii=False, sort_keys=True)
+            f.write("\n")
+
 
 
 def main():
