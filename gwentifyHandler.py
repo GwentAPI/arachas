@@ -187,13 +187,15 @@ def getCardJson(html):
         info = cardArticle.find('div', class_="card-text").find('p').get_text().strip()
         dataMap["info"] = info
     except AttributeError:
-        dataMap["info"] = ""
+        pass
+        # dataMap["info"] = ""
 
     # Same as for info.
     try:
         flavor = cardArticle.find('p', class_="flavor").get_text().strip()
         dataMap["flavor"] = flavor
     except AttributeError:
-        dataMap["flavor"] = ""
+        pass
+        # dataMap["flavor"] = ""
 
     return dataMap
