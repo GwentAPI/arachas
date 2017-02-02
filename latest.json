@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "category": [
       "Special"
@@ -136,6 +136,137 @@
     ]
   },
   {
+    "faction": "Nilfgaard",
+    "info": "Immune to Weather.",
+    "key": "alba_pikeman",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Alba Pikeman",
+    "strength": 7,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-alba-pikeman.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "info": "Play an instance of this card from your deck for each revealed card in either hand.",
+    "key": "alba_spearmen",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Alba Spearmen",
+    "strength": 6,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-alba-spearmen.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Mage"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "A ball of fire? Why, naturally. Whatsoever Your Imperial Majesty desires.",
+    "info": "If possible, draw a card, then your opponent draws a card and reveals it.",
+    "key": "albrich",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Albrich",
+    "strength": 8,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-albrich.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Mage"
+    ],
+    "faction": "Nilfgaard",
+    "info": "Reveal a random card in your opponent’s hand.",
+    "key": "alchemist",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Alchemist",
+    "strength": 6,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-alchemist.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
     "category": [
       "Special"
     ],
@@ -194,6 +325,38 @@
           "premium": 25
         },
         "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "A spy? No, that's saying far too much. I consider myself more of an observer.",
+    "info": "Add 12 strength to a random non-Gold unit on your side of the battlefield.",
+    "key": "ambassador",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Disloyal"
+    ],
+    "name": "Ambassador",
+    "strength": 2,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-ambassador.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
       }
     ]
   },
@@ -331,6 +494,106 @@
     ]
   },
   {
+    "category": [
+      "Special"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "\"How much is a human life worth?\"\r\n\"That depends. Yours, for instance, I'd put at about a hundred orens.\"",
+    "info": "Destroy an opposing non-Gold unit. Remove an amount equal to that unit’s strength from a random non-Gold unit on your side.",
+    "key": "assassination",
+    "lane": [
+      "Event"
+    ],
+    "name": "Assassination",
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-assassination.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Mage"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "Nilfgaardian mages do have a choice: servile submission, or the gallows.",
+    "info": "Choose up to 2 cards from your opponent’s graveyard and randomly place them in your opponent’s deck. For each card chosen, lose 2 strength.",
+    "key": "assire_var_anahid",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Assire Var Anahid",
+    "strength": 9,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-assire-var-anahid.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 800,
+          "premium": 1600
+        },
+        "mill": {
+          "normal": 200,
+          "premium": 800
+        },
+        "rarity": "Legendary"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Witcher"
+    ],
+    "faction": "Nilfgaard",
+    "info": "Lock a non-Gold unit on the battlefield. A locked unit loses all tokens (Resilience, Quen, etc.) and its ability does not trigger while it remains on the battlefield.",
+    "key": "auckes",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Auckes",
+    "strength": 5,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-auckes.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
     "faction": "Monsters",
     "flavor": "You humans have… unusual tastes.",
     "info": "Draw 2 cards. Your opponent draws 1 card.",
@@ -396,8 +659,6 @@
   },
   {
     "faction": "Northern Realms",
-    "flavor": "",
-    "info": "",
     "key": "ban_ard_adept",
     "lane": [
       "Siege"
@@ -452,7 +713,6 @@
   },
   {
     "faction": "Skellige",
-    "flavor": "",
     "info": "Gain 2 strength for each weakened unit on the battlefield.",
     "key": "bear",
     "lane": [
@@ -587,6 +847,69 @@
       {
         "art": {
           "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2016/06/biting-frost-4.png"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "I aim for the knees. Always.",
+    "info": "Remove 2 strength from an opposing non-Gold unit. If the unit was Spying, gain 3 strength.",
+    "key": "black_infantry_arbalest",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Black Infantry Arbalest",
+    "strength": 4,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-black-infantry-arbalest.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Special"
+    ],
+    "faction": "Neutral",
+    "flavor": "The witcher moved with unnatural speed. Too fast for the human eye to register.",
+    "info": "Toggle the Weather Immunity of a non-Gold unit on the battlefield.",
+    "key": "blizzard_potion",
+    "lane": [
+      "Event"
+    ],
+    "name": "Blizzard Potion",
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-blizzard-potion.jpg"
         },
         "availability": "BaseSet",
         "craft": {
@@ -862,6 +1185,70 @@
     ]
   },
   {
+    "faction": "Nilfgaard",
+    "flavor": "His eyes flashed under his winged helmet. Fire gleamed from his sword's blade.",
+    "info": "After 2 turns, both Leaders will again be available for use.",
+    "key": "cahir",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Cahir",
+    "strength": 6,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-cahir.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "Men require constant alluring. Mystique and refinement do the job quite well.",
+    "info": "Look at the top card in your deck. You may place it at the bottom of your deck. Draw a card.",
+    "key": "cantarella",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Disloyal"
+    ],
+    "name": "Cantarella",
+    "strength": 8,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-cantarella.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
     "category": [
       "Wild Hunt"
     ],
@@ -932,6 +1319,71 @@
     ]
   },
   {
+    "faction": "Nilfgaard",
+    "info": "Add 4 strength to a non-Gold unit on your side and give it a shield. The shield protects its bearer from one strength-removing effect.",
+    "key": "ceallach",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Ceallach",
+    "strength": 4,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-ceallah.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Harpy"
+    ],
+    "faction": "Monsters",
+    "info": "Gain 3 whenever a unit absorbs another’s strength. Transform all Harpy Eggs into Harpies.",
+    "key": "celaeno_harpy",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Celaeno Harpy",
+    "strength": 3,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-celaeno-harpy.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
     "faction": "Skellige",
     "flavor": "They call me Sparrowhawk. Know why? Because I eat rats like you for breakfast.",
     "info": "When moved to graveyard, convert to Silver.",
@@ -996,7 +1448,6 @@
   },
   {
     "faction": "Neutral",
-    "flavor": "",
     "info": "Remove 2 strength from all other units.",
     "key": "chironex",
     "lane": [
@@ -1469,7 +1920,6 @@
       "Weather"
     ],
     "faction": "Neutral",
-    "flavor": "",
     "info": "Remove all Weather effects and reset all weakened non-immune units on affected rows to their base strength.",
     "key": "clear_skies",
     "lane": [
@@ -1483,6 +1933,70 @@
           "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2016/06/clear-skies-3.png"
         },
         "availability": "NonOwnable",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Neutral",
+    "flavor": "Everyone wantin' to trade in Novigrad's got a clear choice - agree terms with Cleaver or kiss their knees farewell.",
+    "info": "Lock a non-Gold unit on the battlefield. A locked unit loses all tokens (Resilience, Quen, etc.) and its ability does not trigger while it remains on the battlefield.",
+    "key": "cleaver",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Cleaver",
+    "strength": 5,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-cleaver.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "Want irrefutable proof of civilization's advance? Look at war. Man gets better at killing with each one.",
+    "info": "Keep a non-Gold unit on the battlefield at the end of this round.",
+    "key": "combat_engineer",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Combat Engineer",
+    "strength": 3,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-combat-engineer.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
         "rarity": "Common"
       }
     ]
@@ -1521,7 +2035,6 @@
   },
   {
     "faction": "Scoia'tael",
-    "flavor": "",
     "info": "No ability.",
     "key": "commando_neophyte",
     "lane": [
@@ -1604,7 +2117,6 @@
   },
   {
     "faction": "Skellige",
-    "flavor": "",
     "info": "Add 2 strength to any non-Gold unit appearing on the row.",
     "key": "craven_revived",
     "lane": [
@@ -1723,6 +2235,105 @@
   },
   {
     "category": [
+      "Mage"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "Cynthia's talents can be deadly. She needs a tight leash.",
+    "info": "If possible, draw a card, then create The Guardian in your opponent’s hand and reveal it.",
+    "key": "cynthia",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Cynthia",
+    "strength": 6,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-cynthia.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "faction": "Neutral",
+    "flavor": "One of four bosses who control the city's underworld - the others being Sigi Reuven, Carlo 'The Cleaver' Varese and the King of Beggars.",
+    "info": "Remove 2 base strength from all opposing non-Gold units. When destroyed, add 2 strength to all non-Gold units on the battlefield.",
+    "key": "cyprian_wiley",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Cyprian Wiley",
+    "strength": 3,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-cyprian-wiley.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "Learned a lot at Braibant Military Academy, How to scrub potatoes, for instance.",
+    "info": "No ability.",
+    "key": "daerlan_foot_soldiers",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Daerlan Foot Soldiers",
+    "strength": 8,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-daerlan-foot-soldiers.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "category": [
       "Vodyanoi"
     ],
     "faction": "Monsters",
@@ -1814,6 +2425,79 @@
     ]
   },
   {
+    "category": [
+      "Dwarf"
+    ],
+    "faction": "Scoia'tael",
+    "flavor": "I know how to execute orders, so take your advice somewhere else.",
+    "info": "At the end of the turn, reset all non-Gold units on the row to base strength.",
+    "key": "dennis_cranmer",
+    "lane": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "loyalty": [
+      "Disloyal",
+      "Loyal"
+    ],
+    "name": "Dennis Cranmer",
+    "strength": 4,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-dennis-cranmer.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Mage"
+    ],
+    "faction": "Northern Realms",
+    "flavor": "I once made a prisoner vomit his own entrails... Ah, good times...",
+    "info": "Banish a non-Gold unit from your opponent’s Graveyard.",
+    "key": "dethmold",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Dethmold",
+    "strength": 5,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-dethmold.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
     "faction": "Northern Realms",
     "flavor": "Really believe you can dupe me with that tale you just pulled from your arse?",
     "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain 1 strength for each unit converted.",
@@ -1881,7 +2565,6 @@
       "Special"
     ],
     "faction": "Neutral",
-    "flavor": "",
     "info": "Reset any unit on the battlefield to its base strength. If Gold, convert it to Silver (or Bronze, if that was its original color).",
     "key": "dimeritium_shackles",
     "lane": [
@@ -1893,6 +2576,38 @@
       {
         "art": {
           "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2016/12/dimeritium-shackles.png"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "faction": "Skellige",
+    "flavor": "When a warrant says \"dead or alive,\" most bounty hunters'll just kill you. Not me. Should I catch you, you'll hang, and I'll tickle your feet as you expire.",
+    "info": "Discard a non-Gold unit from your deck.",
+    "key": "djenge_frett",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Djenge Frett",
+    "strength": 6,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-djenge-frett.jpg"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2481,6 +3196,62 @@
     ]
   },
   {
+    "faction": "Nilfgaard",
+    "flavor": "They do not call me the Patient. Take care they do not call you the Headless.",
+    "info": "Reveal 2 random cards in the opposing hand.",
+    "key": "emhyr_var_emreis",
+    "name": "Emhyr Var Emreis",
+    "type": "Leader",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-emhyr-var-emreis.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "info": "Play the top non-Gold unit in your deck.",
+    "key": "emissary",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Disloyal"
+    ],
+    "name": "Emissary",
+    "strength": 2,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-emissary.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
     "category": [
       "Special"
     ],
@@ -2633,8 +3404,39 @@
     ]
   },
   {
+    "faction": "Nilfgaard",
+    "flavor": "\"Here she comes,\" he thought, \"our imperial interest. A mock-princess, a mock-queen for Cintra. A mock-ruler for the mouth of the Yarra, future lifeblood of the empire.\"",
+    "info": "Gain 1 strength at the start of each turn while Spying. If Spying when its owner passes, move to the opposing side.",
+    "key": "fake_ciri",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Disloyal"
+    ],
+    "name": "Fake Ciri",
+    "strength": 3,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-fake-ciri.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
     "faction": "Neutral",
-    "flavor": "",
     "info": "Remove 2 strength from all other non-Gold units on the row.",
     "key": "field_marshal_duda_agitator",
     "lane": [
@@ -2659,7 +3461,6 @@
   },
   {
     "faction": "Neutral",
-    "flavor": "",
     "info": "Add 2 strength to all other non-Gold units on the row.",
     "key": "field_marshal_duda_companion",
     "lane": [
@@ -2776,6 +3577,41 @@
           "premium": 200
         },
         "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Machine"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "Not the best for taking cities, but great for razing them to the ground.",
+    "info": "Remove 3 strength from an opposing non-Gold unit.",
+    "key": "fire_scorpion",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Fire Scorpion",
+    "strength": 4,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-fire-scorpion.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
       }
     ]
   },
@@ -2962,6 +3798,40 @@
           "premium": 200
         },
         "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Mage"
+    ],
+    "faction": "Nilfgaard",
+    "info": "No ability.",
+    "key": "fringilla_vigo",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Fringilla Vigo",
+    "strength": 10,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-fringilla-vigo.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
       }
     ]
   },
@@ -3350,6 +4220,67 @@
   },
   {
     "category": [
+      "Harpy"
+    ],
+    "faction": "Monsters",
+    "flavor": "There are many species of harpy, and all are kleptomaniacs.",
+    "info": "Spawn 2 Harpy Eggs on random rows on your side.",
+    "key": "harpy",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Harpy",
+    "strength": 3,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/harpy.png"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Monsters",
+    "flavor": "A harpy egg omelet - a delicious delicacy, good sir. Quite dear, too, for as you might surmise, the wretches don't part with their eggs willingly.",
+    "info": "When this unit’s strength is absorbed by another, add an additional 9 strength to the absorbing unit.",
+    "key": "harpys_egg",
+    "lane": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Harpy’s Egg",
+    "strength": 1,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/harpys-egg.png"
+        },
+        "availability": "NonOwnable",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "category": [
       "Elf"
     ],
     "faction": "Scoia'tael",
@@ -3371,6 +4302,39 @@
       {
         "art": {
           "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2016/10/hawker-healer-2.png"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "faction": "Scoia'tael",
+    "info": "When removed from the battlefield, add 5 to all non-Gold units on the row.",
+    "key": "hawker_smuggler",
+    "lane": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Hawker Smuggler",
+    "strength": 2,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-hawker-smuggler.jpg"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3421,7 +4385,6 @@
   },
   {
     "faction": "Skellige",
-    "flavor": "",
     "info": "Destroy all non-Gold units on both sides of the battlefield and remove all Weather effects.",
     "key": "hemdall",
     "lane": [
@@ -3669,6 +4632,68 @@
     ]
   },
   {
+    "faction": "Nilfgaard",
+    "info": "Gain 3 strength for each Spying unit on the battlefield.",
+    "key": "impera_brigade",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Impera Brigade",
+    "strength": 6,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-impera-brigade.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "info": "Gain 3 strength whenever either player uses a Leader card.",
+    "key": "impera_enforcers",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Impera Enforcers",
+    "strength": 6,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-impera-enforcers.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
     "category": [
       "Elf"
     ],
@@ -3707,7 +4732,6 @@
   },
   {
     "faction": "Neutral",
-    "flavor": "",
     "info": "When destroyed, add 3 strength to all opposing non-Gold units.",
     "key": "iris",
     "lane": [
@@ -3771,6 +4795,62 @@
           "premium": 800
         },
         "rarity": "Legendary"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "info": "Play the top non-Gold unit in your deck and add 10 to its strength.",
+    "key": "joachim_de_wett",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Disloyal"
+    ],
+    "name": "Joachim De Wett",
+    "strength": 5,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-joachim-de-wett.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "A sword is but one of many tools at a ruler's disposal.",
+    "info": "Move all Spying non-Gold units to your side of the battlefield.",
+    "key": "john_calveit",
+    "name": "John Calveit",
+    "type": "Leader",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-john-calveit.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
       }
     ]
   },
@@ -3908,6 +4988,38 @@
   },
   {
     "faction": "Northern Realms",
+    "flavor": "I never miss twice.",
+    "info": "Lose 1 strength whenever a Machine is played on your side. Then add 3 to that unit’s strength.",
+    "key": "kaedweni_siege_expert",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Kaedweni Siege Expert",
+    "strength": 4,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-kaedweni-siege-expert.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Northern Realms",
     "flavor": "\"You gotta recalibrate the arm by five degrees.\" \"Do what by the what now?\"",
     "info": "Add 3 strength to 2 non-Gold units on your side of the battlefield.",
     "key": "kaedweni_siege_support",
@@ -3977,7 +5089,6 @@
       "Vampire"
     ],
     "faction": "Monsters",
-    "flavor": "",
     "info": "Every 3 turns, banish a random non-gold unit in your graveyard and absorb its strength.",
     "key": "katakan",
     "lane": [
@@ -4201,7 +5312,6 @@
       "Breedable"
     ],
     "faction": "Monsters",
-    "flavor": "",
     "info": "No ability.",
     "key": "lesser_earth_elemental",
     "lane": [
@@ -4230,7 +5340,6 @@
       "Breedable"
     ],
     "faction": "Monsters",
-    "flavor": "",
     "info": "No ability.",
     "key": "lesser_fire_elemental",
     "lane": [
@@ -4284,6 +5393,44 @@
     ]
   },
   {
+    "category": [
+      "Witcher"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "Witchers never die in their beds.",
+    "info": "Banish all non-Gold units on the row and add their strength to this unit’s base strength. When removed, set base strength to 1.",
+    "key": "letho_of_gulet",
+    "lane": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "loyalty": [
+      "Disloyal",
+      "Loyal"
+    ],
+    "name": "Letho of Gulet",
+    "strength": 1,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/02/temp-letho-of-gulet.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 800,
+          "premium": 1600
+        },
+        "mill": {
+          "normal": 200,
+          "premium": 800
+        },
+        "rarity": "Legendary"
+      }
+    ]
+  },
+  {
     "faction": "Skellige",
     "flavor": "Escape them? In the waters of Skellige? Good luck.",
     "info": "Immune to Rain.",
@@ -4317,7 +5464,6 @@
   },
   {
     "faction": "Scoia'tael",
-    "flavor": "",
     "info": "Immune to Frost. When removed from the battlefield, add 10 strength to any Hjalmars on the opposite side.",
     "key": "lord_of_undvik",
     "lane": [
@@ -4498,6 +5644,40 @@
     ]
   },
   {
+    "category": [
+      "Machine"
+    ],
+    "faction": "Nilfgaard",
+    "info": "Remove 2 strength from a random opposing unit whenever a card in either hand is revealed.",
+    "key": "mangonel",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Mangonel",
+    "strength": 6,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-mangonel.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
     "faction": "Monsters",
     "flavor": "We know little about what manticores look like: though many have seen them, very few have lived to tell their tale.",
     "info": "No ability.",
@@ -4623,6 +5803,38 @@
           "premium": 200
         },
         "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "I'll take an attentive reconnaissance unit over a fine brigade any day.",
+    "info": "Set the strength of all opposing non-Gold Spying units to 1.",
+    "key": "menno_coehoorn",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Menno Coehoorn",
+    "strength": 9,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-menno-coehoorn.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 800,
+          "premium": 1600
+        },
+        "mill": {
+          "normal": 200,
+          "premium": 800
+        },
+        "rarity": "Legendary"
       }
     ]
   },
@@ -4791,11 +6003,35 @@
     ]
   },
   {
+    "faction": "Nilfgaard",
+    "flavor": "The summer sun reflected in the quiet waters of the Alba -- that's Nilfgaard to me.",
+    "info": "Play a disloyal unit from your deck.",
+    "key": "morvran_voorhis",
+    "name": "Morvran Voorhis",
+    "type": "Leader",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-morvran-voorhis.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
     "category": [
       "Special"
     ],
     "faction": "Neutral",
-    "flavor": "",
     "info": "Add 4 base strength to a non-Gold unit on your side of the battlefield.",
     "key": "mutagen",
     "lane": [
@@ -4877,6 +6113,72 @@
           "premium": 200
         },
         "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "They call us Death's heads. Care to find out why?",
+    "info": "Remove 4 strength from a Spying non-Gold unit on either side of the battlefield. If the unit was destroyed gain 4 base strength.",
+    "key": "nauzicaa_brigade",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Nauzicaa Brigade",
+    "strength": 6,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/02/temp-nauzicaa-brigade.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "The Emperor will teach the North discipline.",
+    "info": "Add 2 strength to all other non-Gold units on the row.",
+    "key": "nauzicaa_standard_bearer",
+    "lane": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Nauzicaa Standard Bearer",
+    "strength": 5,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-nauzicaa-standard-bearer.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
       }
     ]
   },
@@ -4979,6 +6281,37 @@
           "premium": 200
         },
         "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "info": "Reveal a random card in your hand.",
+    "key": "nilfgaardian_knight",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Nilfgaardian Knight",
+    "strength": 11,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-nilfgaardian-knight.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
       }
     ]
   },
@@ -5087,6 +6420,40 @@
     ]
   },
   {
+    "faction": "Monsters",
+    "flavor": "Do not disturb.",
+    "info": "When more than 3 units are on the opposite row, remove 2 from their strength. Then transform into TBD",
+    "key": "old_speartip",
+    "lane": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Old Speartip",
+    "strength": 4,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-old-speartip.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
     "faction": "Neutral",
     "flavor": "At least you now know I don't easily lose my head.",
     "info": "Resurrect at the start of the round and remove 2 base strength.",
@@ -5187,6 +6554,38 @@
           "premium": 800
         },
         "rarity": "Legendary"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "These are not the hands of an \"Excellency,\" but of a farmer. So we speak peasant to peasant.",
+    "info": "Reset a non-Gold unit to its base strength.",
+    "key": "peter_saar_gwynleve",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Peter Saar Gwynleve",
+    "strength": 7,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-peter-saar-gwynleve.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
       }
     ]
   },
@@ -5486,7 +6885,6 @@
   },
   {
     "faction": "Monsters",
-    "flavor": "",
     "info": "No ability.",
     "key": "rabid_wolf",
     "lane": [
@@ -5564,7 +6962,6 @@
   },
   {
     "faction": "Skellige",
-    "flavor": "",
     "info": "Immune to Frost. When first appearing, gain 1 base strength of it’s Round 2 or 2 base strength if it’s Round 3.",
     "key": "raging_bear",
     "lane": [
@@ -5620,7 +7017,6 @@
   },
   {
     "faction": "Neutral",
-    "flavor": "",
     "info": "Play a random Bronze unit from your deck.",
     "key": "rally",
     "lane": [
@@ -6051,6 +7447,41 @@
   },
   {
     "category": [
+      "Machine"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "Let historians debate whether spreading plague in a besieged city is ethical. We just card if it's effective.",
+    "info": "Spawn a Cow Carcass on an opposing row.",
+    "key": "rot_tosser",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Rot Tosser",
+    "strength": 4,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-rot-tosser.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "category": [
       "Mage"
     ],
     "faction": "Northern Realms",
@@ -6250,8 +7681,42 @@
     ]
   },
   {
+    "category": [
+      "Witcher"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "We do what we must. I am not ashamed of that.",
+    "info": "Choose an opposing non-Gold unit and remove 1 from its strength for each revealed card in both players’ hands.",
+    "key": "serrit",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Serrit",
+    "strength": 6,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-serrit.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
     "faction": "Neutral",
-    "flavor": "",
     "info": "Remove 1 strength from a random opposing non-Gold unit.",
     "key": "shadow",
     "lane": [
@@ -6478,7 +7943,6 @@
   },
   {
     "faction": "Skellige",
-    "flavor": "",
     "info": "Immune to Weather. Move to a random opposing row at the start of your turn and remove 1 strength from all non-Gold units on the row.",
     "key": "spectral_whale",
     "lane": [
@@ -6507,7 +7971,6 @@
       "Special"
     ],
     "faction": "Neutral",
-    "flavor": "",
     "info": "Remove 4 base strength from an opposing non-Gold unit.",
     "key": "spores",
     "lane": [
@@ -6522,6 +7985,39 @@
         },
         "availability": "NonOwnable",
         "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "info": "Immune to Weather. Gain 1 strength for each revealed card in both players’ hands.",
+    "key": "spotter",
+    "lane": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Spotter",
+    "strength": 6,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-spotter.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
       }
     ]
   },
@@ -6553,6 +8049,72 @@
           "premium": 50
         },
         "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "My mark scars the face of our future empress. That is my proudest achievement.",
+    "info": "Choose any card in your deck, then shuffle your deck and place the chosen card on top.",
+    "key": "stefan_skellen",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Stefan Skellen",
+    "strength": 8,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-stefan-skellen.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "faction": "Monsters",
+    "flavor": "Why fight? There are much better ways to work off excess energy...",
+    "info": "After 2 turns, move the strongest non-Gold unit on the row to the other side (ties are resolved randomly).",
+    "key": "succubus",
+    "lane": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "loyalty": [
+      "Disloyal"
+    ],
+    "name": "Succubus",
+    "strength": 10,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/succubus.png"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 800,
+          "premium": 1600
+        },
+        "mill": {
+          "normal": 200,
+          "premium": 800
+        },
+        "rarity": "Legendary"
       }
     ]
   },
@@ -6606,6 +8168,70 @@
       {
         "art": {
           "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2016/10/swallow-potion-1.png"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "And hands off the girl! Whatever we may be, we're not savages.",
+    "info": "Move all instances an opposing non-Gold unit from your opponent’s deck to their graveyard.",
+    "key": "sweers",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Sweers",
+    "strength": 4,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/02/temp-sweers.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "faction": "Northern Realms",
+    "flavor": "Temeria! Temeria! Gods shed all grace on thee! And smite thy foes with horrid woes, for all eternity!",
+    "info": "Play an instance of this card from your deck.",
+    "key": "temerian_foot_soldier",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Temerian Foot Soldier",
+    "strength": 3,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-temerian-foot-soldier.jpg"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6716,6 +8342,38 @@
     ]
   },
   {
+    "faction": "Nilfgaard",
+    "flavor": "Tibor's zeal was legendary. It was said when the emperor passed, he'd not so much bow as somersault.",
+    "info": "If your opponent has not passed, gain 15 strength, then your opponent draws a card and reveals it.",
+    "key": "tibor_eggebracht",
+    "lane": [
+      "Melee"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Tibor Eggebracht",
+    "strength": 7,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-tibor-eggebracht.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
     "category": [
       "Special",
       "Weather"
@@ -6783,6 +8441,37 @@
           "premium": 200
         },
         "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Special"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "Many believe the empire's power rests upon the shoulder of its disciplined army and dutiful mages. In truth, the Nilfgaardian floren rules the world.",
+    "info": "Move a Spying opposing non-Gold unit to your side and add 4 to its strength.",
+    "key": "treason",
+    "lane": [
+      "Event"
+    ],
+    "name": "Treason",
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-treason.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
       }
     ]
   },
@@ -6921,7 +8610,6 @@
   },
   {
     "faction": "Neutral",
-    "flavor": "",
     "info": "Add 2 strength to all other units.",
     "key": "unicorn",
     "lane": [
@@ -6937,6 +8625,73 @@
         },
         "availability": "NonOwnable",
         "rarity": "Legendary"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Mage"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "For a fire mage, he's not very... flamboyant.",
+    "info": "Wherever Vanhemar is, gain 2 strength whenever another card in either player’s hand is revealed.",
+    "key": "vanhemar",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Vanhemar",
+    "strength": 4,
+    "type": "Silver",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/02/temp-vanhemar.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "faction": "Nilfgaard",
+    "flavor": "There's never been a problem a well-planed assassination couldn't solve.",
+    "info": "Reveal up to 2 cards in your hand. For each card thus revealed, reveal 1 random card in your opponent’s hand.",
+    "key": "vattier_de_rideaux",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Vattier De Rideaux",
+    "strength": 7,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-vattier-de-rideaux.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
       }
     ]
   },
@@ -7042,6 +8797,76 @@
           "premium": 200
         },
         "rarity": "Epic"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Permadeath"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "The world has known as many plagues as it has wars. yet both war and plague always take men by surprise.",
+    "info": "Play a Bronze unit from the opposing graveyard on your side.",
+    "key": "vicovaro_medic",
+    "lane": [
+      "Ranged"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Vicovaro Medic",
+    "strength": 1,
+    "type": "Bronze",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-vicovaro-medic.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 80,
+          "premium": 400
+        },
+        "mill": {
+          "normal": 10,
+          "premium": 50
+        },
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Mage"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "We are all pawns on his board. Playing a game whose rules we do not know.",
+    "info": "Destroy a non-Gold unit. If it was on the opposing side, your opponent draws a card and reveals it. If it was on your side, draw and play a card.",
+    "key": "vilgefortz",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Vilgefortz",
+    "strength": 4,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-vilgefortz.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 800,
+          "premium": 1600
+        },
+        "mill": {
+          "normal": 200,
+          "premium": 800
+        },
+        "rarity": "Legendary"
       }
     ]
   },
@@ -7426,6 +9251,38 @@
     ]
   },
   {
+    "faction": "Skellige",
+    "flavor": "Merely mention this name to a Nilfgaardian, and they'll feel a spreading warmth in their knickers.",
+    "info": "When affected by weather at the start of your turn, create a Clan Dimun Pirate on the bottom of your deck.",
+    "key": "wild_boar_of_the_sea",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Wild Boar of the Sea",
+    "strength": 8,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-wild-board-of-the-sea.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 30,
+          "premium": 200
+        },
+        "mill": {
+          "normal": 5,
+          "premium": 25
+        },
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
     "faction": "Monsters",
     "flavor": "Cry 'Havoc!', and let slip the dogs of war.",
     "info": "Immune to Frost.",
@@ -7580,6 +9437,41 @@
           "premium": 50
         },
         "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Mage"
+    ],
+    "faction": "Nilfgaard",
+    "flavor": "Astrology, hydromancy, haruspicy, ceromancy. Ovomancy, spodomancy, metroscopy, brontoscopy...",
+    "info": "Look at the top 2 cards in your opponent’s deck. You may move 1 to the bottom of that deck.",
+    "key": "xarthisius",
+    "lane": [
+      "Siege"
+    ],
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Xarthisius",
+    "strength": 5,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImageUrl": "http://gwentify.com/wp-content/uploads/2017/01/temp-xarthisius.jpg"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 800,
+          "premium": 1600
+        },
+        "mill": {
+          "normal": 200,
+          "premium": 800
+        },
+        "rarity": "Legendary"
       }
     ]
   },
