@@ -63,7 +63,7 @@ class Indexer:
         # removing the hidden attribute is a good workaround.
         Indexer.make_hidden_file(filepath, False)
 
-        with open(filepath, "w", encoding="utf-8-sig", newline="\n") as f:
+        with open(filepath, "w", encoding="utf-8", newline="\n") as f:
             json.dump(self.currentIndexMap, f, ensure_ascii=False, sort_keys=True, indent=2, separators=(',', ': '))
 
         # Set the hidden attribute on the file on Windows.
@@ -90,7 +90,7 @@ class Indexer:
     # Load a previously saved index file.
     def loadIndex(self):
         filepath = os.path.join('./' + self.FILE_NAME)
-        with open(filepath, 'r', encoding="utf-8-sig", newline="\n") as f:
+        with open(filepath, 'r', encoding="utf-8", newline="\n") as f:
             return json.load(f)
 
     # Verify the saved index against the fresh data.

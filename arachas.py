@@ -178,7 +178,7 @@ def getPages(url):
 def saveJson(filename, cardList):
     filepath = os.path.join('./' + filename)
     print("Saving %s cards to: %s" % (len(cardList), filepath))
-    with open(filepath, "w", encoding="utf-8-sig", newline="\n") as f:
+    with open(filepath, "w", encoding="utf-8", newline="\n") as f:
         json.dump(cardList, f, ensure_ascii=False, sort_keys=True, indent=2, separators=(',', ': '))
 
 
