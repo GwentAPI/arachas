@@ -181,9 +181,13 @@ def saveJson(filename, cardList):
     with open(filepath + ".json", "w", encoding="utf-8", newline="\n") as f:
         json.dump(cardList, f, ensure_ascii=False, sort_keys=True, indent=2, separators=(',', ': '))
     with open(filepath + ".jsonl", "w", encoding="utf-8", newline="\n") as f:
+        isFirst = True
         for card in cardList:
+            if not isFirst:
+                f.write("\n")
+            else:
+                isFirst = False
             json.dump(card, f, ensure_ascii=False, sort_keys=True)
-            f.write("\n")
 
 
 
