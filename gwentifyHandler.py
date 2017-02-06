@@ -134,9 +134,9 @@ def getCardJson(html):
 
         if attribute == "Type:":
             # A card can have multiple categories (called types on the website).
-            dataMap["category"] = list()
+            dataMap["categories"] = list()
             for category in data.find_all('a'):
-                dataMap["category"].append(category.get_text().strip())
+                dataMap["categories"].append(category.get_text().strip())
 
         if attribute == "Craft:":
             # Create a map for the crafting cost. To store both normal and premium cost.
@@ -164,19 +164,19 @@ def getCardJson(html):
 
         if attribute == "Position:":
             # A card can be played on multiple lanes (called position on the website).
-            dataMap["lane"] = list()
+            dataMap["lanes"] = list()
             lane = data.a.get_text().strip()
 
             # If the text is "Multiple", then that mean all 3 lanes are valid.
             # We add the 3 different lanes to the list instead of giving it a special significance.
             if lane == "Multiple":
                 # Danger, lane names might change on the website
-                dataMap["lane"].append("Ranged")
-                dataMap["lane"].append("Melee")
-                dataMap["lane"].append("Siege")
+                dataMap["lanes"].append("Ranged")
+                dataMap["lanes"].append("Melee")
+                dataMap["lanes"].append("Siege")
             # If it's not "Multiple", then it's a single lane card and we can just add the name of the lane.
             else:
-                dataMap["lane"].append(lane)
+                dataMap["lanes"].append(lane)
 
     dataMap["variations"].append(variation)
 

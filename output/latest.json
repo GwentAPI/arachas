@@ -1,13 +1,13 @@
 [
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "The beast rushed at them, wildly, with fury in its eyes, immune to pain and any strikes the defenders could land. Nothing stood to stop it…",
     "info": "Keep a non-Gold unit on the battlefield at the end of this round.",
     "key": "adrenaline_rush",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Adrenaline Rush",
@@ -31,14 +31,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Better to die standing than to live on bent knee.",
     "info": "Play immediately from your deck whenever there are 5 or more revealed Elf units on your side.",
     "key": "aelirenn",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -68,14 +68,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "The druid Vaedermakar controls the elements. He soothes storms into silence, musters destructive hail, summons lightning to turn foes into ash. So I advise you well… treat him with utmost respect.",
     "info": "Spawn a Biting Frost, Impenetrable Fog or Torrential Rain card.",
     "key": "aeromancy",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Aeromancy",
@@ -99,14 +99,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dryad"
     ],
     "faction": "Scoia'tael",
     "flavor": "Brokilon bleeds… and not even I can heal it.",
     "info": "Resurrect a non-Gold Special Card from either graveyard.",
     "key": "aglais",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -139,7 +139,7 @@
     "faction": "Nilfgaard",
     "info": "Immune to Weather.",
     "key": "alba_pikeman",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -170,7 +170,7 @@
     "faction": "Nilfgaard",
     "info": "Play an instance of this card from your deck for each revealed card in either hand.",
     "key": "alba_spearmen",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -198,14 +198,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Nilfgaard",
     "flavor": "A ball of fire? Why, naturally. Whatsoever Your Imperial Majesty desires.",
     "info": "If possible, draw a card, then your opponent draws a card and reveals it.",
     "key": "albrich",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -233,13 +233,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Nilfgaard",
     "info": "Reveal a random card in your opponent’s hand.",
     "key": "alchemist",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -267,14 +267,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "A few of Alzur's monstrous creations roam the world still. Not least among them the horrid viy, who massacred its mage-creator and destroyed half of Maribor before fleeing into Riverdell's gloomy woodland.",
     "info": "Play the strongest non-Gold unit from your deck. Ties are resolved randomly.",
     "key": "alzurs_double_cross",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Alzur’s Double Cross",
@@ -298,14 +298,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "We stand not the slightest chance of incanting a spell so complex as Alzur's Thunder. It is claimed Alzur had a voice like a hunting horn and the diction of a master orator.",
     "info": "Remove 7 strength from a non-Gold unit.",
     "key": "alzurs_thunder",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Alzur’s Thunder",
@@ -333,7 +333,7 @@
     "flavor": "A spy? No, that's saying far too much. I consider myself more of an observer.",
     "info": "Add 12 strength to a random non-Gold unit on your side of the battlefield.",
     "key": "ambassador",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -365,7 +365,7 @@
     "flavor": "Many primal fears lurk in the hearts of men. The fear of the mist is well–founded…",
     "info": "Immune to Fog. Gain 1 strength at the start of your turn if on a row affected by Fog.",
     "key": "ancient_foglet",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -393,14 +393,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Breedable"
     ],
     "faction": "Monsters",
     "flavor": "Ugly – nature's way of saying \"stay away.\"",
     "info": "Play all Arachasae from your deck.",
     "key": "arachas",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -432,7 +432,7 @@
     "flavor": "Like a cross between a crab, a spider… and a mountain.",
     "info": "Spawn an Arachas whenever a unit on your side absorbs strength.",
     "key": "arachas_behemoth",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -464,7 +464,7 @@
     "flavor": "It's a griffin, just more... griffiny.",
     "info": "Remove Weather from its row and reset all weakened non-immune units there to their base strength.",
     "key": "archgriffin",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -494,14 +494,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Nilfgaard",
     "flavor": "\"How much is a human life worth?\"\r\n\"That depends. Yours, for instance, I'd put at about a hundred orens.\"",
     "info": "Destroy an opposing non-Gold unit. Remove an amount equal to that unit’s strength from a random non-Gold unit on your side.",
     "key": "assassination",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Assassination",
@@ -525,14 +525,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Nilfgaard",
     "flavor": "Nilfgaardian mages do have a choice: servile submission, or the gallows.",
     "info": "Choose up to 2 cards from your opponent’s graveyard and randomly place them in your opponent’s deck. For each card chosen, lose 2 strength.",
     "key": "assire_var_anahid",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Witcher"
     ],
     "faction": "Nilfgaard",
     "info": "Lock a non-Gold unit on the battlefield. A locked unit loses all tokens (Resilience, Quen, etc.) and its ability does not trigger while it remains on the battlefield.",
     "key": "auckes",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -598,7 +598,7 @@
     "flavor": "You humans have… unusual tastes.",
     "info": "Draw 2 cards. Your opponent draws 1 card.",
     "key": "avallach",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -630,7 +630,7 @@
     "flavor": "What crossbows want to be when they grow up.",
     "info": "Remove 2 strength from an opposing non-Gold unit.",
     "key": "ballista",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -660,7 +660,7 @@
   {
     "faction": "Northern Realms",
     "key": "ban_ard_adept",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "name": "Ban Ard Adept",
@@ -677,14 +677,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Our mead smells rotten to ye, do it? Easy to fix – I'll break yer nose!",
     "info": "Add 1 strength to all your Dwarf units, wherever they are.",
     "key": "barclay_els",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -715,7 +715,7 @@
     "faction": "Skellige",
     "info": "Gain 2 strength for each weakened unit on the battlefield.",
     "key": "bear",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "name": "Bear",
@@ -732,14 +732,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "Gaze long into the abyss, and the abyss will gaze back into you.",
     "info": "Swap the strength of the strongest and the weakest units on the battlefield. Ties are resolved randomly.",
     "key": "bekkers_twisted_mirror",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Bekker’s Twisted Mirror",
@@ -763,14 +763,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Shapeshifter"
     ],
     "faction": "Skellige",
     "flavor": "Now finish your soup, or a berserker'll come and swallow ye whole.",
     "info": "When moved to the graveyard, transform into a Bear.",
     "key": "berserker",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -802,7 +802,7 @@
     "flavor": "Skellige must have a strong king. No matter what it takes.",
     "info": "Draw 3 cards. Keep 1 and discard the rest.",
     "key": "birna_bran",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -830,7 +830,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
@@ -838,7 +838,7 @@
     "flavor": "Best thing about frost? Bodies of the fallen don't rot so quickly.",
     "info": "Spawn a Frost effect on both Melee rows that sets the strength of all non-Gold units on or appearing there to 1.",
     "key": "biting_frost",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Biting Frost",
@@ -866,7 +866,7 @@
     "flavor": "I aim for the knees. Always.",
     "info": "Remove 2 strength from an opposing non-Gold unit. If the unit was Spying, gain 3 strength.",
     "key": "black_infantry_arbalest",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -894,14 +894,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "The witcher moved with unnatural speed. Too fast for the human eye to register.",
     "info": "Toggle the Weather Immunity of a non-Gold unit on the battlefield.",
     "key": "blizzard_potion",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Blizzard Potion",
@@ -929,7 +929,7 @@
     "flavor": "I've not been a good father, I know, but… perhaps it's not too late.",
     "info": "Spawn a Botchling or a Lubberkin.",
     "key": "bloody_baron",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -957,14 +957,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "By the time we'd heard them, it was already too late…",
     "info": "Return a Bronze, non-Relentless unit on your side (other than a Blue Mountain Commando) to your hand and immediately play it again.",
     "key": "blue_mountain_commando",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -994,14 +994,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Blue Stripes"
     ],
     "faction": "Northern Realms",
     "flavor": "I'd do anything for Temeria. Mostly though, I kill for her.",
     "info": "Add 2 strength to all your other Blue Stripes Commandos, wherever they are.",
     "key": "blue_stripes_commando",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1029,14 +1029,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Blue Stripes"
     ],
     "faction": "Northern Realms",
     "flavor": "Blue Stripes and Scoia'tael are similar in one regard – hatred fuels both.",
     "info": "Add 4 strength to a non-Gold unit on your side of the battlefield.",
     "key": "blue_stripes_scout",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -1068,7 +1068,7 @@
     "flavor": "I'm near ready to puke from boredom.",
     "info": "Spawn a Spectral Whale on a random row on the opposite side.",
     "key": "blueboy_lugos",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1100,7 +1100,7 @@
     "flavor": "Admit your mistakes and bury them proper - else they'll come back to haunt you.",
     "info": "Keep on the battlefield at the end of this round.",
     "key": "botchling",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1120,14 +1120,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dryad"
     ],
     "faction": "Scoia'tael",
     "flavor": "Mona…? No… no. I'm Braenn. A daughter of Brokilon.",
     "info": "Remove an amount equal to this unit’s strength from an opposing non-Gold unit.",
     "key": "braenn",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -1157,7 +1157,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
@@ -1189,7 +1189,7 @@
     "flavor": "His eyes flashed under his winged helmet. Fire gleamed from his sword's blade.",
     "info": "After 2 turns, both Leaders will again be available for use.",
     "key": "cahir",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1221,7 +1221,7 @@
     "flavor": "Men require constant alluring. Mystique and refinement do the job quite well.",
     "info": "Look at the top card in your deck. You may place it at the bottom of your deck. Draw a card.",
     "key": "cantarella",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -1249,14 +1249,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Wild Hunt"
     ],
     "faction": "Monsters",
     "flavor": "A favorite son who chose a life of villainy.",
     "info": "Immune to Frost. Spawn a Frost effect and 2 Wild Hunt Hounds.",
     "key": "caranthir",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1284,14 +1284,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Permadeath"
     ],
     "faction": "Monsters",
     "flavor": "There are more things in heaven and earth than all the world's philosopher's have dreamt.",
     "info": "Resurrect a non-Gold unit (can be Permadeath) from your opponent’s graveyard.",
     "key": "caretaker",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -1322,7 +1322,7 @@
     "faction": "Nilfgaard",
     "info": "Add 4 strength to a non-Gold unit on your side and give it a shield. The shield protects its bearer from one strength-removing effect.",
     "key": "ceallach",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1350,13 +1350,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Harpy"
     ],
     "faction": "Monsters",
     "info": "Gain 3 whenever a unit absorbs another’s strength. Transform all Harpy Eggs into Harpies.",
     "key": "celaeno_harpy",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -1388,7 +1388,7 @@
     "flavor": "They call me Sparrowhawk. Know why? Because I eat rats like you for breakfast.",
     "info": "When moved to graveyard, convert to Silver.",
     "key": "cerys",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1420,7 +1420,7 @@
     "flavor": "He'll not reveal his name till he's defeated. He's a troll errant, see?",
     "info": "Gain 2 strength at the start of your turn if it’s the sole unit on its row.",
     "key": "champion_of_champions",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -1450,7 +1450,7 @@
     "faction": "Neutral",
     "info": "Remove 2 strength from all other units.",
     "key": "chironex",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "name": "Chironex",
@@ -1471,7 +1471,7 @@
     "flavor": "A member of the Bovine Defense Force. Semper fi!",
     "info": "No ability.",
     "key": "chort",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -1490,7 +1490,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Ambush",
       "Elf"
     ],
@@ -1498,7 +1498,7 @@
     "flavor": "The path to freedom is paved in blood, not ink.",
     "info": "Ambush: When the round ends, return to the hand of the current owner if that player lost.",
     "key": "ciaran",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -1533,7 +1533,7 @@
     "flavor": "I go wherever I please, whenever I please.",
     "info": "Return to your hand if you lose the round.",
     "key": "ciri",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1565,7 +1565,7 @@
     "flavor": "Know when fairy tales cease to be tales? When people start believing them.",
     "info": "When destroyed, move to your deck and gain 3 base strength.",
     "key": "ciri_dash",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -1597,7 +1597,7 @@
     "flavor": "Our clan's bards will sing of my deeds long after you're dead and forgotten!",
     "info": "Lose 2 strength.",
     "key": "clan_an_craite_warrior",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1629,7 +1629,7 @@
     "flavor": "So ye can hit a movin' target at two hundred paces? Me, too. In a storm.",
     "info": "Immune to Rain. Remove 1 strength from 3 non-Gold unit(s).",
     "key": "clan_brokvar_archer",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -1661,7 +1661,7 @@
     "flavor": "Better believe we can hunt. Thing is, not much game on Undvik…",
     "info": "Remove 3 strength from a non-Gold unit.",
     "key": "clan_brokvar_hunter",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -1693,7 +1693,7 @@
     "flavor": "Can see the fear in their eyes. Fear o' me… fear o' Clan Dimun!",
     "info": "Immune to Fog. Discard all Clan Dimun Pirates from your deck.",
     "key": "clan_dimun_pirate",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -1725,7 +1725,7 @@
     "flavor": "Haul together, hoist the colors high!",
     "info": "Immune to Fog. Gain 2 strength whenever you discard a unit.",
     "key": "clan_dimun_pirate_captain",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -1757,7 +1757,7 @@
     "flavor": "The deeds of Clan Heymaey will go down in history.",
     "info": "Add 2 strength to all other non-Gold units on the row.",
     "key": "clan_heymaey_skald",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -1791,7 +1791,7 @@
     "flavor": "Remember me words – a good shield can save yer life.",
     "info": "Add 2 base strength to a non-Gold unit on your side of the battlefield.",
     "key": "clan_tordarroch_shieldsmith",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -1823,7 +1823,7 @@
     "flavor": "Swords are for wenches. Get yourself an axe.",
     "info": "Gain 2 strength whenever another unit on your side is weakened.",
     "key": "clan_tuirseach_axeman",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -1855,7 +1855,7 @@
     "flavor": "Friends we show heart, foes we show our axe. Remember that.",
     "info": "When resurrected, gain 4 base strength.",
     "key": "clan_tuirseach_skirmishers",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1887,7 +1887,7 @@
     "flavor": "We are an Craite! What others buy with gold, we buy with our lifeblood.",
     "info": "Resurrect when discarded.",
     "key": "clan_an_craite_raider",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1915,14 +1915,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
     "faction": "Neutral",
     "info": "Remove all Weather effects and reset all weakened non-immune units on affected rows to their base strength.",
     "key": "clear_skies",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Clear Skies",
@@ -1942,7 +1942,7 @@
     "flavor": "Everyone wantin' to trade in Novigrad's got a clear choice - agree terms with Cleaver or kiss their knees farewell.",
     "info": "Lock a non-Gold unit on the battlefield. A locked unit loses all tokens (Resilience, Quen, etc.) and its ability does not trigger while it remains on the battlefield.",
     "key": "cleaver",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -1974,7 +1974,7 @@
     "flavor": "Want irrefutable proof of civilization's advance? Look at war. Man gets better at killing with each one.",
     "info": "Keep a non-Gold unit on the battlefield at the end of this round.",
     "key": "combat_engineer",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2002,7 +2002,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Fleeting",
       "Special"
     ],
@@ -2010,7 +2010,7 @@
     "flavor": "Plus one to morale, minus one to hearing.",
     "info": "Double the strength of all non-Gold units on a row on your side, then banish.",
     "key": "commanders_horn",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Commander’s Horn",
@@ -2037,7 +2037,7 @@
     "faction": "Scoia'tael",
     "info": "No ability.",
     "key": "commando_neophyte",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -2056,14 +2056,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Skellige",
     "flavor": "Her true name's Astrid Lyttneyd Asgeirrfinnbjornsdottir, but that never fit on any forms.",
     "info": "Spawn Fog and Rain effects on the opposing side only.",
     "key": "coral",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -2119,7 +2119,7 @@
     "faction": "Skellige",
     "info": "Add 2 strength to any non-Gold unit appearing on the row.",
     "key": "craven_revived",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -2142,7 +2142,7 @@
     "flavor": "We'll cut you up, boy. A fine broth you will make.",
     "info": "Play all Crone units from your deck.",
     "key": "crone_brewess",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2174,7 +2174,7 @@
     "flavor": "I sense your pain. I see your fear.",
     "info": "Play all Crone units from your deck.",
     "key": "crone_weavess",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2206,7 +2206,7 @@
     "flavor": "I'd be your best – and last.",
     "info": "Play all Crone units from your deck.",
     "key": "crone_whispess",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2234,14 +2234,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Nilfgaard",
     "flavor": "Cynthia's talents can be deadly. She needs a tight leash.",
     "info": "If possible, draw a card, then create The Guardian in your opponent’s hand and reveal it.",
     "key": "cynthia",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -2273,7 +2273,7 @@
     "flavor": "One of four bosses who control the city's underworld - the others being Sigi Reuven, Carlo 'The Cleaver' Varese and the King of Beggars.",
     "info": "Remove 2 base strength from all opposing non-Gold units. When destroyed, add 2 strength to all non-Gold units on the battlefield.",
     "key": "cyprian_wiley",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2305,7 +2305,7 @@
     "flavor": "Learned a lot at Braibant Military Academy, How to scrub potatoes, for instance.",
     "info": "No ability.",
     "key": "daerlan_foot_soldiers",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -2333,7 +2333,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Vodyanoi"
     ],
     "faction": "Monsters",
@@ -2365,7 +2365,7 @@
     "flavor": "Dandelion, you're a cynic, a lecher, a liar – and my best friend.",
     "info": "Add 2 strength to each non-Gold unit played on your side and 1 strength to each played on the opposing side. Does not affect spawned units.",
     "key": "dandelion",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -2393,7 +2393,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Fleeting",
       "Special"
     ],
@@ -2401,7 +2401,7 @@
     "flavor": "When you run out of peasants, decoys also make decent arrow fodder.",
     "info": "Return a non-Gold, non-Relentless unit on your side to your hand, then banish.",
     "key": "decoy",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Decoy",
@@ -2425,14 +2425,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "I know how to execute orders, so take your advice somewhere else.",
     "info": "At the end of the turn, reset all non-Gold units on the row to base strength.",
     "key": "dennis_cranmer",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -2463,14 +2463,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Northern Realms",
     "flavor": "I once made a prisoner vomit his own entrails... Ah, good times...",
     "info": "Banish a non-Gold unit from your opponent’s Graveyard.",
     "key": "dethmold",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2502,7 +2502,7 @@
     "flavor": "Really believe you can dupe me with that tale you just pulled from your arse?",
     "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain 1 strength for each unit converted.",
     "key": "dijkstra",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2530,14 +2530,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "An important part of every Witch Hunter's kit. In one muted flash, it turns the most powerful sorcerer into pork jelly ripe for cutting.",
     "info": "Reset all units on the battlefield to their base strength.",
     "key": "dimeritium_bomb",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Dimeritium Bomb",
@@ -2561,13 +2561,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "info": "Reset any unit on the battlefield to its base strength. If Gold, convert it to Silver (or Bronze, if that was its original color).",
     "key": "dimeritium_shackles",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Dimeritium Shackles",
@@ -2595,7 +2595,7 @@
     "flavor": "When a warrant says \"dead or alive,\" most bounty hunters'll just kill you. Not me. Should I catch you, you'll hang, and I'll tickle your feet as you expire.",
     "info": "Discard a non-Gold unit from your deck.",
     "key": "djenge_frett",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2623,14 +2623,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Take another step, dh'oine. You'd look better with an arrow between your eyes.",
     "info": "Remove 5 strength from an opposing non-Gold unit.",
     "key": "dol_blathanna_archer",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -2660,7 +2660,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Ambush",
       "Elf"
     ],
@@ -2668,7 +2668,7 @@
     "flavor": "They track like hounds, run like deer and kill like heartless demons.",
     "info": "Ambush: When a revealed non-Gold unit appears on the row, remove 5 strength from all non-Gold units on the row (except self).",
     "key": "dol_blathanna_trapper",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -2703,7 +2703,7 @@
     "flavor": "I've gathered all the jarls together. Now make your case.",
     "info": "Draw 1 card and discard 1 random non-Gold card from your deck.",
     "key": "donar_an_hindar",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -2735,7 +2735,7 @@
     "flavor": "Hear ye now the tale of the heroic deeds of Clan an Craite.",
     "info": "Add 2 base strength to all non-Gold units in your graveyard.",
     "key": "draig_bon-dhu",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2767,7 +2767,7 @@
     "flavor": "Some men cannot admit defeat. Some keep fighting from beyond the grave.",
     "info": "Destroy all non-Gold units with 3 strength or lower on both sides of the battlefield.",
     "key": "draug",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -2799,7 +2799,7 @@
     "flavor": "Though the witchman lusts for gold, for the smiting of a drowner thou shalt give him but a silver penny, or three halfpence, at most.",
     "info": "Immune to Rain. Move an opposing non-Gold unit to that side’s Siege row.",
     "key": "drowner",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2831,7 +2831,7 @@
     "flavor": "A mimic, among the many other name for his sort: changelings, doublings, vexlings... or dopplers.",
     "info": "Set strength to that of an opposing non-Gold unit.",
     "key": "dudu",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -2863,7 +2863,7 @@
     "flavor": "Always wondered – how the blazes do those lads handle nature's call…?",
     "info": "After 2 turns, convert to Gold until removed from the battlefield or the round ends.",
     "key": "dun_banner_heavy_cavalry",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2895,7 +2895,7 @@
     "flavor": "Stay calm, everyone. And be alert. The true owners of those cloaks and beaver-skin caps might be elsewhere.",
     "info": "No ability.",
     "key": "dun_banner_light_cavalry",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -2923,14 +2923,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "The key's mixin' pleasure an' business – like smackin' foes and gettin' coin for it.",
     "info": "Gain 2 strength for each Dwarf unit on your side of the battlefield.",
     "key": "dwarven_mercenary",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -2958,14 +2958,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Worked a pickaxe all me life. Battleaxe won't be any trouble.",
     "info": "Remove 3 strength from an opposing non-Gold unit. If it is not destroyed, gain 2 strength.",
     "key": "dwarven_skirmisher",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -2997,7 +2997,7 @@
     "flavor": "How do you fight an earth elemental? You don't. You run. Fast as you can.",
     "info": "When removed from the battlefield, spawn 3 Lesser Earth Elementals on the row where this unit was.",
     "key": "earth_elemental",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -3025,7 +3025,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dryad"
     ],
     "faction": "Scoia'tael",
@@ -3053,14 +3053,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Vampire"
     ],
     "faction": "Monsters",
     "flavor": "Who would think that overgrown bats would have a taste for gaudy jewelry?",
     "info": "Destroy a non-Gold unit on your side and absorb its strength.",
     "key": "ekimmara",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -3088,14 +3088,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Love justifies madness in any of its forms.",
     "info": "Gain 3 strength whenever a Commando Neophyte unit appears on your side.",
     "key": "eleyas",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -3125,14 +3125,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "I spit on Scoia'tael ideals, but not on their coin.",
     "info": "Play a random non-Gold Special Card from your deck.",
     "key": "elven_mercenary",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -3166,7 +3166,7 @@
     "flavor": "You mean to say the she–elf danced amidst the fray? Have you lost your mind, corporal?!",
     "info": "Gain 4 strength whenever an Ambush is played.",
     "key": "elven_wardancer",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -3224,7 +3224,7 @@
     "faction": "Nilfgaard",
     "info": "Play the top non-Gold unit in your deck.",
     "key": "emissary",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -3252,14 +3252,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "Epidemics respect no persons, no borders.",
     "info": "Destroy the weakest non-Gold unit(s) on the battlefield.",
     "key": "epidemic",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Epidemic",
@@ -3283,7 +3283,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Wild Hunt"
     ],
     "faction": "Monsters",
@@ -3311,14 +3311,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Wild Hunt"
     ],
     "faction": "Monsters",
     "flavor": "Have some dignity. You know how this will end.",
     "info": "Immune to Frost.",
     "key": "eredin_token",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -3341,7 +3341,7 @@
     "flavor": "Only the ignorant dismiss the importance of myths.",
     "info": "If possible, discard 2 cards and draw 2 cards.",
     "key": "ermion",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -3369,14 +3369,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Witcher"
     ],
     "faction": "Neutral",
     "flavor": "I'm a simple witcher, Wolf. Don't fight dragons, don't fraternize with kings and don't sleep with sorceresses…",
     "info": "Play Vesemir and Lambert from your deck.",
     "key": "eskel",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -3408,7 +3408,7 @@
     "flavor": "\"Here she comes,\" he thought, \"our imperial interest. A mock-princess, a mock-queen for Cintra. A mock-ruler for the mouth of the Yarra, future lifeblood of the empire.\"",
     "info": "Gain 1 strength at the start of each turn while Spying. If Spying when its owner passes, move to the opposing side.",
     "key": "fake_ciri",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -3439,7 +3439,7 @@
     "faction": "Neutral",
     "info": "Remove 2 strength from all other non-Gold units on the row.",
     "key": "field_marshal_duda_agitator",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -3463,7 +3463,7 @@
     "faction": "Neutral",
     "info": "Add 2 strength to all other non-Gold units on the row.",
     "key": "field_marshal_duda_companion",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -3482,14 +3482,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Permadeath"
     ],
     "faction": "Northern Realms",
     "flavor": "Stitch red to red, white to white, and everything will be all right.",
     "info": "Resurrect a random non-Gold unit, non-Permadeath unit.",
     "key": "field_medic",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -3521,7 +3521,7 @@
     "flavor": "A fiend looks a bit like a deer. An enormous, evil deer.",
     "info": "No ability.",
     "key": "fiend",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -3553,7 +3553,7 @@
     "flavor": "Can't stand the heat? Then you don't stand a chance.",
     "info": "Spawn a Lesser Fire Elemental on this unit’s row at the start of your turn.",
     "key": "fire_elemental",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -3581,14 +3581,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Machine"
     ],
     "faction": "Nilfgaard",
     "flavor": "Not the best for taking cities, but great for razing them to the ground.",
     "info": "Remove 3 strength from an opposing non-Gold unit.",
     "key": "fire_scorpion",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -3616,14 +3616,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Ambush"
     ],
     "faction": "Scoia'tael",
     "flavor": "Careful…! One more step and you'll be turned into molten glass.",
     "info": "Ambush: When a revealed non-Gold unit appears on the opposite side, remove 5 strength from it.",
     "key": "fireball_trap",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -3653,7 +3653,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
@@ -3661,7 +3661,7 @@
     "flavor": "The sun's shinin', Dromle! The sun's shinin'! Maybe there's hope after all…",
     "info": "Spawn either a Clear Skies or a Rally effect.",
     "key": "first_light",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "First Light",
@@ -3689,7 +3689,7 @@
     "flavor": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims.",
     "info": "Immune to Fog. Play from your deck or graveyard whenever Fog is spawned. Gain 1 strength whenever a Fog effect is applied. Destroy when moved outside of Fog or Fog is removed.",
     "key": "foglet",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -3742,7 +3742,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
@@ -3774,7 +3774,7 @@
     "flavor": "”What have I done?” the mage cried out, frightened of his own creation.",
     "info": "Every 2 turns, if possible, banish a random non-Gold Special Card in your graveyard and gain 3 strength.",
     "key": "frightener",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -3802,13 +3802,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Nilfgaard",
     "info": "No ability.",
     "key": "fringilla_vigo",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -3840,7 +3840,7 @@
     "flavor": "He always grants exactly what you wish for. That's the problem.",
     "info": "Spawn 3 Shadows.",
     "key": "gaunter_odimm",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -3868,14 +3868,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Witcher"
     ],
     "faction": "Neutral",
     "flavor": "If that's what it takes to save the world, it's better to let that world die.",
     "info": "No ability.",
     "key": "geralt",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -3907,7 +3907,7 @@
     "flavor": "A blast of concentrated energy that pummels everything in its path. Great for when you forget your keys.",
     "info": "Move all non-Gold units on the opposite row one row back. Remove 1 strength from all moved units.",
     "key": "geralt_aard",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -3937,14 +3937,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Witcher"
     ],
     "faction": "Neutral",
     "flavor": "A twist of a witcher's fingers can light a lamp… or incinerate a foe.",
     "info": "Destroy the strongest non-Gold unit(s) on the opposite row if that row totals 20 or more strength.",
     "key": "geralt_igni",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -3974,7 +3974,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Wild Hunt"
     ],
     "faction": "Monsters",
@@ -4006,7 +4006,7 @@
     "flavor": "If ghouls are part of the Circle of Life… then it's one vicious circle.",
     "info": "Banish a random non-Gold unit in either graveyard from the game and absorb its strength.",
     "key": "ghoul",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4038,7 +4038,7 @@
     "flavor": "Big, bad, ugly. Squats in the sewers.",
     "info": "If possible, discard a non-Gold unit, absorb its strength and draw a card.",
     "key": "giant_toad",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -4070,7 +4070,7 @@
     "flavor": "Does not drink. Does not eat. Does walk, however. And fight.",
     "info": "When removed from the battlefield, spawn 2 Lesser Golem on the row where this unit was.",
     "key": "golem",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4102,7 +4102,7 @@
     "flavor": "Their long tongues're for slurping marrow – and whipping prey.",
     "info": "After 1 turn, banish all non-Gold units in your graveyard and gain 1 strength for each.",
     "key": "grave_hag",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -4134,7 +4134,7 @@
     "flavor": "An archdruid, a master of alchemy, and the grumpiest old fart in the Isles.",
     "info": "Remove 2 strength from 3 non-Gold units on your sideof the battlefield. Gain 3 strength for each.",
     "key": "gremist",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -4166,7 +4166,7 @@
     "flavor": "Griffins like to toy with their prey. Eat 'em alive, piece by piece.",
     "info": "Move a non-Gold unit from your opponent’s graveyard to your own.",
     "key": "griffin",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -4219,14 +4219,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Harpy"
     ],
     "faction": "Monsters",
     "flavor": "There are many species of harpy, and all are kleptomaniacs.",
     "info": "Spawn 2 Harpy Eggs on random rows on your side.",
     "key": "harpy",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -4258,7 +4258,7 @@
     "flavor": "A harpy egg omelet - a delicious delicacy, good sir. Quite dear, too, for as you might surmise, the wretches don't part with their eggs willingly.",
     "info": "When this unit’s strength is absorbed by another, add an additional 9 strength to the absorbing unit.",
     "key": "harpys_egg",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -4280,14 +4280,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Sure, I'll patch you up. Gonna cost you though.",
     "info": "Add 3 strength to all other non-Gold units on the row.",
     "key": "hawker_healer",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -4320,7 +4320,7 @@
     "faction": "Scoia'tael",
     "info": "When removed from the battlefield, add 5 to all non-Gold units on the row.",
     "key": "hawker_smuggler",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -4354,7 +4354,7 @@
     "flavor": "Elf, dwarf, makes no difference – long as they've got coin.",
     "info": "Gain 3 strength whenever you play a Special Card.",
     "key": "hawker_support",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -4387,7 +4387,7 @@
     "faction": "Skellige",
     "info": "Destroy all non-Gold units on both sides of the battlefield and remove all Weather effects.",
     "key": "hemdall",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "name": "Hemdall",
@@ -4433,7 +4433,7 @@
     "flavor": "Instead of mournin' the fallen, let's drink to their memory!",
     "info": "Spawn a Lord of Undvik on the opposite side.",
     "key": "hjalmar",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4465,7 +4465,7 @@
     "flavor": "Now let's drink to Emperor of Nilfgaard – may he die of somethin' hideous!",
     "info": "Immune to Fog. Remove 2 strength from 3 non-Gold units.",
     "key": "holger_blackhand",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -4497,7 +4497,7 @@
     "flavor": "Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed.",
     "info": "Immune to Frost. Gain 7 strength while on a row affected by Frost.",
     "key": "ice_giant",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4525,7 +4525,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Ambush",
       "Elf",
       "Mage"
@@ -4534,7 +4534,7 @@
     "flavor": "I am a Sage. My power lies in possessing knowledge. Not sharing it.",
     "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects.",
     "key": "ida_emean",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -4565,14 +4565,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Wild Hunt"
     ],
     "faction": "Monsters",
     "flavor": "Ladd nahw! Kill them! Litter the earth with their entrails!",
     "info": "Immune to Frost. Remove 3 strength from an opposing unit and 1 strength from all other units on its row.",
     "key": "imlerith",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4600,7 +4600,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
@@ -4608,7 +4608,7 @@
     "flavor": "A good commander's dream… and a bad one's horror.",
     "info": "Spawn a Fog effect on both Ranged rows that sets the strength of all non-Gold units on or appearing there to 1.",
     "key": "impenetrable_fog",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Impenetrable Fog",
@@ -4635,7 +4635,7 @@
     "faction": "Nilfgaard",
     "info": "Gain 3 strength for each Spying unit on the battlefield.",
     "key": "impera_brigade",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4666,7 +4666,7 @@
     "faction": "Nilfgaard",
     "info": "Gain 3 strength whenever either player uses a Leader card.",
     "key": "impera_enforcers",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -4694,14 +4694,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "King or beggar, what's the difference? One dh'oine less.",
     "info": "Remove 6 strength from an opposing unit.",
     "key": "iorveth",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -4734,7 +4734,7 @@
     "faction": "Neutral",
     "info": "When destroyed, add 3 strength to all opposing non-Gold units.",
     "key": "iris",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -4762,14 +4762,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "It dawns on them once they notice my scar: a realization of imminent death.",
     "info": "Spawn 1 Commando Neophytes on random row whenever you play a Special Card.",
     "key": "isengrim",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -4802,7 +4802,7 @@
     "faction": "Nilfgaard",
     "info": "Play the top non-Gold unit in your deck and add 10 to its strength.",
     "key": "joachim_de_wett",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4859,7 +4859,7 @@
     "flavor": "That square should bear the names of my soldiers, of the dead. Not mine.",
     "info": "Add 3 strength to 3 non-Gold units on your side of the battlefield.",
     "key": "john_natalis",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4887,7 +4887,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Fleeting",
       "Relentless"
     ],
@@ -4895,7 +4895,7 @@
     "flavor": "Life without savoring the sound of \"surreptitious shananacking\" is like licking snails through a cloth.",
     "info": "Move a card in your hand to the bottom of your deck. Create in your hand a base copy of another card of the same color randomly chosen from both players’ cars (all locations). Banish when destroyed.",
     "key": "johnny",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -4927,7 +4927,7 @@
     "flavor": "Some call her the \"Iron Maiden.\"",
     "info": "No ability.",
     "key": "jutta_an_dimun",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4959,7 +4959,7 @@
     "flavor": "Forward, you sorry sods! Forward or you'll see the Nilfgaardians are the least of your worries!",
     "info": "Convert a Gold unit to Silver (or Bronze, if that was its original color).",
     "key": "kaedweni_sergeant",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -4991,7 +4991,7 @@
     "flavor": "I never miss twice.",
     "info": "Lose 1 strength whenever a Machine is played on your side. Then add 3 to that unit’s strength.",
     "key": "kaedweni_siege_expert",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -5023,7 +5023,7 @@
     "flavor": "\"You gotta recalibrate the arm by five degrees.\" \"Do what by the what now?\"",
     "info": "Add 3 strength to 2 non-Gold units on your side of the battlefield.",
     "key": "kaedweni_siege_support",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -5057,7 +5057,7 @@
     "flavor": "When the time comes, the cockerel Kambi shall crow and awaken Hemdall.",
     "info": "After 3 turns, spawn Hemdall on this unit’s side. Destroy Kambi whenever Hemdall appears on the same side.",
     "key": "kambi",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -5085,13 +5085,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Vampire"
     ],
     "faction": "Monsters",
     "info": "Every 3 turns, banish a random non-gold unit in your graveyard and absorb its strength.",
     "key": "katakan",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -5123,7 +5123,7 @@
     "flavor": "How to kill a kayran? Simple! Take your best sword... then sell it, and hire a witcher.",
     "info": "Destroy 3 loyal non-Gold units and add their strength to this unit’s base strength. When removed, set base strength to 8.",
     "key": "kayran",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -5151,14 +5151,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Northern Realms",
     "flavor": "If I'm to die today, i wish to look smashing for the occasion.",
     "info": "Give a shield to all non-Gold units on the row. The shield protects its bearer from one strength-removing effect.",
     "key": "keira_metz",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -5214,7 +5214,7 @@
     "flavor": "I might just discover I look great without ears... or hands. Apparently the King of Beggars accepts both as partial payment.",
     "info": "Play the weakest non-Gold unit from your deck. Ties are resolved randomly.",
     "key": "king_of_beggars",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -5242,14 +5242,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "A sight more horrid you've never seen… The poor soul lay shredded as the beast lapped up its blood from the ground all around.",
     "info": "Remove 3 strength from all non-Gold units on a row.",
     "key": "lacerate",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Lacerate",
@@ -5273,14 +5273,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Witcher"
     ],
     "faction": "Neutral",
     "flavor": "Now that's the kind of negotiating I understand.",
     "info": "Play Eskel and Vesemir from your deck.",
     "key": "lambert",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -5308,13 +5308,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Breedable"
     ],
     "faction": "Monsters",
     "info": "No ability.",
     "key": "lesser_earth_elemental",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -5336,13 +5336,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Breedable"
     ],
     "faction": "Monsters",
     "info": "No ability.",
     "key": "lesser_fire_elemental",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -5364,14 +5364,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Breedable"
     ],
     "faction": "Monsters",
     "flavor": "\"Lesser does not mean worse!\" - Master Istredd of Aedd Gynvael.",
     "info": "No ability.",
     "key": "lesser_golem",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -5393,14 +5393,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Witcher"
     ],
     "faction": "Nilfgaard",
     "flavor": "Witchers never die in their beds.",
     "info": "Banish all non-Gold units on the row and add their strength to this unit’s base strength. When removed, set base strength to 1.",
     "key": "letho_of_gulet",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -5435,7 +5435,7 @@
     "flavor": "Escape them? In the waters of Skellige? Good luck.",
     "info": "Immune to Rain.",
     "key": "light_longship",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -5466,7 +5466,7 @@
     "faction": "Scoia'tael",
     "info": "Immune to Frost. When removed from the battlefield, add 10 strength to any Hjalmars on the opposite side.",
     "key": "lord_of_undvik",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "name": "Lord of Undvik",
@@ -5483,14 +5483,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Permadeath"
     ],
     "faction": "Northern Realms",
     "flavor": "I name thee Dea and embrace thee as my daughter.",
     "info": "Resurrect a non-Gold, non-Permadeath unit.",
     "key": "lubberkin",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -5514,7 +5514,7 @@
     "flavor": "WAAAAAAAAAAGH!!!!",
     "info": "After 2 turns, gain 1 strength for each unit in your graveyard.",
     "key": "madman_lugos",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -5542,14 +5542,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "I'm telling ye, we're born fer battle – we slash straight at their knees!",
     "info": "Keep on the battlefield at the end of each round.",
     "key": "mahakam_defender",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -5577,14 +5577,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Only one punishment for disturbin' the peace in Mahakam: a hammer to the heid.",
     "info": "Immune to Frost. Add 3 strength to a non-Gold unit on your side of the battlefield. If it’s a Dwarf, add 5 strength instead.",
     "key": "mahakam_guard",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -5612,14 +5612,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "I have you, dh'oine. You are all the same.",
     "info": "Remove 1 strength from a random opposing non-gold unit whenever a revealed Elf unit appears on your side.",
     "key": "malena",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "name": "Malena",
@@ -5644,13 +5644,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Machine"
     ],
     "faction": "Nilfgaard",
     "info": "Remove 2 strength from a random opposing unit whenever a card in either hand is revealed.",
     "key": "mangonel",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -5682,7 +5682,7 @@
     "flavor": "We know little about what manticores look like: though many have seen them, very few have lived to tell their tale.",
     "info": "No ability.",
     "key": "manticore",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -5710,14 +5710,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "Kills quicker than you can recite the Emperor of Nilfgaard's title in full.",
     "info": "Remove 4 strength from all instances of a non-Gold unit on its side.",
     "key": "manticore_venom",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Manticore Venom",
@@ -5741,14 +5741,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "Eat enough of them, and the world will never be the same...",
     "info": "Spawn either a Mutagen or a Spores effect.",
     "key": "mardroeme",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Mardroeme",
@@ -5772,14 +5772,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Northern Realms",
     "flavor": "I care only about what's good for Aretuza and my pupils.",
     "info": "Spawn a Ban Ard Adept whenever a Gold card appears on your side.",
     "key": "margarita_laux-antille",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -5811,7 +5811,7 @@
     "flavor": "I'll take an attentive reconnaissance unit over a fine brigade any day.",
     "info": "Set the strength of all opposing non-Gold Spying units to 1.",
     "key": "menno_coehoorn",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -5839,7 +5839,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
@@ -5847,7 +5847,7 @@
     "flavor": "The sky dimmed of a sudden, and clouds amassed over the town. It grew fiendishly dark, and a cold gust swept in. \"Oh my,\" gasped Yennefer. \"We're about to make quite the mess, I think.\"",
     "info": "Spawn Frost and Rain.",
     "key": "merigolds_hailstorm",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Merigold’s Hailstorm",
@@ -5875,7 +5875,7 @@
     "flavor": "With each arrow I loose, I think of my da. He'd be proud. I think.",
     "info": "Return the strongest non-Gold, non Relentless unit (except self) on each side to the owners’ hands. Ties are resolved randomly.",
     "key": "milva",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -5903,14 +5903,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Monsters",
     "flavor": "Damn, the filth's o'errun us… We need a witcher or there's no livin' 'ere!",
     "info": "Spawn a base copy of all Breedable units on your side of the battlefield.",
     "key": "monster_nest",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Monster Nest",
@@ -5934,14 +5934,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dryad"
     ],
     "faction": "Scoia'tael",
     "flavor": "Lady Eithné's daughter had inherited her sublime beauty and her wild hatred for all that is human.",
     "info": "If possible, destroy an unrevealed Ambush card and gain 4 strength.",
     "key": "morenn",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -5975,7 +5975,7 @@
     "flavor": "The vilest man Skellige's ever known.",
     "info": "When moved to the graveyard, lose 2 base strength and resurrect.",
     "key": "morkvarg",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6028,13 +6028,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "info": "Add 4 base strength to a non-Gold unit on your side of the battlefield.",
     "key": "mutagen",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Mutagen",
@@ -6050,14 +6050,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dragon"
     ],
     "faction": "Neutral",
     "flavor": "Never get between a mother dragon and her young.",
     "info": "Choose a non-Gold unit three times. Remove 3 strength the first time, 2 the second and 1 the third.",
     "key": "myrgtabrakke",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -6085,7 +6085,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Fleeting",
       "Special"
     ],
@@ -6093,7 +6093,7 @@
     "flavor": "You exact from the earth a blood ransom, ripping out its riches by force. To us it bloomed, bore fruit and gave freely, for it loved us as we loved it.",
     "info": "Spawn a base copy of the last non-Gold Special Card played, then banish.",
     "key": "natures_gift",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Nature’s Gift",
@@ -6121,7 +6121,7 @@
     "flavor": "They call us Death's heads. Care to find out why?",
     "info": "Remove 4 strength from a Spying non-Gold unit on either side of the battlefield. If the unit was destroyed gain 4 base strength.",
     "key": "nauzicaa_brigade",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -6153,7 +6153,7 @@
     "flavor": "The Emperor will teach the North discipline.",
     "info": "Add 2 strength to all other non-Gold units on the row.",
     "key": "nauzicaa_standard_bearer",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -6183,14 +6183,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Breedable"
     ],
     "faction": "Monsters",
     "flavor": "These little guys are almost cute, if you ignore the whole vicious killer aspect.",
     "info": "While in your hand or deck, gain 1 strength whenever a unit on your side absorbs another’s strength. When removed from the battlefield, play a Nekker from your deck.",
     "key": "nekker",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6222,7 +6222,7 @@
     "flavor": "Take heed, gents, there's nekkers under this here bridge.",
     "info": "Create in your deck 2 base copies of a Bronze unit on your side of the battlefield.",
     "key": "nekker_warrior",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6250,14 +6250,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Permadeath"
     ],
     "faction": "Northern Realms",
     "flavor": "Few know more about healing than Nenneke.",
     "info": "Resurrect a non-Gold, non-Permadeath unit.",
     "key": "nenneke",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -6288,7 +6288,7 @@
     "faction": "Nilfgaard",
     "info": "Reveal a random card in your hand.",
     "key": "nilfgaardian_knight",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6316,14 +6316,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Wild Hunt"
     ],
     "faction": "Monsters",
     "flavor": "Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle.",
     "info": "Immune to Frost. Remove 2 strength from a random opposing non-Gold unit whenever a Wild Hunt unit appears on your side.",
     "key": "nithral",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6351,14 +6351,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dragon"
     ],
     "faction": "Neutral",
     "flavor": "The Master of Quartz Mountain, the Destroyer, Trajan's Slayer. In his free time, he likes long walks and candlelight dinners.",
     "info": "After 4 turns, remove 1 strength from all opposing non-Gold units and return this card to your hand.",
     "key": "ocvist",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -6390,7 +6390,7 @@
     "flavor": "Drinkin' without Odrin is like rowin' without a paddle.",
     "info": "Move to a random row on the same side at the start of your turn and add 1 strength to all other non-Gold units on the row.",
     "key": "odrin",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -6424,7 +6424,7 @@
     "flavor": "Do not disturb.",
     "info": "When more than 3 units are on the opposite row, remove 2 from their strength. Then transform into TBD",
     "key": "old_speartip",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -6458,7 +6458,7 @@
     "flavor": "At least you now know I don't easily lose my head.",
     "info": "Resurrect at the start of the round and remove 2 base strength.",
     "key": "olgierd",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6486,7 +6486,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Fleeting",
       "Mage",
       "Relentless"
@@ -6495,7 +6495,7 @@
     "flavor": "As time and space collapse before us, they expand behind us. In that way one moves forward through both.",
     "info": "Choose a non-Gold unit in your hand (other than the Operator). Create an exact copy in both players’ hands. Banish when destroyed.",
     "key": "operator",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -6523,14 +6523,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Northern Realms",
     "flavor": "They said the queen was prone to outbursts, but I did not expect that…",
     "info": "Destroy the weakest non-Gold unit(s) twice in a row.",
     "key": "pavetta",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -6562,7 +6562,7 @@
     "flavor": "These are not the hands of an \"Excellency,\" but of a farmer. So we speak peasant to peasant.",
     "info": "Reset a non-Gold unit to its base strength.",
     "key": "peter_saar_gwynleve",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6590,14 +6590,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Northern Realms",
     "flavor": "Soon the power of kings will wither, and the Lodge shall seize its rightful place.",
     "info": "Set the strength of all other non-Gold units on the row to 1.",
     "key": "philippa_eilhart",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -6631,7 +6631,7 @@
     "flavor": "I's a war veteran! Spare me a crown?",
     "info": "Spawn an exact copy of this unit on the same row.",
     "key": "poor_infantry",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6659,14 +6659,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Permadeath"
     ],
     "faction": "Skellige",
     "flavor": "Modron Freya, the Great Mother, is the goddess of love, beauty and bounty.",
     "info": "Resurrect a Bronze non-Permadeath unit.",
     "key": "priestess_of_freya",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -6698,7 +6698,7 @@
     "flavor": "He wears armor made of gold. Of course he's a jerk.",
     "info": "Draw 1 card face up and 1 card face down. Keep 1, return the other to your deck.",
     "key": "prince_stennis",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6730,7 +6730,7 @@
     "flavor": "Picture Dandelion in a dress and you've got the general idea.",
     "info": "Draw 2 non-Gold cards. Play 1 and return the other to your deck.",
     "key": "priscilla",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -6762,7 +6762,7 @@
     "flavor": "Mooooooo.",
     "info": "When removed from the battlfield, spawn a Chort on the row where this unit was.",
     "key": "prize_winning_cow",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6790,14 +6790,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Northern Realms",
     "flavor": "Not wealth or fame but intentions true -- that's what makes a hero of you!",
     "info": "Convert all instances of a non-Gold unit on your side of the battlefield to Gold until removed from the battlefield or the round ends.",
     "key": "promote",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Promote",
@@ -6825,7 +6825,7 @@
     "flavor": "The queen is guarded by the hardiest and fiercest shieldmaidens Skellige's ever known.",
     "info": "Resurrect all Queensguards and add 1 base strength to your Cerys unit, wherever it is.",
     "key": "queensguard",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -6853,14 +6853,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "The witcher raised a hand and quickly traced a path with it in the air. The crowd's rumble rose, the stones flew thicker. Yet the Sign curved their course, pushing them aside. They simply passed their target, protected by a shield unseen.",
     "info": "Give all instances of a non-gold unit on your side a shield. The shield protects its bearer from one strength-removing effect.",
     "key": "quen_sign",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Quen Sign",
@@ -6887,7 +6887,7 @@
     "faction": "Monsters",
     "info": "No ability.",
     "key": "rabid_wolf",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "name": "Rabid Wolf",
@@ -6929,7 +6929,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
@@ -6937,7 +6937,7 @@
     "flavor": "In the Final Age, Hemdall will come forth to face the evil issuing from the land of Morhogg – the legions of wraiths, demons and specters of Chaos.",
     "info": "Spawn Frost, Fog and Rain effects.",
     "key": "ragh_nar_roog",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Ragh Nar Roog",
@@ -6964,7 +6964,7 @@
     "faction": "Skellige",
     "info": "Immune to Frost. When first appearing, gain 1 base strength of it’s Round 2 or 2 base strength if it’s Round 3.",
     "key": "raging_bear",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "name": "Raging Bear",
@@ -6981,14 +6981,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Shapeshifter"
     ],
     "faction": "Skellige",
     "flavor": "In their ballads skalds claim you cannot tell a berserker changed in the heat of battle from a true–born bear.",
     "info": "Transform into a Raging Bear if weakened but not destroyed.",
     "key": "raging_berserker",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -7019,7 +7019,7 @@
     "faction": "Neutral",
     "info": "Play a random Bronze unit from your deck.",
     "key": "rally",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Rally",
@@ -7039,7 +7039,7 @@
     "flavor": "See this here tattoo? 'At's me, hackin' at a dragon. A DRAGON, m'lady.",
     "info": "Add 1 strength to all your other Reaver Hunters, wherever they are. After 2 turns, play a Reaver Hunter from your deck.",
     "key": "reaver_hunter",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -7071,7 +7071,7 @@
     "flavor": "Haven't had much luck with monsters of late, so we enlisted.",
     "info": "Choose a Bronze unit on your side of the battlefield. Play an instance of it from your deck.",
     "key": "reaver_scout",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -7103,7 +7103,7 @@
     "flavor": "I'll die for Redania, I'll kill for Redania… I'll even eat worms for Redania!",
     "info": "If 3 or more Redanian Elites are on your side of the battlefield, convert them to Gold until removed from the battlefield or the round ends.",
     "key": "redanian_elite",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -7135,7 +7135,7 @@
     "flavor": "For flory! For Radovid!",
     "info": "No ability.",
     "key": "redanian_knight",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -7163,7 +7163,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Relentless",
       "Vampire"
     ],
@@ -7171,7 +7171,7 @@
     "flavor": "Men, the polite ones, at least, would call me a monster. A blood–drinking freak.",
     "info": "When removed from the battlefield, transform into Regis: Higher Vampire and play.",
     "key": "regis",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -7203,7 +7203,7 @@
     "flavor": "He becomes invisible at will. His glance hypnotizes into a deep sleep. He then drinks his fill, turns into a bat and flies off. Altogether uncouth.",
     "info": "No ability.",
     "key": "regis_higher_vampire",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -7227,7 +7227,7 @@
     "flavor": "Never manages to hit the same place twice, which, upon further reflection, might constitute a real problem.",
     "info": "Remove 1 strength from a random opposing non-Gold unit whenever a Gold card appears on your side.",
     "key": "reinforced_ballista",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -7259,7 +7259,7 @@
     "flavor": "The latest rage in assaults on walled cities.",
     "info": "Gain 2 strength whenever a Gold card appears on your side.",
     "key": "reinforced_siege_tower",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -7291,7 +7291,7 @@
     "flavor": "Feel that? The earth trembles each time Big Bertha looses a stone.",
     "info": "Every 3 turns, remove 2 strength from a random opposing non-Gold unit.",
     "key": "reinforced_trebuchet",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -7319,14 +7319,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Northern Realms",
     "flavor": "Sound the retreat! Regroup! And wait for reinforccements!",
     "info": "Play all instances from your deck of a Bronze unit on your side of the battlefield.",
     "key": "reinforcement",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Reinforcement",
@@ -7350,14 +7350,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "Medicus curat, magicae sanat.",
     "info": "Resurrect a Gold unit.",
     "key": "renew",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Renew",
@@ -7381,14 +7381,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Skellige",
     "flavor": "Those cursed sorcresses are stealing our thunder! Whyever should folk choose a procedure taking several hours, when some perfumed tart can solve their problem with a wave of her hand?",
     "info": "Add 2 to the base strength of a non-Gold unit in your graveyard (can be Permadeath), then resurrect it.",
     "key": "restoration",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Restoration",
@@ -7416,7 +7416,7 @@
     "flavor": "Geralt, we gotta have a man-to-horse talk. No offense, but your riding skills? They leave a bit to be desired, buddy.",
     "info": "Play on a random row from your deck or graveyard whenever a Gold card appears on your side.",
     "key": "roach",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -7446,14 +7446,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Machine"
     ],
     "faction": "Nilfgaard",
     "flavor": "Let historians debate whether spreading plague in a besieged city is ethical. We just card if it's effective.",
     "info": "Spawn a Cow Carcass on an opposing row.",
     "key": "rot_tosser",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -7481,14 +7481,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Northern Realms",
     "flavor": "The Daughter of the Kaedweni Wilderness.",
     "info": "When destroyed, remove 3 strength from all non-Gold units on its side.",
     "key": "sabrina_glevissig",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -7520,7 +7520,7 @@
     "flavor": "Little Sarah wants to play!",
     "info": "Immune to Weather. Gain 3 strength each time a Weather effect appears.",
     "key": "sarah",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -7548,14 +7548,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dragon"
     ],
     "faction": "Scoia'tael",
     "flavor": "I care not for kings and their titles. In the east lives one who truly deserves a crown.",
     "info": "Remove 1 strength from all opposing non-Gold units. Add 1 strength to all non-Gold units on your side of the battlefield.",
     "key": "saskia",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -7587,7 +7587,7 @@
     "flavor": "\"Tame\"? Och, lad, Skelligers might train bears, but that don't at all mean they tame 'em…",
     "info": "Remove 1 strength from each non-Gold unit played on the battlefield. Does not affect spawned units.",
     "key": "savage_bear",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -7615,7 +7615,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Ambush",
       "Elf"
     ],
@@ -7623,7 +7623,7 @@
     "flavor": "Time to look death in the face.",
     "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects, then destroy the strongest non-Gold unit(s) on the battlefield.",
     "key": "schirru",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -7650,14 +7650,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "Geralt took one step back. He'd seen men hit by Scorch before. Or more accurately, seen what remained of them afterwards.",
     "info": "Destroy the strongest non-Gold unit(s) on the battlefield.",
     "key": "scorch",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Scorch",
@@ -7681,14 +7681,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Witcher"
     ],
     "faction": "Nilfgaard",
     "flavor": "We do what we must. I am not ashamed of that.",
     "info": "Choose an opposing non-Gold unit and remove 1 from its strength for each revealed card in both players’ hands.",
     "key": "serrit",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -7719,7 +7719,7 @@
     "faction": "Neutral",
     "info": "Remove 1 strength from a random opposing non-Gold unit.",
     "key": "shadow",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "name": "Shadow",
@@ -7736,14 +7736,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Permadeath"
     ],
     "faction": "Northern Realms",
     "flavor": "I'm a medic. I tend to know what I'm doing when I prescribe something.",
     "info": "Resurrect a non-Gold, non-Permadeath unit and convert it to Gold until removed from the battlefield or the round ends.",
     "key": "shani",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -7771,14 +7771,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "I was there, on the front lines! Right where the fightin' was the thickest!",
     "info": "No ability.",
     "key": "sheldon_skaggs",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -7806,14 +7806,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Permadeath"
     ],
     "faction": "Skellige",
     "flavor": "Fall on your knees and beg Modron Freya for forgiveness.",
     "info": "Resurrect a non-Gold unit (can be Permadeath). Gain 1 strength whenever a unit is played from the graveyard.",
     "key": "sigrdrifa",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -7841,14 +7841,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Northern Realms",
     "flavor": "The Lodge lacks humility. Our lust for power may yet be our undoing.",
     "info": "Remove 4 strength from an opposing non-Gold unit.",
     "key": "sile_de_tansarville",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -7876,7 +7876,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
@@ -7884,7 +7884,7 @@
     "flavor": "This ain't no normal storm. This here's the wrath of the gods.",
     "info": "Spawn Fog and Rain effects.",
     "key": "skellige_storm",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Skellige Storm",
@@ -7912,7 +7912,7 @@
     "flavor": "Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!",
     "info": "Remove 3 strength from this unit, then from the strongest opposing non-Gold unit(s). When removed from the battlefield, spawn Craven Revived on the same row.",
     "key": "skjall",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -7945,7 +7945,7 @@
     "faction": "Skellige",
     "info": "Immune to Weather. Move to a random opposing row at the start of your turn and remove 1 strength from all non-Gold units on the row.",
     "key": "spectral_whale",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -7967,13 +7967,13 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "info": "Remove 4 base strength from an opposing non-Gold unit.",
     "key": "spores",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Spores",
@@ -7992,7 +7992,7 @@
     "faction": "Nilfgaard",
     "info": "Immune to Weather. Gain 1 strength for each revealed card in both players’ hands.",
     "key": "spotter",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -8022,14 +8022,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "The sorcerer Stammelford moved a mountain that obscured the view from his tower. Rumor has it he could only do so for he'd fettered a d'ao, an earth elemental.",
     "info": "Remove 2 strength from all non-Gold units on both sides of the battlefield.",
     "key": "stammelfords_tremors",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Stammelford’s Tremors",
@@ -8057,7 +8057,7 @@
     "flavor": "My mark scars the face of our future empress. That is my proudest achievement.",
     "info": "Choose any card in your deck, then shuffle your deck and place the chosen card on top.",
     "key": "stefan_skellen",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -8089,7 +8089,7 @@
     "flavor": "Why fight? There are much better ways to work off excess energy...",
     "info": "After 2 turns, move the strongest non-Gold unit on the row to the other side (ties are resolved randomly).",
     "key": "succubus",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -8123,7 +8123,7 @@
     "flavor": "The emperor also thought him an accidental king. At first.",
     "info": "If possible, discard 1 card and draw 1 card.",
     "key": "svanrige",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -8151,7 +8151,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Potion",
       "Special"
     ],
@@ -8159,7 +8159,7 @@
     "flavor": "Symbolizing spring and rejuvenation, the swallow lent its name to this potion that accelerates the rate at which wounds scab over and heal.",
     "info": "Add 8 strength to a non-Gold unit. If it’s a Witcher, add 12 strength instead.",
     "key": "swallow_potion",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Swallow Potion",
@@ -8187,7 +8187,7 @@
     "flavor": "And hands off the girl! Whatever we may be, we're not savages.",
     "info": "Move all instances an opposing non-Gold unit from your opponent’s deck to their graveyard.",
     "key": "sweers",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -8219,7 +8219,7 @@
     "flavor": "Temeria! Temeria! Gods shed all grace on thee! And smite thy foes with horrid woes, for all eternity!",
     "info": "Play an instance of this card from your deck.",
     "key": "temerian_foot_soldier",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -8251,7 +8251,7 @@
     "flavor": "Piss off! We aren't all philanderers. Some of us have depth…",
     "info": "Redraw up to 1 card.",
     "key": "thaler",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -8279,14 +8279,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "A djinn, good sirs, fulfills but three wishes. Thus freed, it flees to dimensions unknown.",
     "info": "Draw 2 cards. Discard 2 cards.",
     "key": "the_last_wish",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "The Last Wish",
@@ -8310,7 +8310,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Potion",
       "Special"
     ],
@@ -8318,7 +8318,7 @@
     "flavor": "The witcher's face changed… His mien turning inhuman, horrifying.",
     "info": "Add 4 strength to all instances of a non-Gold unit on its side. If it’s a Witcher, add 6 strength instead.",
     "key": "thunderbolt_potion",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Thunderbolt Potion",
@@ -8346,7 +8346,7 @@
     "flavor": "Tibor's zeal was legendary. It was said when the emperor passed, he'd not so much bow as somersault.",
     "info": "If your opponent has not passed, gain 15 strength, then your opponent draws a card and reveals it.",
     "key": "tibor_eggebracht",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -8374,7 +8374,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
@@ -8382,7 +8382,7 @@
     "flavor": "Even the rain in this land smells vile.",
     "info": "Spawn a Rain effect on both Siege rows that sets the strength of all non-Gold units on or appearing there to 1.",
     "key": "torrential_rain",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Torrential Rain",
@@ -8406,7 +8406,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Ambush",
       "Elf"
     ],
@@ -8414,7 +8414,7 @@
     "flavor": "I'd gladly kill you from up close, stare in your eyes… But you reek, human.",
     "info": "Ambush: When the player on the opposing side passes, add 2 strength to all other non-Gold units on the row.",
     "key": "toruviel",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -8445,14 +8445,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Nilfgaard",
     "flavor": "Many believe the empire's power rests upon the shoulder of its disciplined army and dutiful mages. In truth, the Nilfgaardian floren rules the world.",
     "info": "Move a Spying opposing non-Gold unit to your side and add 4 to its strength.",
     "key": "treason",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Treason",
@@ -8480,7 +8480,7 @@
     "flavor": "Castle won't batter itself down, now will it? Get them trebuchets rollin'!",
     "info": "Remove 2 strength from 2 opposing non-Gold units.",
     "key": "trebuchet",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -8508,14 +8508,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Neutral",
     "flavor": "I can take care of myself. Trust me.",
     "info": "Remove 4 strength from an opposing unit.",
     "key": "triss_merigold",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -8547,7 +8547,7 @@
     "flavor": "Join me King Ravodid army. Order got - guard boatses.",
     "info": "Remove 1 strength from all non-Gold units on the opposite row. Gain 1 strength for each.",
     "key": "trololo",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -8581,7 +8581,7 @@
     "flavor": "The gods have spoken: a sacrifice is required.",
     "info": "Move a random card from your opponent’s graveyard to your hand.",
     "key": "udalryk",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -8612,7 +8612,7 @@
     "faction": "Neutral",
     "info": "Add 2 strength to all other units.",
     "key": "unicorn",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "name": "Unicorn",
@@ -8629,14 +8629,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Nilfgaard",
     "flavor": "For a fire mage, he's not very... flamboyant.",
     "info": "Wherever Vanhemar is, gain 2 strength whenever another card in either player’s hand is revealed.",
     "key": "vanhemar",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -8668,7 +8668,7 @@
     "flavor": "There's never been a problem a well-planed assassination couldn't solve.",
     "info": "Reveal up to 2 cards in your hand. For each card thus revealed, reveal 1 random card in your opponent’s hand.",
     "key": "vattier_de_rideaux",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -8696,14 +8696,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Blue Stripes"
     ],
     "faction": "Northern Realms",
     "flavor": "A patriot… and a real pain in the rear.",
     "info": "Remove 5 strength from any opposing unit.",
     "key": "vernon_roche",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -8731,14 +8731,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Blue Stripes"
     ],
     "faction": "Northern Realms",
     "flavor": "Better to live one day as a king than a whole life as a beggar.",
     "info": "Play a Blue Stripes Commando from your deck whenever a Gold card appears on your side.",
     "key": "ves",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -8766,14 +8766,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Witcher"
     ],
     "faction": "Neutral",
     "flavor": "If you're to be hanged, ask for water. Anything can happen before they fetch it.",
     "info": "Play Eskel and Lambert from your deck.",
     "key": "vesemir",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -8801,14 +8801,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Permadeath"
     ],
     "faction": "Nilfgaard",
     "flavor": "The world has known as many plagues as it has wars. yet both war and plague always take men by surprise.",
     "info": "Play a Bronze unit from the opposing graveyard on your side.",
     "key": "vicovaro_medic",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -8836,14 +8836,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Nilfgaard",
     "flavor": "We are all pawns on his board. Playing a game whose rules we do not know.",
     "info": "Destroy a non-Gold unit. If it was on the opposing side, your opponent draws a card and reveals it. If it was on your side, draw and play a card.",
     "key": "vilgefortz",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -8871,14 +8871,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dragon"
     ],
     "faction": "Neutral",
     "flavor": "Also calls himself Borkh Three Jackdaws… he's not the best at names.",
     "info": "After 3 turns, destroy the strongest non-Gold unit(s) twice in a row.",
     "key": "villentretenmerth",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -8910,7 +8910,7 @@
     "flavor": "They sat still on their horses, seemingly relaxed. He saw their weapons – short spears with wide tips. Swords with oddly forged guards. Battle axes. Toothed gisarmes.",
     "info": "No ability.",
     "key": "vran_warrior",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -8938,14 +8938,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "\"Vrihedd? What's that mean?\" \"Trouble.\"",
     "info": "No ability.",
     "key": "vrihedd_brigade",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -8975,14 +8975,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Most terrible things I've witnessed? The Catriona plague, the razing of Vengerberg and the charge of the Vrihedd Dragoons.",
     "info": "Add 3 strength to a non-Gold unit in your hand.",
     "key": "vrihedd_dragoon",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -9012,14 +9012,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "”Hatred burns brighter than any fire, and cuts deeper than any blade.",
     "info": "Add 1 strength to the weakest non-Gold unit(s) on your side of the battlefield (except self), remove 1 strength from the weakest opposing non-Gold unit(s).",
     "key": "vrihedd_officer",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -9049,14 +9049,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "No matter what you may have heard, elves don't take human scalps. Too much lice.",
     "info": "Remove 2 strength from all non-Gold units on the row whenever a Special Card is played.",
     "key": "vrihedd_sappers",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -9087,14 +9087,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Temerians, Redanians, all the same. Better off dead.",
     "info": "Spawn a Commando Neophyte on a random row.",
     "key": "vrihedd_vanguard",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -9128,7 +9128,7 @@
     "flavor": "They say Hemdall's heart swells whenever the longships sail out on a raid.",
     "info": "Remove 2 strength from a random opposing non-Gold unit whenever a unit on your side is destroyed or you discard a unit.",
     "key": "war_longship",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -9156,14 +9156,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "Some fight for Temeria. Other fight for Nilfgaard. I fight for the Heron.",
     "info": "Double the strength of all weakened non-Gold units on your side of the battlefield.",
     "key": "warcry",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "Warcry",
@@ -9191,7 +9191,7 @@
     "flavor": "Seen a lot o' ugly critters in me life – morays, lampreys, blobfish… But never nothin' like this!",
     "info": "Immune to Rain. Spawn a Rain effect.",
     "key": "water_hag",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -9219,7 +9219,7 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Special",
       "Weather"
     ],
@@ -9227,7 +9227,7 @@
     "flavor": "Behold Tedd Deireadh, the Final Age. The world destroyed by the White Frost.",
     "info": "Spawn Frost and Fog effects.",
     "key": "white_frost",
-    "lane": [
+    "lanes": [
       "Event"
     ],
     "name": "White Frost",
@@ -9255,7 +9255,7 @@
     "flavor": "Merely mention this name to a Nilfgaardian, and they'll feel a spreading warmth in their knickers.",
     "info": "When affected by weather at the start of your turn, create a Clan Dimun Pirate on the bottom of your deck.",
     "key": "wild_boar_of_the_sea",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -9287,7 +9287,7 @@
     "flavor": "Cry 'Havoc!', and let slip the dogs of war.",
     "info": "Immune to Frost.",
     "key": "wild_hunt_hound",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -9307,14 +9307,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Wild Hunt"
     ],
     "faction": "Monsters",
     "flavor": "First the buffalo horns atop their helms penetrate one's view, then the crest betwixt them, and finally the skull–like face exposed beneath their visors.",
     "info": "Immune to Frost. Play all Wild Hunt Riders from your deck.",
     "key": "wild_hunt_rider",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -9342,14 +9342,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Wild Hunt"
     ],
     "faction": "Monsters",
     "flavor": "The White Frost is coming.",
     "info": "Immune to Frost. Remove 1 strength from an opposing non-Gold unit and gain 2 strength if that unit is destroyed.",
     "key": "wild_hunt_warrior",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -9381,7 +9381,7 @@
     "flavor": "We never hunt in these woods. Not even if it means the whole village'll starve.",
     "info": "Immune to Fog. Spawn a Fog effect and 3 Rabid Wolves.",
     "key": "woodland_spirit",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -9413,7 +9413,7 @@
     "flavor": "Imagine a cross between a winged snake and a nightmare. Wyverns are worse.",
     "info": "Remove 4 strength from an opposing unit non-Gold unit.",
     "key": "wyvern",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
@@ -9441,14 +9441,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Nilfgaard",
     "flavor": "Astrology, hydromancy, haruspicy, ceromancy. Ovomancy, spodomancy, metroscopy, brontoscopy...",
     "info": "Look at the top 2 cards in your opponent’s deck. You may move 1 to the bottom of that deck.",
     "key": "xarthisius",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -9476,14 +9476,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Elf"
     ],
     "faction": "Scoia'tael",
     "flavor": "We are the drops of rain that together make a ferocious storm.",
     "info": "Remove 2 strength from all other non-Gold units on the row. Draw a card.",
     "key": "yaevinn",
-    "lane": [
+    "lanes": [
       "Ranged",
       "Melee",
       "Siege"
@@ -9513,14 +9513,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Ever hear o' the dragon Ocvist? From Quartz Mountain? Well, Yarpen Zigrin and his band o' dwarves did 'im in.",
     "info": "Keep on the battlefield at the end of this round.",
     "key": "yarpen_zigrin",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -9548,14 +9548,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Neutral",
     "flavor": "Magic is Chaos, Art and Science. It is a curse, a blessing and a progression.",
     "info": "Spawn either a Unicorn or a Chironex.",
     "key": "yennefer",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -9583,14 +9583,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Mage"
     ],
     "faction": "Neutral",
     "flavor": "A good sorceress must know when to conjure ice... and when to conjure fire.",
     "info": "At the start of your turn, remove 1 strength from the strongest non-Gold unit(s) (except self) on the battlefield.",
     "key": "yennefer_the_conjurer",
-    "lane": [
+    "lanes": [
       "Siege"
     ],
     "loyalty": [
@@ -9618,14 +9618,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Scoia'tael",
     "flavor": "Drinkin' alone's like crappin' with company.",
     "info": "Keep on the battlefield at the end of each round.",
     "key": "zoltan_chivay",
-    "lane": [
+    "lanes": [
       "Melee"
     ],
     "loyalty": [
@@ -9653,14 +9653,14 @@
     ]
   },
   {
-    "category": [
+    "categories": [
       "Dwarf"
     ],
     "faction": "Neutral",
     "flavor": "Apologies. My exotic pet's a clever birdie, but a wee bit lewd. Paid ten thalers for the beaute.",
     "info": "Spawn one of the two Field Marshal Duda units.",
     "key": "zoltan_animal_tamer",
-    "lane": [
+    "lanes": [
       "Ranged"
     ],
     "loyalty": [
