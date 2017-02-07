@@ -77,7 +77,7 @@ def getCardJson(html):
     # Retrieve the main href of the image of the card (the href when we click on the picture).
     # It's the full size picture of the card.
     imageUrl = cardArticle.find('div', class_="card-img").a.get('href')
-
+    thumbnailUrl = cardArticle.find('div', class_="card-img").a.img.get('src')
     # We dive deeper. A lot of the information is inside that div.
     content = cardArticle.find('div', class_="entry-content")
 
@@ -104,8 +104,8 @@ def getCardJson(html):
 
 
     art = {}
-    art["fullsizeImageUrl"] = imageUrl.strip()
-
+    art["fullsizeImage"] = imageUrl.strip()
+    art["thumbnailImage"] = thumbnailUrl.strip()
     variation["art"] = art
 
     # The div contains an unordered list. We will get all the elements of that list
@@ -164,19 +164,19 @@ def getCardJson(html):
 
         if attribute == "Position:":
             # A card can be played on multiple lanes (called position on the website).
-            dataMap["lanes"] = list()
+            dataMap["positions"] = list()
             lane = data.a.get_text().strip()
 
             # If the text is "Multiple", then that mean all 3 lanes are valid.
             # We add the 3 different lanes to the list instead of giving it a special significance.
             if lane == "Multiple":
                 # Danger, lane names might change on the website
-                dataMap["lanes"].append("Ranged")
-                dataMap["lanes"].append("Melee")
-                dataMap["lanes"].append("Siege")
+                dataMap["positions"].append("Ranged")
+                dataMap["positions"].append("Melee")
+                dataMap["positions"].append("Siege")
             # If it's not "Multiple", then it's a single lane card and we can just add the name of the lane.
             else:
-                dataMap["lanes"].append(lane)
+                dataMap["positions"].append(lane)
 
     dataMap["variations"].append(variation)
 

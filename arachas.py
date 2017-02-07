@@ -106,7 +106,8 @@ class CardThread(threading.Thread):
                 key = getNameKey(cardData['name'])
                 cardData['key'] = key
                 self.finalDataQueue.put(cardData)
-                self.imageQueue.put((cardData['key'], cardData['variations'][0]['art']['fullsizeImageUrl']))
+                self.imageQueue.put((cardData['key'], cardData['variations'][0]['art']['fullsizeImage']))
+                self.imageQueue.put((cardData['key'] + "_thumbnail", cardData['variations'][0]['art']['thumbnailImage']))
 
             else:
                 print("bad")
