@@ -534,14 +534,14 @@
         },
         "availability": "BaseSet",
         "craft": {
-          "normal": 30,
-          "premium": 200
+          "normal": 200,
+          "premium": 800
         },
         "mill": {
-          "normal": 5,
-          "premium": 25
+          "normal": 50,
+          "premium": 200
         },
-        "rarity": "Common"
+        "rarity": "Epic"
       }
     ]
   },
@@ -726,8 +726,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/barclay-els-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/barclay-els-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/barclay-els-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/barclay-els-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1185,8 +1185,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/braenn-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/braenn-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/braenn-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/braenn-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1247,8 +1247,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/cahir.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/cahir-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/cahir-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/cahir-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1285,14 +1285,14 @@
         },
         "availability": "BaseSet",
         "craft": {
-          "normal": 80,
-          "premium": 400
+          "normal": 200,
+          "premium": 800
         },
         "mill": {
-          "normal": 10,
-          "premium": 50
+          "normal": 50,
+          "premium": 200
         },
-        "rarity": "Rare"
+        "rarity": "Epic"
       }
     ]
   },
@@ -1316,8 +1316,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/caranthir-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/caranthir-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/caranthir.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/caranthir-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1449,13 +1449,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 12,
+    "strength": 8,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/cerys-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/cerys-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/cerys-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/cerys-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1571,8 +1571,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/ciaran-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/ciaran-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/ciaran-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/ciaran-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1665,13 +1665,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 7,
+    "strength": 9,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/clan-an-craite-warrior-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/clan-an-craite-warrior-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/clan-an-craite-warrior-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/clan-an-craite-warrior-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1703,8 +1703,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-archer-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-archer-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-archer-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-archer-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1736,8 +1736,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-hunter-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-hunter-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-hunter-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-brokvar-hunter-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1802,8 +1802,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/clan-dimun-pirate-captain-4.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/clan-dimun-pirate-captain-4-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/clan-dimun-pirate-captain-5.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/clan-dimun-pirate-captain-5-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1971,8 +1971,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-axeman-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-axeman-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-axeman-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-axeman-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2004,8 +2004,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-skirmishers-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-skirmishers-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-skirmishers-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-tuirsearch-skirmishers-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2037,8 +2037,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-an-craite-raider-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-an-craite-raider-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-an-craite-raider-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/clan-an-craite-raider-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2304,8 +2304,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-brewess-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-brewess-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-brewess-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-brewess-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2332,13 +2332,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 7,
+    "strength": 9,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2370,8 +2370,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-whispess-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-whispess-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-whispess-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-whispess-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2520,7 +2520,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Dandelion, you're a cynic, a lecher, a liar – and my best friend.",
-    "info": "Add 2 strength to each non-Gold unit played on your side and 1 strength to each played on the opposing side. Does not affect spawned units.",
+    "info": "Add 2 strength to each non-Gold unit played on your side. Does not affect spawned units.",
     "key": "dandelion",
     "loyalty": [
       "Loyal"
@@ -2529,13 +2529,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 4,
+    "strength": 3,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/dandelion-4.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/dandelion-4-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/dandelion-5.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/dandelion-5-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2557,7 +2557,7 @@
     ],
     "faction": "Neutral",
     "flavor": "When you run out of peasants, decoys also make decent arrow fodder.",
-    "info": "Return a non-Gold, non-Relentless unit on your side to your hand, then banish.",
+    "info": "Return a non-Gold, non-Relentless unit on your side to your hand, add 3 to its base strength and immediately play it again, then banish self.",
     "key": "decoy",
     "name": "Decoy",
     "positions": [
@@ -2661,7 +2661,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Really believe you can dupe me with that tale you just pulled from your arse?",
-    "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain 1 strength for each unit converted.",
+    "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain 2 strength for each unit converted.",
     "key": "dijkstra",
     "loyalty": [
       "Loyal"
@@ -2697,7 +2697,7 @@
     ],
     "faction": "Neutral",
     "flavor": "An important part of every Witch Hunter's kit. In one muted flash, it turns the most powerful sorcerer into pork jelly ripe for cutting.",
-    "info": "Reset all units on the battlefield to their base strength.",
+    "info": "Reset all units on the battlefield to their base strength. Convert Gold units on that row to Silver (or Bronze, if that was their original color).",
     "key": "dimeritium_bomb",
     "name": "Dimeritium Bomb",
     "positions": [
@@ -2728,6 +2728,7 @@
       "Special"
     ],
     "faction": "Neutral",
+    "flavor": "The mage's arms were twisted and bound behind his back. The Redanians gave the fetters a good shake. Terranova cried out, lurched, bent backwards, bowed forward, then retched and groaned. It was clear of what his manacles were made.",
     "info": "Reset any unit on the battlefield to its base strength. If Gold, convert it to Silver (or Bronze, if that was its original color).",
     "key": "dimeritium_shackles",
     "name": "Dimeritium Shackles",
@@ -2793,7 +2794,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Take another step, dh'oine. You'd look better with an arrow between your eyes.",
-    "info": "Remove 5 strength from an opposing non-Gold unit.",
+    "info": "Remove 3 strength from an opposing non-Gold unit.",
     "key": "dol_blathanna_archer",
     "loyalty": [
       "Loyal"
@@ -2804,13 +2805,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 2,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-archer-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-archer-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-archer-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-archer-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2870,7 +2871,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "They track like hounds, run like deer and kill like heartless demons.",
-    "info": "Ambush: When a revealed non-Gold unit appears on the row, remove 5 strength from all non-Gold units on the row (except self).",
+    "info": "Ambush: When a revealed non-Gold unit appears on the row, remove 4 strength from all non-Gold units on the row (except self).",
     "key": "dol_blathanna_trapper",
     "loyalty": [
       "Disloyal",
@@ -2882,13 +2883,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 2,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-trapper-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-trapper-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-trapper-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/dol-blathanna-trapper-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2906,7 +2907,7 @@
   {
     "faction": "Skellige",
     "flavor": "I've gathered all the jarls together. Now make your case.",
-    "info": "Draw 1 card and discard 1 random non-Gold card from your deck.",
+    "info": "Immune to Weather. Draw 1 card and discard 1 random non-Gold card from your deck.",
     "key": "donar_an_hindar",
     "loyalty": [
       "Disloyal"
@@ -2915,13 +2916,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 8,
+    "strength": 10,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/donar-an-hindar-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/donar-an-hindar-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/donar-an-hindar-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/donar-an-hindar-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2937,6 +2938,10 @@
     ]
   },
   {
+    "categories": [
+      "Fleeting",
+      "Relentless"
+    ],
     "faction": "Skellige",
     "flavor": "Hear ye now the tale of the heroic deeds of Clan an Craite.",
     "info": "Add 2 base strength to all non-Gold units in your graveyard.",
@@ -2972,7 +2977,7 @@
   {
     "faction": "Monsters",
     "flavor": "Some men cannot admit defeat. Some keep fighting from beyond the grave.",
-    "info": "Destroy all non-Gold units with 3 strength or lower on both sides of the battlefield.",
+    "info": "Destroy all opposing non-Gold units with 3 strength or lower.",
     "key": "draug",
     "loyalty": [
       "Loyal"
@@ -2981,13 +2986,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 8,
+    "strength": 6,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/09/draug-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/09/draug-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/09/draug-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/09/draug-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3005,7 +3010,7 @@
   {
     "faction": "Monsters",
     "flavor": "Though the witchman lusts for gold, for the smiting of a drowner thou shalt give him but a silver penny, or three halfpence, at most.",
-    "info": "Immune to Rain. Move an opposing non-Gold unit to that side’s Siege row.",
+    "info": "Immune to Weather. Move an opposing non-Gold unit to that side’s Siege row.",
     "key": "drowner",
     "loyalty": [
       "Loyal"
@@ -3014,13 +3019,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 7,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/drowner-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/drowner-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/drowner-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/drowner-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3104,7 +3109,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Stay calm, everyone. And be alert. The true owners of those cloaks and beaver-skin caps might be elsewhere.",
-    "info": "No ability.",
+    "info": "Immune to Weather.",
     "key": "dun_banner_light_cavalry",
     "loyalty": [
       "Loyal"
@@ -3118,8 +3123,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/dun-banner-light-cavalry-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/dun-banner-light-cavalry-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/dun-banner-light-cavalry-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/dun-banner-light-cavalry-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3218,13 +3223,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 8,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/earth-elemental-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/earth-elemental-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/earth-elemental-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/earth-elemental-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3281,15 +3286,17 @@
     ],
     "name": "Ekimmara",
     "positions": [
-      "Melee"
+      "Ranged",
+      "Melee",
+      "Siege"
     ],
     "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/ekimmara-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/ekimmara-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/ekimmara-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/ekimmara-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3310,7 +3317,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Love justifies madness in any of its forms.",
-    "info": "Gain 3 strength whenever a Commando Neophyte unit appears on your side.",
+    "info": "While in your hand, deck or on the battlefield, gain 2 strength whenever a Commando Neophyte appears on your side.",
     "key": "eleyas",
     "loyalty": [
       "Loyal"
@@ -3344,7 +3351,8 @@
   },
   {
     "categories": [
-      "Elf"
+      "Elf",
+      "Relentless"
     ],
     "faction": "Scoia'tael",
     "flavor": "I spit on Scoia'tael ideals, but not on their coin.",
@@ -3359,13 +3367,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 3,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/elven-mercenary-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/elven-mercenary-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/elven-mercenary-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/elven-mercenary-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3381,6 +3389,9 @@
     ]
   },
   {
+    "categories": [
+      "Elf"
+    ],
     "faction": "Scoia'tael",
     "flavor": "You mean to say the she–elf danced amidst the fray? Have you lost your mind, corporal?!",
     "info": "Gain 4 strength whenever an Ambush is played.",
@@ -3550,7 +3561,7 @@
     "positions": [
       "Melee"
     ],
-    "strength": 10,
+    "strength": 11,
     "variations": [
       {
         "art": {
@@ -3718,7 +3729,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Stitch red to red, white to white, and everything will be all right.",
-    "info": "Resurrect a random non-Gold unit, non-Permadeath unit.",
+    "info": "Resurrect a random Bronze non-Permadeath unit.",
     "key": "field_medic",
     "loyalty": [
       "Loyal"
@@ -3727,13 +3738,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 2,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/field-medic-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/field-medic-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/field-medic-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/field-medic-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3856,7 +3867,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Careful…! One more step and you'll be turned into molten glass.",
-    "info": "Ambush: When a revealed non-Gold unit appears on the opposite side, remove 5 strength from it.",
+    "info": "Ambush: When a revealed non-Gold unit appears on the opposite side, remove 3 strength from it and spawn a Commando Neophyte on a random row on your side.",
     "key": "fireball_trap",
     "loyalty": [
       "Loyal"
@@ -3924,7 +3935,7 @@
   {
     "faction": "Monsters",
     "flavor": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims.",
-    "info": "Immune to Fog. Play from your deck or graveyard whenever Fog is spawned. Gain 1 strength whenever a Fog effect is applied. Destroy when moved outside of Fog or Fog is removed.",
+    "info": "Immune to Weather. Play from your deck or graveyard whenever Fog is spawned. Destroy when moved outside of Fog or Fog is removed.",
     "key": "foglet",
     "loyalty": [
       "Loyal"
@@ -3933,13 +3944,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 1,
+    "strength": 2,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/foglet-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/foglet-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/foglet-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/foglet-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4012,7 +4023,7 @@
   {
     "faction": "Monsters",
     "flavor": "”What have I done?” the mage cried out, frightened of his own creation.",
-    "info": "Every 2 turns, if possible, banish a random non-Gold Special Card in your graveyard and gain 3 strength.",
+    "info": "Every 2 turns, if possible, banish a random non-Gold Special Card in your graveyard and absorb 3 strength.",
     "key": "frightener",
     "loyalty": [
       "Loyal"
@@ -4149,7 +4160,7 @@
   {
     "faction": "Neutral",
     "flavor": "A blast of concentrated energy that pummels everything in its path. Great for when you forget your keys.",
-    "info": "Move all non-Gold units on the opposite row one row back. Remove 1 strength from all moved units.",
+    "info": "Move 3 non-Gold units on the opposite row one row back. Remove 1 strength from all moved units.",
     "key": "geralt_aard",
     "loyalty": [
       "Loyal"
@@ -4160,13 +4171,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/geralt-aard-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/geralt-aard-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/geralt-aard-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/geralt-aard-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4198,13 +4209,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 4,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/geralt-igni-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/geralt-igni-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/geralt-igni-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/geralt-igni-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4350,7 +4361,7 @@
   {
     "faction": "Monsters",
     "flavor": "Their long tongues're for slurping marrow – and whipping prey.",
-    "info": "After 1 turn, banish all non-Gold units in your graveyard and gain 1 strength for each.",
+    "info": "After 1 turn, banish all non-Gold units in your graveyard and absorb 1 strength for each.",
     "key": "grave_hag",
     "loyalty": [
       "Loyal"
@@ -4359,13 +4370,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 2,
+    "strength": 1,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/grave-hag-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/grave-hag-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/grave-hag-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/grave-hag-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4383,7 +4394,7 @@
   {
     "faction": "Skellige",
     "flavor": "An archdruid, a master of alchemy, and the grumpiest old fart in the Isles.",
-    "info": "Remove 2 strength from 3 non-Gold units on your sideof the battlefield. Gain 3 strength for each.",
+    "info": "Remove 1 strength from 3 non-Gold units on your side of the battlefield. Gain 3 strength for each.",
     "key": "gremist",
     "loyalty": [
       "Loyal"
@@ -4392,13 +4403,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 4,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/gremist-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/gremist-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/gremist-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/gremist-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4693,7 +4704,7 @@
   {
     "faction": "Skellige",
     "flavor": "Instead of mournin' the fallen, let's drink to their memory!",
-    "info": "Spawn a Lord of Undvik on the opposite side.",
+    "info": "Spawn a Lord of Undvik on the opposing side.",
     "key": "hjalmar",
     "loyalty": [
       "Loyal"
@@ -4726,7 +4737,7 @@
   {
     "faction": "Skellige",
     "flavor": "Now let's drink to Emperor of Nilfgaard – may he die of somethin' hideous!",
-    "info": "Immune to Fog. Remove 2 strength from 3 non-Gold units.",
+    "info": "Immune to Weather. Remove 2 strength from 3 non-Gold units.",
     "key": "holger_blackhand",
     "loyalty": [
       "Loyal"
@@ -4759,7 +4770,7 @@
   {
     "faction": "Monsters",
     "flavor": "Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed.",
-    "info": "Immune to Frost. Gain 7 strength while on a row affected by Frost.",
+    "info": "Immune to Weather. Gain 5 strength each time a Frost effect is spawned on this unit’s row.",
     "key": "ice_giant",
     "loyalty": [
       "Loyal"
@@ -4797,7 +4808,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I am a Sage. My power lies in possessing knowledge. Not sharing it.",
-    "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects.",
+    "info": "Ambush: When the next opposing non-Gold Special Card is played, cancel its effects.",
     "key": "ida_emean",
     "loyalty": [
       "Disloyal",
@@ -4836,7 +4847,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Ladd nahw! Kill them! Litter the earth with their entrails!",
-    "info": "Immune to Frost. Remove 3 strength from an opposing unit and 1 strength from all other units on its row.",
+    "info": "Immune to Weather. Remove 3 strength from an opposing unit and 1 strength from all other units on its row.",
     "key": "imlerith",
     "loyalty": [
       "Loyal"
@@ -4845,13 +4856,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 8,
+    "strength": 9,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/imlerith-4.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/imlerith-4-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/imlerith-5.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/imlerith-5-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4873,7 +4884,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A good commander's dream… and a bad one's horror.",
-    "info": "Spawn a Fog effect on both Ranged rows that sets the strength of all non-Gold units on or appearing there to 1.",
+    "info": "Spawn a Fog effect on both Ranged rows that sets the strength of all non-immune units on or appearing there to 1. Units regain all strength removed by Fog when Fog is removed or they move out of it.",
     "key": "impenetrable_fog",
     "name": "Impenetrable Fog",
     "positions": [
@@ -4915,8 +4926,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/impera-brigade.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/impera-brigade-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/impera-brigade-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/impera-brigade-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5010,15 +5021,17 @@
     ],
     "name": "Iris",
     "positions": [
+      "Ranged",
+      "Melee",
       "Siege"
     ],
-    "strength": 3,
+    "strength": 1,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/iris-von-everec.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/iris-von-everec-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/iris-von-everec-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/iris-von-everec-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5039,7 +5052,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "It dawns on them once they notice my scar: a realization of imminent death.",
-    "info": "Spawn 1 Commando Neophytes on random row whenever you play a Special Card.",
+    "info": "Spawn 1 Commando Neophyte on a random row whenever you play a Special Card.",
     "key": "isengrim",
     "loyalty": [
       "Loyal"
@@ -5050,13 +5063,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/isengrim-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/isengrim-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/isengrim-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/isengrim-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5068,6 +5081,45 @@
           "premium": 800
         },
         "rarity": "Legendary"
+      }
+    ]
+  },
+  {
+    "categories": [
+      "Elf",
+      "Mage"
+    ],
+    "faction": "Scoia'tael",
+    "flavor": "Famed for constantly prophesying the world's doom. Not much fun at parties.",
+    "info": "After 1 turn, lock all non-Gold units on the row and the opposite row. A locked unit loses all tokens (Resilience, Quen, etc.) and its ability does not trigger while it remains on the battlefield.",
+    "key": "ithlinne",
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Ithlinne",
+    "positions": [
+      "Ranged",
+      "Melee",
+      "Siege"
+    ],
+    "strength": 6,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/02/ithlinne.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/02/ithlinne-300x376.png"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
       }
     ]
   },
@@ -5170,7 +5222,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Life without savoring the sound of \"surreptitious shananacking\" is like licking snails through a cloth.",
-    "info": "Move a card in your hand to the bottom of your deck. Create in your hand a base copy of another card of the same color randomly chosen from both players’ cars (all locations). Banish when destroyed.",
+    "info": "Move a card in your hand to the bottom of your deck. Create in your hand a base copy of another card of the same color randomly chosen from both players’ cars (all locations). Banish when moved to the graveyard.",
     "key": "johnny",
     "loyalty": [
       "Loyal"
@@ -5245,13 +5297,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/kaedweni-sergeant-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/kaedweni-sergeant-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/kaedweni-sergeant-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/kaedweni-sergeant-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5313,13 +5365,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 2,
+    "strength": 3,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5372,7 +5424,8 @@
       "Vampire"
     ],
     "faction": "Monsters",
-    "info": "Every 3 turns, banish a random non-gold unit in your graveyard and absorb its strength.",
+    "flavor": "Drinking the blood of the continent since the Conjunction.",
+    "info": "Banish a non-gold unit in either graveyard and absorb its strength.",
     "key": "katakan",
     "loyalty": [
       "Loyal"
@@ -5381,13 +5434,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/katakan-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/katakan-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/katakan-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/katakan-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5405,7 +5458,7 @@
   {
     "faction": "Monsters",
     "flavor": "How to kill a kayran? Simple! Take your best sword... then sell it, and hire a witcher.",
-    "info": "Destroy 3 loyal non-Gold units and add their strength to this unit’s base strength. When removed, set base strength to 8.",
+    "info": "Destroy 3 loyal non-Gold units on your side and absorb their strength as base. When removed, set base strength to 8.",
     "key": "kayran",
     "loyalty": [
       "Loyal"
@@ -5441,7 +5494,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "If I'm to die today, i wish to look smashing for the occasion.",
-    "info": "Give a shield to all non-Gold units on the row. The shield protects its bearer from one strength-removing effect.",
+    "info": "Give a shield to all non-Gold units on the row. Repeat every 2 turns. The shield protects its bearer from one strength-removing effect.",
     "key": "keira_metz",
     "name": "Keira Metz",
     "positions": [
@@ -5454,8 +5507,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/keira-metz-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/keira-metz-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/keira-metz-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/keira-metz-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5473,7 +5526,7 @@
   {
     "faction": "Skellige",
     "flavor": "No one can replace Bran. Though they're sure to try.",
-    "info": "Discard 2 cards and add 2 base strength to them. Choose any card in your deck and place it in your hand.",
+    "info": "Discard 2 cards from your deck and add 1 base strength to them. Then shuffle your deck.",
     "key": "king_bran",
     "name": "King Bran",
     "type": "Leader",
@@ -5508,13 +5561,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 4,
+    "strength": 3,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/king-of-beggars-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/king-of-beggars-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/king-of-beggars-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/king-of-beggars-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5725,9 +5778,12 @@
     ]
   },
   {
+    "categories": [
+      "Machine"
+    ],
     "faction": "Skellige",
     "flavor": "Escape them? In the waters of Skellige? Good luck.",
-    "info": "Immune to Rain.",
+    "info": "Immune to Weather.",
     "key": "light_longship",
     "loyalty": [
       "Loyal"
@@ -5758,7 +5814,7 @@
     ]
   },
   {
-    "faction": "Scoia'tael",
+    "faction": "Skellige",
     "info": "Immune to Frost. When removed from the battlefield, add 10 strength to any Hjalmars on the opposite side.",
     "key": "lord_of_undvik",
     "name": "Lord of Undvik",
@@ -5809,7 +5865,7 @@
   {
     "faction": "Skellige",
     "flavor": "WAAAAAAAAAAGH!!!!",
-    "info": "After 2 turns, gain 1 strength for each unit in your graveyard.",
+    "info": "After 2 turns, gain 1 base strength for each unit in your graveyard. When removed, set base strength to 4.",
     "key": "madman_lugos",
     "loyalty": [
       "Loyal"
@@ -5845,7 +5901,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I'm telling ye, we're born fer battle – we slash straight at their knees!",
-    "info": "Keep on the battlefield at the end of each round.",
+    "info": "Gain Resilience when played and at the start of each round. A Resilient unit stays on the battlefield for the next round.",
     "key": "mahakam_defender",
     "loyalty": [
       "Loyal"
@@ -5881,7 +5937,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Only one punishment for disturbin' the peace in Mahakam: a hammer to the heid.",
-    "info": "Immune to Frost. Add 3 strength to a non-Gold unit on your side of the battlefield. If it’s a Dwarf, add 5 strength instead.",
+    "info": "Immune to Weather. Add 3 strength to a non-Gold unit on your side of the battlefield. If it’s a Dwarf, add 5 strength instead.",
     "key": "mahakam_guard",
     "loyalty": [
       "Loyal"
@@ -5890,7 +5946,7 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
@@ -5917,19 +5973,19 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I have you, dh'oine. You are all the same.",
-    "info": "Remove 1 strength from a random opposing non-gold unit whenever a revealed Elf unit appears on your side.",
+    "info": "Remove 1 strength from a random opposing non-gold unit whenever a non-Ambush Elf unit appears on your side.",
     "key": "malena",
     "name": "Malena",
     "positions": [
       "Ranged"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/malene.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/malene-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/malena.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/malena-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6153,7 +6209,7 @@
     ],
     "faction": "Neutral",
     "flavor": "The sky dimmed of a sudden, and clouds amassed over the town. It grew fiendishly dark, and a cold gust swept in. \"Oh my,\" gasped Yennefer. \"We're about to make quite the mess, I think.\"",
-    "info": "Spawn Frost and Rain.",
+    "info": "Spawn Frost and Rain effects.",
     "key": "merigolds_hailstorm",
     "name": "Merigold’s Hailstorm",
     "positions": [
@@ -6182,7 +6238,7 @@
   {
     "faction": "Scoia'tael",
     "flavor": "With each arrow I loose, I think of my da. He'd be proud. I think.",
-    "info": "Return the strongest non-Gold, non Relentless unit (except self) on each side to the owners’ hands. Ties are resolved randomly.",
+    "info": "Return the strongest non-Gold, non Relentless unit (except self) on each side to your hand. Your opponent does the same if they have not yet passed. Ties are resolved randomly.",
     "key": "milva",
     "loyalty": [
       "Loyal"
@@ -6191,13 +6247,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 8,
+    "strength": 7,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/milva-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/milva-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/milva-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/milva-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6218,7 +6274,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Damn, the filth's o'errun us… We need a witcher or there's no livin' 'ere!",
-    "info": "Spawn a base copy of all Breedable units on your side of the battlefield.",
+    "info": "Spawn 3 base copies of a Breedable unit on your side of the battlefield.",
     "key": "monster_nest",
     "name": "Monster Nest",
     "positions": [
@@ -6294,13 +6350,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/morkvarg-4.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/morkvarg-4-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/morkvarg-5.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/morkvarg-5-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6370,7 +6426,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Never get between a mother dragon and her young.",
-    "info": "Choose a non-Gold unit three times. Remove 3 strength the first time, 2 the second and 1 the third.",
+    "info": "Remove 2 strength from a non-Gold unit, then 2 from a non-Gold unit, then 1 from a non-Gold unit.",
     "key": "myrgtabrakke",
     "loyalty": [
       "Loyal"
@@ -6407,7 +6463,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "You exact from the earth a blood ransom, ripping out its riches by force. To us it bloomed, bore fruit and gave freely, for it loved us as we loved it.",
-    "info": "Spawn a base copy of the last non-Gold Special Card played, then banish.",
+    "info": "Spawn a base copy of the last non-Gold Special Card played, then banish self.",
     "key": "natures_gift",
     "name": "Nature’s Gift",
     "positions": [
@@ -6507,7 +6563,7 @@
     ],
     "faction": "Monsters",
     "flavor": "These little guys are almost cute, if you ignore the whole vicious killer aspect.",
-    "info": "While in your hand or deck, gain 1 strength whenever a unit on your side absorbs another’s strength. When removed from the battlefield, play a Nekker from your deck.",
+    "info": "While in your hand, deck or on the battlefield, gain 1 strength whenever a Monsters unit on your side absorbs strength. When removed from the battlefield, play a Nekker from your deck.",
     "key": "nekker",
     "loyalty": [
       "Loyal"
@@ -6540,7 +6596,7 @@
   {
     "faction": "Monsters",
     "flavor": "Take heed, gents, there's nekkers under this here bridge.",
-    "info": "Create in your deck 2 base copies of a Bronze unit on your side of the battlefield.",
+    "info": "Create on the bottom of your deck 2 base copies of a Bronze unit on your side of the battlefield.",
     "key": "nekker_warrior",
     "loyalty": [
       "Loyal"
@@ -6645,7 +6701,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle.",
-    "info": "Immune to Frost. Remove 2 strength from a random opposing non-Gold unit whenever a Wild Hunt unit appears on your side.",
+    "info": "Immune to Weather. Remove 2 strength from a random opposing non-Gold unit whenever a Wild Hunt unit appears on your side.",
     "key": "nithral",
     "loyalty": [
       "Loyal"
@@ -6681,7 +6737,7 @@
     ],
     "faction": "Neutral",
     "flavor": "The Master of Quartz Mountain, the Destroyer, Trajan's Slayer. In his free time, he likes long walks and candlelight dinners.",
-    "info": "After 4 turns, remove 1 strength from all opposing non-Gold units and return this card to your hand.",
+    "info": "After 4 turns, remove 1 strength from all opposing non-Gold units. Then return Ocvist to your hand, set its base strength to 6 and remove its ability.",
     "key": "ocvist",
     "loyalty": [
       "Loyal"
@@ -6690,13 +6746,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/ocvist-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/ocvist-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/ocvist-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/ocvist-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6725,13 +6781,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/odrin-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/odrin-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/odrin-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/odrin-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6822,7 +6878,7 @@
     ],
     "faction": "Neutral",
     "flavor": "As time and space collapse before us, they expand behind us. In that way one moves forward through both.",
-    "info": "Choose a non-Gold unit in your hand (other than the Operator). Create an exact copy in both players’ hands. Banish when destroyed.",
+    "info": "Choose a non-Gold unit in your hand (other than the Operator). Create an exact copy in both players’ hands. Banish when destroyed moved to the graveyard.",
     "key": "operator",
     "loyalty": [
       "Loyal"
@@ -6867,13 +6923,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/pavetta-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/pavetta-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/pavetta-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/pavetta-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6962,7 +7018,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "I's a war veteran! Spare me a crown?",
-    "info": "Spawn an exact copy of this unit on the same row.",
+    "info": "Spawn 2 base copies of this unit on the same row.",
     "key": "poor_infantry",
     "loyalty": [
       "Loyal"
@@ -6971,13 +7027,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 2,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/09/poor-infantry-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/09/poor-infantry-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/09/poor-infantry-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/09/poor-infantry-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7031,7 +7087,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "He wears armor made of gold. Of course he's a jerk.",
-    "info": "Draw 1 card face up and 1 card face down. Keep 1, return the other to your deck.",
+    "info": "Immune to Weather. Draw 1 card face up and 1 card face down. Keep 1 and randomly place the other in your deck.",
     "key": "prince_stennis",
     "loyalty": [
       "Disloyal"
@@ -7040,13 +7096,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 8,
+    "strength": 12,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/prince-stennis-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/prince-stennis-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/prince-stennis-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/prince-stennis-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7064,7 +7120,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Picture Dandelion in a dress and you've got the general idea.",
-    "info": "Draw 2 non-Gold cards. Play 1 and return the other to your deck.",
+    "info": "Draw 2 non-Gold cards. Play 1 and randomly place the other in your deck.",
     "key": "priscilla",
     "loyalty": [
       "Loyal"
@@ -7171,13 +7227,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 2,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/queensguard-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/queensguard-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/queensguard-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/queensguard-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7198,7 +7254,7 @@
     ],
     "faction": "Neutral",
     "flavor": "The witcher raised a hand and quickly traced a path with it in the air. The crowd's rumble rose, the stones flew thicker. Yet the Sign curved their course, pushing them aside. They simply passed their target, protected by a shield unseen.",
-    "info": "Give all instances of a non-gold unit on your side a shield. The shield protects its bearer from one strength-removing effect.",
+    "info": "Choose a non-Gold unit in your hand and give all instances of it in your hand and deck a shield. The shield protects its bearer from one strength-removing effect.",
     "key": "quen_sign",
     "name": "Quen Sign",
     "positions": [
@@ -7340,13 +7396,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/young-berserker-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/young-berserker-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/raging-berserker.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/raging-berserker-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7384,7 +7440,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "See this here tattoo? 'At's me, hackin' at a dragon. A DRAGON, m'lady.",
-    "info": "Add 1 strength to all your other Reaver Hunters, wherever they are. After 2 turns, play a Reaver Hunter from your deck.",
+    "info": "After 2 turns, play a Reaver Hunter from your deck.",
     "key": "reaver_hunter",
     "loyalty": [
       "Loyal"
@@ -7393,13 +7449,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 4,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/reaver-hunter-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/reaver-hunter-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/reaver-hunter-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/reaver-hunter-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7417,7 +7473,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Haven't had much luck with monsters of late, so we enlisted.",
-    "info": "Choose a Bronze unit on your side of the battlefield. Play an instance of it from your deck.",
+    "info": "Choose a Bronze unit (other than a Reaver Scout) on your side of the battlefield. Play an instance of it from your deck.",
     "key": "reaver_scout",
     "loyalty": [
       "Loyal"
@@ -7426,13 +7482,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 3,
+    "strength": 2,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/reaver-scout-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/reaver-scout-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/reaver-scout-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/reaver-scout-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7576,6 +7632,9 @@
     ]
   },
   {
+    "categories": [
+      "Machine"
+    ],
     "faction": "Northern Realms",
     "flavor": "Never manages to hit the same place twice, which, upon further reflection, might constitute a real problem.",
     "info": "Remove 1 strength from a random opposing non-Gold unit whenever a Gold card appears on your side.",
@@ -7609,6 +7668,9 @@
     ]
   },
   {
+    "categories": [
+      "Machine"
+    ],
     "faction": "Northern Realms",
     "flavor": "The latest rage in assaults on walled cities.",
     "info": "Gain 2 strength whenever a Gold card appears on your side.",
@@ -7620,13 +7682,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 3,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/reinforced-siege-tower-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/reinforced-siege-tower-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/reinforced-siege-tower-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/reinforced-siege-tower-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7642,6 +7704,9 @@
     ]
   },
   {
+    "categories": [
+      "Machine"
+    ],
     "faction": "Northern Realms",
     "flavor": "Feel that? The earth trembles each time Big Bertha looses a stone.",
     "info": "Every 3 turns, remove 2 strength from a random opposing non-Gold unit.",
@@ -7712,7 +7777,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Medicus curat, magicae sanat.",
-    "info": "Resurrect a Gold unit.",
+    "info": "Resurrect a Gold unit (can be Permadeath).",
     "key": "renew",
     "name": "Renew",
     "positions": [
@@ -7856,13 +7921,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 3,
+    "strength": 1,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/sabrina-glevissig-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/sabrina-glevissig-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/sabrina-glevissig-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/sabrina-glevissig-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7916,7 +7981,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I care not for kings and their titles. In the east lives one who truly deserves a crown.",
-    "info": "Remove 1 strength from all opposing non-Gold units. Add 1 strength to all non-Gold units on your side of the battlefield.",
+    "info": "Remove 1 strength from all opposing non-Gold units. Add 1 strength to all non-Gold units on your side of the battlefield (except self).",
     "key": "saskia",
     "loyalty": [
       "Loyal"
@@ -7925,13 +7990,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 5,
+    "strength": 9,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/saskia-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/saskia-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/saskia-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/saskia-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7958,13 +8023,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/savage-bear-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/savage-bear-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/savage-bear-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/savage-bear-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7986,7 +8051,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Time to look death in the face.",
-    "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects, then destroy the strongest non-Gold unit(s) on the battlefield.",
+    "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects, then destroy the strongest non-Gold unit(s).",
     "key": "schirru",
     "name": "Schirru",
     "positions": [
@@ -7999,8 +8064,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/schirru.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/schirru-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/schirru-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/schirru-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8182,7 +8247,7 @@
     ],
     "faction": "Skellige",
     "flavor": "Fall on your knees and beg Modron Freya for forgiveness.",
-    "info": "Resurrect a non-Gold unit (can be Permadeath). Gain 1 strength whenever a unit is played from the graveyard.",
+    "info": "Resurrect a non-Gold, non-Permadeath unit. Gain 1 strength whenever a unit is played on your side from either graveyard.",
     "key": "sigrdrifa",
     "loyalty": [
       "Loyal"
@@ -8191,13 +8256,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 1,
+    "strength": 2,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/sigrdrifa-4.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/sigrdrifa-4-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/sigrdrifa-5.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/sigrdrifa-5-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8284,7 +8349,7 @@
   {
     "faction": "Skellige",
     "flavor": "Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!",
-    "info": "Remove 3 strength from this unit, then from the strongest opposing non-Gold unit(s). When removed from the battlefield, spawn Craven Revived on the same row.",
+    "info": "Lose 3 strength at the start of your turn. When removed from the battlefield, spawn Craven Revived on the same row.",
     "key": "skjall",
     "loyalty": [
       "Loyal"
@@ -8295,13 +8360,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 3,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/skjall-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/skjall-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/skjall-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/skjall-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8406,7 +8471,7 @@
     ],
     "faction": "Neutral",
     "flavor": "The sorcerer Stammelford moved a mountain that obscured the view from his tower. Rumor has it he could only do so for he'd fettered a d'ao, an earth elemental.",
-    "info": "Remove 2 strength from all non-Gold units on both sides of the battlefield.",
+    "info": "Remove 2 strength from all opposing non-Gold units and 1 strength from all non-Gold units on your side of the battlefield.",
     "key": "stammelfords_tremors",
     "name": "Stammelford’s Tremors",
     "positions": [
@@ -8454,14 +8519,14 @@
         },
         "availability": "BaseSet",
         "craft": {
-          "normal": 80,
-          "premium": 400
+          "normal": 200,
+          "premium": 800
         },
         "mill": {
-          "normal": 10,
-          "premium": 50
+          "normal": 50,
+          "premium": 200
         },
-        "rarity": "Rare"
+        "rarity": "Epic"
       }
     ]
   },
@@ -8616,8 +8681,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/temerian-foot-soldier.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/temerian-foot-soldier-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/temerian-foot-soldier-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/temerian-foot-soldier-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8770,7 +8835,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Even the rain in this land smells vile.",
-    "info": "Spawn a Rain effect on both Siege rows that sets the strength of all non-Gold units on or appearing there to 1.",
+    "info": "Spawn a Rain effect on both Siege rows that sets the strength of all non-immune units on or appearing there to 1. Units regain all strength removed by Rain when Rain is removed or they move out of it.",
     "key": "torrential_rain",
     "name": "Torrential Rain",
     "positions": [
@@ -8852,8 +8917,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/treason.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/treason-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/treason-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/treason-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8869,6 +8934,9 @@
     ]
   },
   {
+    "categories": [
+      "Machine"
+    ],
     "faction": "Northern Realms",
     "flavor": "Castle won't batter itself down, now will it? Get them trebuchets rollin'!",
     "info": "Remove 2 strength from 2 opposing non-Gold units.",
@@ -8938,9 +9006,46 @@
     ]
   },
   {
+    "categories": [
+      "Mage",
+      "Relentless"
+    ],
+    "faction": "Northern Realms",
+    "flavor": "Cap'n... our arrows, they've... they've got wings!",
+    "info": "Add 4 to all non-Gold units in your hand. When removed, remove 4 from all non-Gold units in your hand with strength greater than base.",
+    "key": "triss_butterfly_spell",
+    "loyalty": [
+      "Loyal"
+    ],
+    "name": "Triss: Butterfly Spell",
+    "positions": [
+      "Ranged"
+    ],
+    "strength": 4,
+    "type": "Gold",
+    "variations": [
+      {
+        "art": {
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/02/triss-butterfly-spell.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/02/triss-butterfly-spell-300x376.png"
+        },
+        "availability": "BaseSet",
+        "craft": {
+          "normal": 200,
+          "premium": 800
+        },
+        "mill": {
+          "normal": 50,
+          "premium": 200
+        },
+        "rarity": "Epic"
+      }
+    ]
+  },
+  {
     "faction": "Northern Realms",
     "flavor": "Join me King Ravodid army. Order got - guard boatses.",
-    "info": "Remove 1 strength from all non-Gold units on the opposite row. Gain 1 strength for each.",
+    "info": "Remove 1 strength from all non-Gold units on the opposite row. Gain 2 strength for each.",
     "key": "trololo",
     "loyalty": [
       "Loyal"
@@ -8975,10 +9080,10 @@
   {
     "faction": "Skellige",
     "flavor": "The gods have spoken: a sacrifice is required.",
-    "info": "Move a random card from your opponent’s graveyard to your hand.",
+    "info": "Draw and immediately play a random non-Gold card from the opposing graveyard.",
     "key": "udalryk",
     "loyalty": [
-      "Disloyal"
+      "Loyal"
     ],
     "name": "Udalryk",
     "positions": [
@@ -8989,8 +9094,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/udalryk-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/udalryk-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/udalryk-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/udalryk-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9101,7 +9206,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "A patriot… and a real pain in the rear.",
-    "info": "Remove 5 strength from any opposing unit.",
+    "info": "Remove 5 strength from an opposing unit.",
     "key": "vernon_roche",
     "loyalty": [
       "Loyal"
@@ -9146,13 +9251,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 4,
+    "strength": 5,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/ves-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/ves-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/ves-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/ves-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9314,7 +9419,7 @@
   {
     "faction": "Monsters",
     "flavor": "They sat still on their horses, seemingly relaxed. He saw their weapons – short spears with wide tips. Swords with oddly forged guards. Battle axes. Toothed gisarmes.",
-    "info": "No ability.",
+    "info": "When played and at the end of every 2 turns, destroy the weakest non-Gold unit on the row (except self) and absorb its strength.",
     "key": "vran_warrior",
     "loyalty": [
       "Loyal"
@@ -9323,13 +9428,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 7,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/vran-warrior-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/vran-warrior-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/vran-warrior-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/vran-warrior-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9388,7 +9493,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Most terrible things I've witnessed? The Catriona plague, the razing of Vengerberg and the charge of the Vrihedd Dragoons.",
-    "info": "Add 3 strength to a non-Gold unit in your hand.",
+    "info": "Add 4 strength to a non-Gold unit in your hand.",
     "key": "vrihedd_dragoon",
     "loyalty": [
       "Loyal"
@@ -9426,7 +9531,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "”Hatred burns brighter than any fire, and cuts deeper than any blade.",
-    "info": "Add 1 strength to the weakest non-Gold unit(s) on your side of the battlefield (except self), remove 1 strength from the weakest opposing non-Gold unit(s).",
+    "info": "Add 2 strength to the weakest non-Gold unit(s) on your side of the battlefield (except self), remove 1 strength from the weakest opposing non-Gold unit(s).",
     "key": "vrihedd_officer",
     "loyalty": [
       "Loyal"
@@ -9514,13 +9619,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/vrihedd-vanguard-4.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/vrihedd-vanguard-4-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/vrihedd-vanguard-5.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/vrihedd-vanguard-5-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9536,6 +9641,9 @@
     ]
   },
   {
+    "categories": [
+      "Machine"
+    ],
     "faction": "Skellige",
     "flavor": "They say Hemdall's heart swells whenever the longships sail out on a raid.",
     "info": "Remove 2 strength from a random opposing non-Gold unit whenever a unit on your side is destroyed or you discard a unit.",
@@ -9603,7 +9711,7 @@
   {
     "faction": "Monsters",
     "flavor": "Seen a lot o' ugly critters in me life – morays, lampreys, blobfish… But never nothin' like this!",
-    "info": "Immune to Rain. Spawn a Rain effect.",
+    "info": "Immune to Weather. Spawn a Rain effect.",
     "key": "water_hag",
     "loyalty": [
       "Loyal"
@@ -9730,7 +9838,7 @@
     ],
     "faction": "Monsters",
     "flavor": "First the buffalo horns atop their helms penetrate one's view, then the crest betwixt them, and finally the skull–like face exposed beneath their visors.",
-    "info": "Immune to Frost. Play all Wild Hunt Riders from your deck.",
+    "info": "Immune to Weather. Play all Wild Hunt Riders from your deck.",
     "key": "wild_hunt_rider",
     "loyalty": [
       "Loyal"
@@ -9766,7 +9874,7 @@
     ],
     "faction": "Monsters",
     "flavor": "The White Frost is coming.",
-    "info": "Immune to Frost. Remove 1 strength from an opposing non-Gold unit and gain 2 strength if that unit is destroyed.",
+    "info": "Immune to Weather. Remove 1 strength from an opposing non-Gold unit and gain 2 strength if that unit is destroyed.",
     "key": "wild_hunt_warrior",
     "loyalty": [
       "Loyal"
@@ -9799,7 +9907,7 @@
   {
     "faction": "Monsters",
     "flavor": "We never hunt in these woods. Not even if it means the whole village'll starve.",
-    "info": "Immune to Fog. Spawn a Fog effect and 3 Rabid Wolves.",
+    "info": "Immune to Weather. Spawn 3 Rabid Wolves and a Fog effect.",
     "key": "woodland_spirit",
     "loyalty": [
       "Loyal"
@@ -9832,7 +9940,7 @@
   {
     "faction": "Monsters",
     "flavor": "Imagine a cross between a winged snake and a nightmare. Wyverns are worse.",
-    "info": "Remove 4 strength from an opposing unit non-Gold unit.",
+    "info": "Remove 3 strength from an opposing unit non-Gold unit.",
     "key": "wyvern",
     "loyalty": [
       "Loyal"
@@ -9841,13 +9949,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 3,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/wyvern-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/wyvern-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/wyvern-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/wyvern-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9882,8 +9990,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/xarthisius.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/xarthisius-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/xarthisius-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/xarthisius-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9904,7 +10012,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "We are the drops of rain that together make a ferocious storm.",
-    "info": "Remove 2 strength from all other non-Gold units on the row. Draw a card.",
+    "info": "Immune to Weather. Remove 1 strength from all other non-Gold units on the row. Draw a card.",
     "key": "yaevinn",
     "loyalty": [
       "Disloyal"
@@ -9915,13 +10023,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 11,
+    "strength": 14,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/yaevinn-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/yaevinn-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/07/yaevinn-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/07/yaevinn-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9942,7 +10050,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Ever hear o' the dragon Ocvist? From Quartz Mountain? Well, Yarpen Zigrin and his band o' dwarves did 'im in.",
-    "info": "Keep on the battlefield at the end of this round.",
+    "info": "Gain Resilience. A Resilient unit stays on the battlefield for the next round.",
     "key": "yarpen_zigrin",
     "loyalty": [
       "Loyal"
@@ -10014,7 +10122,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A good sorceress must know when to conjure ice... and when to conjure fire.",
-    "info": "At the start of your turn, remove 1 strength from the strongest non-Gold unit(s) (except self) on the battlefield.",
+    "info": "At the start of your turn, remove 1 strength from the strongest opposing non-Gold unit(s).",
     "key": "yennefer_the_conjurer",
     "loyalty": [
       "Loyal"
@@ -10023,13 +10131,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 4,
+    "strength": 5,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/yennefer-the-conjurer.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/yennefer-the-conjurer-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/yennefer-the-conjurer-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/yennefer-the-conjurer-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -10050,7 +10158,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Drinkin' alone's like crappin' with company.",
-    "info": "Keep on the battlefield at the end of each round.",
+    "info": "Gain Resilience when played and at the start of each round. A Resilient unit stays on the battlefield for the next round.",
     "key": "zoltan_chivay",
     "loyalty": [
       "Loyal"
