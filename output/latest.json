@@ -25,7 +25,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -44,9 +44,7 @@
     ],
     "name": "Aelirenn",
     "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
+      "Ranged"
     ],
     "strength": 6,
     "type": "Silver",
@@ -63,7 +61,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -96,7 +94,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -116,8 +114,6 @@
     ],
     "name": "Aglais",
     "positions": [
-      "Ranged",
-      "Melee",
       "Siege"
     ],
     "strength": 5,
@@ -135,7 +131,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -144,7 +140,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Pledge your allegiance to our Emperor, Emhyr var Emreis... or die.",
-    "info": "Immune to Weather.",
+    "info": "Gain Weather Immunity.",
     "key": "alba_pikeman",
     "loyalty": [
       "Loyal"
@@ -168,7 +164,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -177,7 +173,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Death and glory!",
-    "info": "Give this unit a shield. The shield protects its bearer from one strength-removing effect.",
+    "info": "Gain a Shield. Shields protect from one strength-removing effect (but not from strength-resetting or swapping effects).",
     "key": "alba_spearmen",
     "loyalty": [
       "Loyal"
@@ -201,7 +197,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -213,7 +209,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "A ball of fire? Why, naturally. Whatsoever Your Imperial Majesty desires.",
-    "info": "If possible, draw a card, then your opponent draws a card and reveals it.",
+    "info": "If your opponent has not passed, draw a card, then your opponent draws a card and reveals it.",
     "key": "albrich",
     "loyalty": [
       "Loyal"
@@ -237,7 +233,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -273,7 +269,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -285,7 +281,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A few of Alzur's monstrous creations roam the world still. Not least among them the horrid viy, who massacred its mage-creator and destroyed half of Maribor before fleeing into Riverdell's gloomy woodland.",
-    "info": "Play the strongest non-Gold unit from your deck (ties are resolved randomly) and add 3 to its strength.",
+    "info": "Add 3 strength to the strongest non-Gold unit in your deck and play it. Ties are resolved randomly.",
     "key": "alzurs_double_cross",
     "name": "Alzur’s Double Cross",
     "positions": [
@@ -305,7 +301,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -337,7 +333,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -370,7 +366,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -379,7 +375,7 @@
   {
     "faction": "Monsters",
     "flavor": "Many primal fears lurk in the hearts of men. The fear of the mist is well–founded…",
-    "info": "Immune to Weather. Gain 1 strength at the start of your turn if on a row affected by Fog.",
+    "info": "Gain Weather Immunity. Gain 1 strength at the start of your turn if on a row affected by Fog.",
     "key": "ancient_foglet",
     "loyalty": [
       "Loyal"
@@ -388,13 +384,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 6,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/ancient-foglet-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/ancient-foglet-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/ancient-foglet-4.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/ancient-foglet-4-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -403,7 +399,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -439,7 +435,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -448,7 +444,7 @@
   {
     "faction": "Monsters",
     "flavor": "Like a cross between a crab, a spider… and a mountain.",
-    "info": "Spawn an Arachas whenever a unit on your side absorbs strength.",
+    "info": "Spawn an Arachas whenever a Devourer on your side absorbs strength.",
     "key": "arachas_behemoth",
     "loyalty": [
       "Loyal"
@@ -472,7 +468,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -507,7 +503,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -519,7 +515,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "\"How much is a human life worth?\"\r\n\"That depends. Yours, for instance, I'd put at about a hundred orens.\"",
-    "info": "Destroy an opposing non-Gold unit. Remove an amount equal to that unit’s strength from a random non-Gold unit on your side.",
+    "info": "Lock and destroy an opposing non-Gold unit. Locked units lose all tokens and have no ability until replayed or moved to a hand.",
     "key": "assassination",
     "name": "Assassination",
     "positions": [
@@ -539,7 +535,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -575,7 +571,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -587,7 +583,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Letho's got a plan... what could go wrong?",
-    "info": "Lock a non-Gold unit on the battlefield. A locked unit loses all tokens (Resilience, Quen, etc.) and its ability does not trigger while it remains on the battlefield.",
+    "info": "Lock or unlock a non-Gold unit on the battlefield. Locked units lose all tokens and have no ability until replayed or moved to a hand.",
     "key": "auckes",
     "loyalty": [
       "Loyal"
@@ -596,7 +592,7 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 7,
+    "strength": 8,
     "type": "Silver",
     "variations": [
       {
@@ -611,7 +607,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -629,13 +625,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 6,
+    "strength": 8,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/avallach-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/avallach-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/avallach-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/avallach-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -644,7 +640,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -680,29 +676,9 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
-      }
-    ]
-  },
-  {
-    "faction": "Northern Realms",
-    "key": "ban_ard_adept",
-    "name": "Ban Ard Adept",
-    "positions": [
-      "Siege"
-    ],
-    "strength": 2,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Epic"
       }
     ]
   },
@@ -712,7 +688,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Our mead smells rotten to ye, do it? Easy to fix – I'll break yer nose!",
-    "info": "Add 1 strength to all your other Dwarf units, wherever they are.",
+    "info": "Add 1 strength to all your other non-Gold Dwarf units, wherever they are.",
     "key": "barclay_els",
     "loyalty": [
       "Loyal"
@@ -736,30 +712,9 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Skellige",
-    "info": "Gain 2 strength for each weakened unit on the battlefield.",
-    "key": "bear",
-    "name": "Bear",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 4,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Rare"
       }
     ]
   },
@@ -789,7 +744,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -825,7 +780,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -834,7 +789,7 @@
   {
     "faction": "Skellige",
     "flavor": "Skellige must have a strong king. No matter what it takes.",
-    "info": "Draw 3 cards. Keep 1 and discard the rest.",
+    "info": "Draw 2 cards. Keep 1 and discard the rest.",
     "key": "birna_bran",
     "loyalty": [
       "Disloyal"
@@ -843,7 +798,7 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 12,
+    "strength": 10,
     "type": "Gold",
     "variations": [
       {
@@ -858,7 +813,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -871,7 +826,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Best thing about frost? Bodies of the fallen don't rot so quickly.",
-    "info": "Spawn a Frost effect on both Melee rows that sets the strength of all non-immune units on or appearing there to 1. Units regain all strength removed by Frost when Frost is removed or they move out of it.",
+    "info": "Spawn a Frost effect on both Melee rows that decreases the strength of all non-immune units on or appearing there to 1. Units regain all strength removed by Frost when Frost is removed or they move out of it.",
     "key": "biting_frost",
     "name": "Biting Frost",
     "positions": [
@@ -891,7 +846,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -900,7 +855,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "I aim for the knees. Always.",
-    "info": "Remove 3 strength from an opposing non-Gold unit. If the unit’s strength is higher than base, remove 5 strength instead.",
+    "info": "Remove 3 strength from an opposing non-Gold unit. If the unit’s strength is higher than base, remove 6 strength instead.",
     "key": "black_infantry_arbalest",
     "loyalty": [
       "Loyal"
@@ -909,7 +864,7 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 5,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
@@ -924,7 +879,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -932,11 +887,12 @@
   },
   {
     "categories": [
+      "Potion",
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "The witcher moved with unnatural speed. Too fast for the human eye to register.",
-    "info": "Toggle the Weather Immunity of all instances of a non-Gold unit on its side.",
+    "info": "Spawn either an Immune Boost or Overdose effect.",
     "key": "blizzard_potion",
     "name": "Blizzard Potion",
     "positions": [
@@ -956,7 +912,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -989,7 +945,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -1008,8 +964,6 @@
     ],
     "name": "Blue Mountain Commando",
     "positions": [
-      "Ranged",
-      "Melee",
       "Siege"
     ],
     "strength": 4,
@@ -1027,7 +981,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -1063,7 +1017,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -1099,7 +1053,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -1108,7 +1062,7 @@
   {
     "faction": "Skellige",
     "flavor": "I'm near ready to puke from boredom.",
-    "info": "Spawn a Spectral Whale on a random row on the opposite side.",
+    "info": "Spawn a Spectral Whale on a random row on the opposing side.",
     "key": "blueboy_lugos",
     "loyalty": [
       "Loyal"
@@ -1132,34 +1086,9 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Northern Realms",
-    "flavor": "Admit your mistakes and bury them proper - else they'll come back to haunt you.",
-    "info": "Keep on the battlefield at the end of this round.",
-    "key": "botchling",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Botchling",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 4,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Legendary"
       }
     ]
   },
@@ -1195,7 +1124,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -1207,7 +1136,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "That doddery dolt? Ye cannae even tell if he's alive or stuffed!",
-    "info": "Play a Silver card from your deck.",
+    "info": "Look at all Silver cards in your deck. Play one and place the others back randomly in your deck.",
     "key": "brouver_hoog",
     "name": "Brouver Hoog",
     "type": "Leader",
@@ -1224,7 +1153,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -1233,7 +1162,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "His eyes flashed under his winged helmet. Fire gleamed from his sword's blade.",
-    "info": "After 2 turns, both Leaders will again be available for use.",
+    "info": "If your opponent has not passed, enable your Leader for use and your opponent draws the top Bronze card in their deck and reveals it.",
     "key": "cahir",
     "loyalty": [
       "Loyal"
@@ -1257,7 +1186,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -1266,7 +1195,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Men require constant alluring. Mystique and refinement do the job quite well.",
-    "info": "Immune to Weather. Look at the top card in your deck. You may place it at the bottom of your deck. Draw a card. While Spying, gain 6 strength.",
+    "info": "Gain Weather Immunity. Draw a card. You may keep it, or put it at the bottom of your deck and draw another. When not Spying, lose 6 base strength.",
     "key": "cantarella",
     "loyalty": [
       "Disloyal"
@@ -1275,7 +1204,7 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 6,
+    "strength": 12,
     "type": "Silver",
     "variations": [
       {
@@ -1290,7 +1219,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -1302,7 +1231,7 @@
     ],
     "faction": "Monsters",
     "flavor": "A favorite son who chose a life of villainy.",
-    "info": "Immune to Weather. Spawn a Frost effect and 2 Wild Hunt Hounds.",
+    "info": "Gain Weather Immunity. Spawn a Frost effect and 2 Wild Hunt Hounds.",
     "key": "caranthir",
     "loyalty": [
       "Loyal"
@@ -1326,7 +1255,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -1362,7 +1291,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -1371,7 +1300,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "\"Your Imperial Highness...\" blurted out the seneschal, whose presence until now had been thoroughly ignored. \"I beg your pardon, but Cahir... My son...\"",
-    "info": "Gain 6 strength whenever either player uses a Leader card.",
+    "info": "Gain 6 strength whenever either player uses a Leader card but before its effects resolve.",
     "key": "ceallach",
     "loyalty": [
       "Loyal"
@@ -1395,7 +1324,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -1416,7 +1345,7 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 3,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
@@ -1431,7 +1360,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -1464,7 +1393,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -1475,6 +1404,9 @@
     "flavor": "He'll not reveal his name till he's defeated. He's a troll errant, see?",
     "info": "Gain 2 base strength at the start of your turn if it’s the sole revealed unit on the row.",
     "key": "champion_of_champions",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Champion of Champions",
     "positions": [
       "Ranged",
@@ -1496,53 +1428,8 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Neutral",
-    "info": "Remove 2 strength from all other units.",
-    "key": "chironex",
-    "name": "Chironex",
-    "positions": [
-      "Siege"
-    ],
-    "strength": 1,
-    "type": "Gold",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Legendary"
-      }
-    ]
-  },
-  {
-    "faction": "Neutral",
-    "flavor": "A member of the Bovine Defense Force. Semper fi!",
-    "info": "No ability.",
-    "key": "chort",
-    "name": "Chort",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 9,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Epic"
       }
     ]
@@ -1581,7 +1468,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -1614,7 +1501,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -1623,7 +1510,7 @@
   {
     "faction": "Neutral",
     "flavor": "Know when fairy tales cease to be tales? When people start believing them.",
-    "info": "When moved to the graveyard, move to your deck and gain 3 base strength.",
+    "info": "When moved to the graveyard, randomly place in your deck and gain 3 base strength.",
     "key": "ciri_dash",
     "loyalty": [
       "Loyal"
@@ -1647,7 +1534,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -1680,7 +1567,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -1689,7 +1576,7 @@
   {
     "faction": "Skellige",
     "flavor": "So ye can hit a movin' target at two hundred paces? Me, too. In a storm.",
-    "info": "Immune to Weather. Remove 1 strength from 3 non-Gold units.",
+    "info": "Gain Weather Immunity. Remove 1 strength from 3 non-Gold units.",
     "key": "clan_brokvar_archer",
     "loyalty": [
       "Loyal"
@@ -1713,7 +1600,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -1746,7 +1633,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -1755,7 +1642,7 @@
   {
     "faction": "Skellige",
     "flavor": "Can see the fear in their eyes. Fear o' me… fear o' Clan Dimun!",
-    "info": "Immune to Weather. Discard all Clan Dimun Pirates from your deck.",
+    "info": "Gain Weather Immunity. Discard all Clan Dimun Pirates from your deck.",
     "key": "clan_dimun_pirate",
     "loyalty": [
       "Loyal"
@@ -1779,7 +1666,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -1788,7 +1675,7 @@
   {
     "faction": "Skellige",
     "flavor": "Haul together, hoist the colors high!",
-    "info": "Gain 2 strength whenever you discard a unit.",
+    "info": "While in your hand, deck or on the battlefield, gain 1 strength whenever you discard a unit.",
     "key": "clan_dimun_pirate_captain",
     "loyalty": [
       "Loyal"
@@ -1812,7 +1699,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -1845,7 +1732,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -1854,7 +1741,7 @@
   {
     "faction": "Skellige",
     "flavor": "The deeds of Clan Heymaey will go down in history.",
-    "info": "Add 2 strength to all other non-Gold units on the row.",
+    "info": "Add 3 strength to adjacent non-Gold units.",
     "key": "clan_heymaey_skald",
     "loyalty": [
       "Loyal"
@@ -1880,7 +1767,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -1889,7 +1776,7 @@
   {
     "faction": "Skellige",
     "flavor": "Ye're in for a poundin'.",
-    "info": "Immune to Weather. Reset all weakened non-Gold units on the row to base strength.",
+    "info": "Gain Weather Immunity. Reset all (if weakened) and weakened non-Gold units within 4 spaces to the left to base strength.",
     "key": "clan_tordarroch_armorsmith",
     "loyalty": [
       "Loyal"
@@ -1900,13 +1787,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/02/clan-tordarroch-armorsmith.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/02/clan-tordarroch-armorsmith-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/02/clan-tordarroch-armorsmith-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/02/clan-tordarroch-armorsmith-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1915,7 +1802,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -1948,7 +1835,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -1957,7 +1844,7 @@
   {
     "faction": "Skellige",
     "flavor": "Swords are for wenches. Get yourself an axe.",
-    "info": "Gain 1 strength whenever another unit on the battlefield is weakened.",
+    "info": "Gain 1 strength whenever an opposing unit is weakened.",
     "key": "clan_tuirseach_axeman",
     "loyalty": [
       "Loyal"
@@ -1981,7 +1868,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -2014,7 +1901,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -2047,32 +1934,8 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
-        "rarity": "Common"
-      }
-    ]
-  },
-  {
-    "categories": [
-      "Special",
-      "Weather"
-    ],
-    "faction": "Neutral",
-    "info": "Remove all Weather effects and reset all weakened non-immune units on affected rows to their base strength.",
-    "key": "clear_skies",
-    "name": "Clear Skies",
-    "positions": [
-      "Event"
-    ],
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/clear-skies-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/clear-skies-3-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Common"
       }
     ]
@@ -2083,7 +1946,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Everyone wantin' to trade in Novigrad's got a clear choice - agree terms with Cleaver or kiss their knees farewell.",
-    "info": "Lock a non-Gold unit on the battlefield. A locked unit loses all tokens (Resilience, Quen, etc.) and its ability does not trigger while it remains on the battlefield.",
+    "info": "Lock or unlock a non-Gold unit on the battlefield. Locked units lose all tokens and have no ability until replayed or moved to a hand.",
     "key": "cleaver",
     "loyalty": [
       "Loyal"
@@ -2092,7 +1955,7 @@
     "positions": [
       "Melee"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
@@ -2107,7 +1970,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -2140,7 +2003,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -2148,12 +2011,11 @@
   },
   {
     "categories": [
-      "Fleeting",
       "Special"
     ],
     "faction": "Neutral",
     "flavor": "Plus one to morale, minus one to hearing.",
-    "info": "Add 5 strength to all non-Gold units on a row.",
+    "info": "Choose 5 adjacent units. Add 4 strength to non-Gold units among them.",
     "key": "commanders_horn",
     "name": "Commander’s Horn",
     "positions": [
@@ -2173,31 +2035,8 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
-        "rarity": "Rare"
-      }
-    ]
-  },
-  {
-    "faction": "Scoia'tael",
-    "info": "No ability.",
-    "key": "commando_neophyte",
-    "name": "Commando Neophyte",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 3,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-scoiatael.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-scoiatael-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Rare"
       }
     ]
@@ -2215,15 +2054,17 @@
     ],
     "name": "Coral",
     "positions": [
-      "Ranged"
+      "Ranged",
+      "Melee",
+      "Siege"
     ],
     "strength": 6,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coral-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coral-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coral-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coral-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2232,7 +2073,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -2258,31 +2099,8 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Skellige",
-    "info": "Add 2 strength to any non-Gold unit appearing on the row.",
-    "key": "craven_revived",
-    "name": "Craven Revived",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 4,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Epic"
       }
     ]
@@ -2314,7 +2132,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2332,13 +2150,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 9,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-3.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-3-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/crone-weavess-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2347,7 +2165,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2365,7 +2183,7 @@
     "positions": [
       "Siege"
     ],
-    "strength": 7,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
@@ -2380,7 +2198,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2392,7 +2210,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Cynthia's talents can be deadly. She needs a tight leash.",
-    "info": "If possible, draw a card, then create The Guardian in your opponent’s hand and reveal it.",
+    "info": "if your opponent has not passed, draw a card, then create The Guardian in your opponent’s hand and reveal it.",
     "key": "cynthia",
     "loyalty": [
       "Loyal"
@@ -2416,7 +2234,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2425,7 +2243,7 @@
   {
     "faction": "Neutral",
     "flavor": "One of four bosses who control the city's underworld - the others being Sigi Reuven, Carlo 'The Cleaver' Varese and the King of Beggars.",
-    "info": "Remove 2 base strength from all opposing non-Gold units. When removed, add 2 strength to all non-Gold units on the battlefield.",
+    "info": "Remove 3 base strength from an opposing non-Gold unit.",
     "key": "cyprian_wiley",
     "loyalty": [
       "Loyal"
@@ -2434,7 +2252,7 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 7,
     "type": "Silver",
     "variations": [
       {
@@ -2449,7 +2267,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2482,16 +2300,13 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
     ]
   },
   {
-    "categories": [
-      "Vodyanoi"
-    ],
     "faction": "Monsters",
     "flavor": "That is not dead which can eternal lie, and with strange aeons even death may die.",
     "info": "Spawn a Biting Frost, Impenetrable Fog Torrential Rain or First Light card.",
@@ -2511,7 +2326,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2529,7 +2344,7 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 5,
     "type": "Silver",
     "variations": [
       {
@@ -2544,7 +2359,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2577,7 +2392,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -2606,8 +2421,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/dennis-cranmer.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/dennis-cranmer-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/dennis-cranmer-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/dennis-cranmer-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2616,7 +2431,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2652,7 +2467,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2661,16 +2476,18 @@
   {
     "faction": "Northern Realms",
     "flavor": "Really believe you can dupe me with that tale you just pulled from your arse?",
-    "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain 2 strength for each unit converted.",
+    "info": "Look at all Gold cards in your deck. Play one and place the others back randomly in your deck.",
     "key": "dijkstra",
     "loyalty": [
-      "Loyal"
+      "Disloyal"
     ],
     "name": "Dijkstra",
     "positions": [
+      "Ranged",
+      "Melee",
       "Siege"
     ],
-    "strength": 5,
+    "strength": 1,
     "type": "Gold",
     "variations": [
       {
@@ -2685,7 +2502,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -2697,7 +2514,7 @@
     ],
     "faction": "Neutral",
     "flavor": "An important part of every Witch Hunter's kit. In one muted flash, it turns the most powerful sorcerer into pork jelly ripe for cutting.",
-    "info": "Reset all units on the battlefield to their base strength. Convert Gold units on that row to Silver (or Bronze, if that was their original color).",
+    "info": "Choose 5 adjacent units. Reset them to base strength. Convert affected Gold units to Silver (or Bronze, if that was their original color).",
     "key": "dimeritium_bomb",
     "name": "Dimeritium Bomb",
     "positions": [
@@ -2717,7 +2534,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -2729,7 +2546,7 @@
     ],
     "faction": "Neutral",
     "flavor": "The mage's arms were twisted and bound behind his back. The Redanians gave the fetters a good shake. Terranova cried out, lurched, bent backwards, bowed forward, then retched and groaned. It was clear of what his manacles were made.",
-    "info": "Reset any unit on the battlefield to its base strength. If Gold, convert it to Silver (or Bronze, if that was its original color).",
+    "info": "Lock or unlock any unit on the battlefield. If Gold, convert it to Silver (or Bronze, if that was its original color). Locked units lose all tokens and have no ability until replayed or moved to a hand.",
     "key": "dimeritium_shackles",
     "name": "Dimeritium Shackles",
     "positions": [
@@ -2749,7 +2566,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -2767,7 +2584,7 @@
     "positions": [
       "Siege"
     ],
-    "strength": 6,
+    "strength": 8,
     "type": "Silver",
     "variations": [
       {
@@ -2782,7 +2599,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2801,9 +2618,7 @@
     ],
     "name": "Dol Blathanna Archer",
     "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
+      "Ranged"
     ],
     "strength": 5,
     "type": "Bronze",
@@ -2820,7 +2635,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -2858,7 +2673,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -2871,7 +2686,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "They track like hounds, run like deer and kill like heartless demons.",
-    "info": "Ambush: When a revealed non-Gold unit appears on the row, remove 4 strength from all non-Gold units on the row (except self).",
+    "info": "Ambush: When a revealed non-Gold unit appears on the row, remove 5 strength from adjacent non-Gold units.",
     "key": "dol_blathanna_trapper",
     "loyalty": [
       "Disloyal",
@@ -2883,7 +2698,7 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 2,
     "type": "Bronze",
     "variations": [
       {
@@ -2898,7 +2713,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -2907,7 +2722,7 @@
   {
     "faction": "Skellige",
     "flavor": "I've gathered all the jarls together. Now make your case.",
-    "info": "Immune to Weather. Draw 1 card and discard 1 random non-Gold card from your deck.",
+    "info": "Gain Weather Immunity. Draw a card. You may keep it, or discard it and draw another.",
     "key": "donar_an_hindar",
     "loyalty": [
       "Disloyal"
@@ -2916,7 +2731,7 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 10,
+    "strength": 13,
     "type": "Silver",
     "variations": [
       {
@@ -2931,20 +2746,16 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
     ]
   },
   {
-    "categories": [
-      "Fleeting",
-      "Relentless"
-    ],
     "faction": "Skellige",
     "flavor": "Hear ye now the tale of the heroic deeds of Clan an Craite.",
-    "info": "Add 2 base strength to all non-Gold units in your graveyard.",
+    "info": "Add 3 base strength to 2 non-Gold units in your graveyard.",
     "key": "draig_bon-dhu",
     "loyalty": [
       "Loyal"
@@ -2968,7 +2779,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -2977,7 +2788,7 @@
   {
     "faction": "Monsters",
     "flavor": "Some men cannot admit defeat. Some keep fighting from beyond the grave.",
-    "info": "Destroy all opposing non-Gold units with 3 strength or lower.",
+    "info": "Remove 1 strength from a random opposing non-Gold unit 7 times.",
     "key": "draug",
     "loyalty": [
       "Loyal"
@@ -2986,7 +2797,7 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Gold",
     "variations": [
       {
@@ -3001,7 +2812,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -3010,7 +2821,7 @@
   {
     "faction": "Monsters",
     "flavor": "Though the witchman lusts for gold, for the smiting of a drowner thou shalt give him but a silver penny, or three halfpence, at most.",
-    "info": "Immune to Weather. Move an opposing non-Gold unit to that side’s Siege row.",
+    "info": "Gain Weather Immunity. Move an opposing non-Gold unit to that side’s Siege row.",
     "key": "drowner",
     "loyalty": [
       "Loyal"
@@ -3034,7 +2845,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3067,7 +2878,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -3076,7 +2887,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Always wondered – how the blazes do those lads handle nature's call…?",
-    "info": "After 2 turns, convert to Gold until removed from the battlefield or the round ends.",
+    "info": "After 3 turns, convert to Gold until removed from the battlefield or the round ends.",
     "key": "dun_banner_heavy_cavalry",
     "loyalty": [
       "Loyal"
@@ -3100,7 +2911,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -3109,7 +2920,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Stay calm, everyone. And be alert. The true owners of those cloaks and beaver-skin caps might be elsewhere.",
-    "info": "Immune to Weather.",
+    "info": "Gain Weather Immunity.",
     "key": "dun_banner_light_cavalry",
     "loyalty": [
       "Loyal"
@@ -3133,7 +2944,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3169,7 +2980,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3205,7 +3016,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3238,16 +3049,13 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
     ]
   },
   {
-    "categories": [
-      "Dryad"
-    ],
     "faction": "Scoia'tael",
     "flavor": "The dryad queen has eyes of molten silver, and a heart of cold–forged steel.",
     "info": "Return a non-Relentless unit on your side to your hand and immediately play it again.",
@@ -3267,7 +3075,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -3275,6 +3083,7 @@
   },
   {
     "categories": [
+      "Devourer",
       "Vampire"
     ],
     "faction": "Monsters",
@@ -3305,7 +3114,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -3343,7 +3152,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -3363,9 +3172,7 @@
     ],
     "name": "Elven Mercenary",
     "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
+      "Melee"
     ],
     "strength": 4,
     "type": "Bronze",
@@ -3382,7 +3189,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3394,7 +3201,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "You mean to say the she–elf danced amidst the fray? Have you lost your mind, corporal?!",
-    "info": "Gain 4 strength whenever an Ambush is played.",
+    "info": "Gain 4 strength whenever you play an Ambush.",
     "key": "elven_wardancer",
     "loyalty": [
       "Loyal"
@@ -3420,7 +3227,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3446,7 +3253,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -3455,7 +3262,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "But... but there's no justice in it! One does not kill the messenger!",
-    "info": "Play the top Bronze unit in your deck.",
+    "info": "Look at the top 2 Bronze units in your deck. Play one and place the other back randomly in your deck.",
     "key": "emissary",
     "loyalty": [
       "Disloyal"
@@ -3479,7 +3286,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -3511,16 +3318,13 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
     ]
   },
   {
-    "categories": [
-      "Wild Hunt"
-    ],
     "faction": "Monsters",
     "flavor": "Have some dignity. You know how this will end.",
     "info": "Play Eredin.",
@@ -3540,35 +3344,8 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "categories": [
-      "Wild Hunt"
-    ],
-    "faction": "Monsters",
-    "flavor": "Have some dignity. You know how this will end.",
-    "info": "Immune to Frost.",
-    "key": "eredin_token",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Eredin (Token)",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 11,
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/eredein-token.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/eredein-token-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Epic"
       }
     ]
@@ -3576,7 +3353,7 @@
   {
     "faction": "Skellige",
     "flavor": "Only the ignorant dismiss the importance of myths.",
-    "info": "If possible, discard 2 cards and draw 2 cards.",
+    "info": "Draw 2 cards, then discard 2 cards.",
     "key": "ermion",
     "loyalty": [
       "Loyal"
@@ -3600,7 +3377,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -3621,7 +3398,7 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 5,
     "type": "Silver",
     "variations": [
       {
@@ -3636,7 +3413,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -3654,7 +3431,7 @@
     "positions": [
       "Siege"
     ],
-    "strength": 3,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
@@ -3669,57 +3446,9 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Neutral",
-    "info": "Remove 2 strength from all other non-Gold units on the row.",
-    "key": "field_marshal_duda_agitator",
-    "loyalty": [
-      "Disloyal"
-    ],
-    "name": "Field Marshal Duda: Agitator",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Legendary"
-      }
-    ]
-  },
-  {
-    "faction": "Neutral",
-    "info": "Add 2 strength to all other non-Gold units on the row.",
-    "key": "field_marshal_duda_companion",
-    "name": "Field Marshal Duda: Companion",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 3,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Legendary"
       }
     ]
   },
@@ -3738,7 +3467,7 @@
     "positions": [
       "Melee"
     ],
-    "strength": 2,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
@@ -3753,7 +3482,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -3786,7 +3515,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3804,7 +3533,7 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
@@ -3819,7 +3548,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -3850,14 +3579,14 @@
         },
         "availability": "BaseSet",
         "craft": {
-          "normal": 30,
-          "premium": 200
+          "normal": 80,
+          "premium": 400
         },
         "mill": {
-          "normal": 5,
-          "premium": 25
+          "normal": 10,
+          "premium": 10
         },
-        "rarity": "Common"
+        "rarity": "Rare"
       }
     ]
   },
@@ -3867,7 +3596,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Careful…! One more step and you'll be turned into molten glass.",
-    "info": "Ambush: When a revealed non-Gold unit appears on the opposite side, remove 3 strength from it and spawn a Commando Neophyte on a random row on your side.",
+    "info": "Ambush: When a revealed non-Gold unit appears on the opposite side, remove 3 strength from it and spawn a Commando Neophyte on a random row.",
     "key": "fireball_trap",
     "loyalty": [
       "Loyal"
@@ -3883,8 +3612,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/fireball-trap.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/fireball-trap-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/fireball-trap-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/fireball-trap-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3893,7 +3622,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -3901,12 +3630,12 @@
   },
   {
     "categories": [
-      "Special",
-      "Weather"
+      "Fleeting",
+      "Special"
     ],
     "faction": "Neutral",
     "flavor": "The sun's shinin', Dromle! The sun's shinin'! Maybe there's hope after all…",
-    "info": "Spawn either a Clear Skies or a Rally effect.",
+    "info": "Spawn either a Clear Skies or a Rally effect. Banish when moved to the graveyard.",
     "key": "first_light",
     "name": "First Light",
     "positions": [
@@ -3926,7 +3655,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3935,7 +3664,7 @@
   {
     "faction": "Monsters",
     "flavor": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims.",
-    "info": "Immune to Weather. Play from your deck or graveyard whenever Fog is spawned. Destroy when moved outside of Fog or Fog is removed.",
+    "info": "Gain Weather Immunity. Play from your deck or graveyard whenever Fog is spawned. Destroy when moved outside of Fog or Fog is removed.",
     "key": "foglet",
     "loyalty": [
       "Loyal"
@@ -3959,7 +3688,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -3985,7 +3714,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4014,7 +3743,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4023,7 +3752,7 @@
   {
     "faction": "Monsters",
     "flavor": "”What have I done?” the mage cried out, frightened of his own creation.",
-    "info": "Every 2 turns, if possible, banish a random non-Gold Special Card in your graveyard and absorb 3 strength.",
+    "info": "Every 2 turns, banish a random non-Gold Special Card in your graveyard, then absorb 3 strength.",
     "key": "frightener",
     "loyalty": [
       "Loyal"
@@ -4047,7 +3776,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4082,7 +3811,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -4115,7 +3844,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4151,16 +3880,19 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
     ]
   },
   {
+    "categories": [
+      "Witcher"
+    ],
     "faction": "Neutral",
     "flavor": "A blast of concentrated energy that pummels everything in its path. Great for when you forget your keys.",
-    "info": "Move 3 non-Gold units on the opposite row one row back. Remove 1 strength from all moved units.",
+    "info": "Choose 3 adjacent units on the opposing Melee or Ranged row. Move all non-Gold units among them one row back, then remove 1 strength from all moved units.",
     "key": "geralt_aard",
     "loyalty": [
       "Loyal"
@@ -4186,7 +3918,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4224,7 +3956,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -4236,7 +3968,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Paintings should convey emotion, not words.",
-    "info": "Set the strength of all non-Gold units on one of your rows to 6.",
+    "info": "Add 2 strength to all non-Gold units on your side of the battlefield.",
     "key": "geels",
     "name": "Ge’els",
     "type": "Leader",
@@ -4253,16 +3985,19 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
     ]
   },
   {
+    "categories": [
+      "Devourer"
+    ],
     "faction": "Monsters",
     "flavor": "If ghouls are part of the Circle of Life… then it's one vicious circle.",
-    "info": "Banish a random non-Gold unit in either graveyard from the game and absorb its strength.",
+    "info": "Banish a random non-Gold unit in either graveyard and absorb its strength.",
     "key": "ghoul",
     "loyalty": [
       "Loyal"
@@ -4286,16 +4021,19 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
     ]
   },
   {
+    "categories": [
+      "Devourer"
+    ],
     "faction": "Monsters",
     "flavor": "Big, bad, ugly. Squats in the sewers.",
-    "info": "If possible, discard a non-Gold unit, absorb its strength and draw a card.",
+    "info": "Discard a non-Gold unit, absorb its strength, then draw a card.",
     "key": "giant_toad",
     "loyalty": [
       "Loyal"
@@ -4319,7 +4057,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4328,7 +4066,7 @@
   {
     "faction": "Monsters",
     "flavor": "Does not drink. Does not eat. Does walk, however. And fight.",
-    "info": "When removed from the battlefield, spawn 2 Lesser Golem on the row where this unit was.",
+    "info": "When removed from the battlefield, spawn 2 Lesser Golems on the row where this unit was.",
     "key": "golem",
     "loyalty": [
       "Loyal"
@@ -4337,7 +4075,7 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Bronze",
     "variations": [
       {
@@ -4352,13 +4090,16 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
     ]
   },
   {
+    "categories": [
+      "Devourer"
+    ],
     "faction": "Monsters",
     "flavor": "Their long tongues're for slurping marrow – and whipping prey.",
     "info": "After 1 turn, banish all non-Gold units in your graveyard and absorb 1 strength for each.",
@@ -4385,7 +4126,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -4418,7 +4159,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4451,7 +4192,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -4477,7 +4218,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4513,35 +4254,8 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
-        "rarity": "Common"
-      }
-    ]
-  },
-  {
-    "faction": "Monsters",
-    "flavor": "A harpy egg omelet - a delicious delicacy, good sir. Quite dear, too, for as you might surmise, the wretches don't part with their eggs willingly.",
-    "info": "When this unit’s strength is absorbed by another, add an additional 9 strength to the absorbing unit.",
-    "key": "harpys_egg",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Harpy’s Egg",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 1,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/harpys-egg.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/harpys-egg-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Common"
       }
     ]
@@ -4578,7 +4292,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -4613,7 +4327,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -4629,8 +4343,6 @@
     ],
     "name": "Hawker Support",
     "positions": [
-      "Ranged",
-      "Melee",
       "Siege"
     ],
     "strength": 3,
@@ -4638,8 +4350,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/hawker-support-2.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/hawker-support-2-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/hawker-support-3.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/hawker-support-3-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4648,30 +4360,9 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
-      }
-    ]
-  },
-  {
-    "faction": "Skellige",
-    "info": "Destroy all non-Gold units on both sides of the battlefield and remove all Weather effects.",
-    "key": "hemdall",
-    "name": "Hemdall",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 12,
-    "type": "Gold",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Legendary"
       }
     ]
   },
@@ -4695,7 +4386,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4728,7 +4419,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -4761,7 +4452,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4794,7 +4485,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4811,7 +4502,6 @@
     "info": "Ambush: When the next opposing non-Gold Special Card is played, cancel its effects.",
     "key": "ida_emean",
     "loyalty": [
-      "Disloyal",
       "Loyal"
     ],
     "name": "Ida Emean",
@@ -4835,7 +4525,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -4871,7 +4561,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -4904,7 +4594,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -4912,7 +4602,7 @@
   },
   {
     "faction": "Nilfgaard",
-    "info": "Gain 2 strength for each Spying unit on the battlefield.",
+    "info": "Gain 3 strength for each Spying unit on the battlefield.",
     "key": "impera_brigade",
     "loyalty": [
       "Loyal"
@@ -4936,7 +4626,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -4968,7 +4658,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -5006,7 +4696,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -5040,7 +4730,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5078,7 +4768,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -5117,7 +4807,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5150,7 +4840,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5159,7 +4849,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "A sword is but one of many tools at a ruler's disposal.",
-    "info": "Move all Spying units on one of your opponent’s rows to your side of the battlefield.",
+    "info": "Move all Spying non-Gold units to your side of the battlefield.",
     "key": "john_calveit",
     "name": "John Calveit",
     "type": "Leader",
@@ -5176,7 +4866,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5209,7 +4899,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5246,7 +4936,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5279,7 +4969,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5312,7 +5002,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -5345,7 +5035,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -5361,8 +5051,6 @@
     ],
     "name": "Kaedweni Siege Support",
     "positions": [
-      "Ranged",
-      "Melee",
       "Siege"
     ],
     "strength": 3,
@@ -5370,8 +5058,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-4.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-4-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/kaedweni-siege-support-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5380,7 +5068,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -5413,7 +5101,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -5449,7 +5137,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5482,7 +5170,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -5496,6 +5184,9 @@
     "flavor": "If I'm to die today, i wish to look smashing for the occasion.",
     "info": "Give a shield to all non-Gold units on the row. Repeat every 2 turns. The shield protects its bearer from one strength-removing effect.",
     "key": "keira_metz",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Keira Metz",
     "positions": [
       "Ranged",
@@ -5517,7 +5208,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -5526,7 +5217,7 @@
   {
     "faction": "Skellige",
     "flavor": "No one can replace Bran. Though they're sure to try.",
-    "info": "Discard 2 cards from your deck and add 1 base strength to them. Then shuffle your deck.",
+    "info": "Discard up to 3 cards from your deck and add 1 base strength to them. Then shuffle your deck.",
     "key": "king_bran",
     "name": "King Bran",
     "type": "Leader",
@@ -5543,7 +5234,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -5576,7 +5267,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -5608,7 +5299,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -5644,97 +5335,9 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "categories": [
-      "Breedable"
-    ],
-    "faction": "Monsters",
-    "info": "No ability.",
-    "key": "lesser_earth_elemental",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Lesser Earth Elemental",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 2,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "categories": [
-      "Breedable"
-    ],
-    "faction": "Monsters",
-    "info": "No ability.",
-    "key": "lesser_fire_elemental",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Lesser Fire Elemental",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 1,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "categories": [
-      "Breedable"
-    ],
-    "faction": "Monsters",
-    "flavor": "\"Lesser does not mean worse!\" - Master Istredd of Aedd Gynvael.",
-    "info": "No ability.",
-    "key": "lesser_golem",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Lesser Golem",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 1,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Common"
       }
     ]
   },
@@ -5771,7 +5374,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -5807,58 +5410,9 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
-      }
-    ]
-  },
-  {
-    "faction": "Skellige",
-    "info": "Immune to Frost. When removed from the battlefield, add 10 strength to any Hjalmars on the opposite side.",
-    "key": "lord_of_undvik",
-    "name": "Lord of Undvik",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 5,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Legendary"
-      }
-    ]
-  },
-  {
-    "categories": [
-      "Permadeath"
-    ],
-    "faction": "Northern Realms",
-    "flavor": "I name thee Dea and embrace thee as my daughter.",
-    "info": "Resurrect a non-Gold, non-Permadeath unit.",
-    "key": "lubberkin",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Lubberkin",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 1,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-northern-realms-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Legendary"
       }
     ]
   },
@@ -5889,7 +5443,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -5925,7 +5479,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -5961,7 +5515,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -5975,9 +5529,14 @@
     "flavor": "I have you, dh'oine. You are all the same.",
     "info": "Remove 1 strength from a random opposing non-gold unit whenever a non-Ambush Elf unit appears on your side.",
     "key": "malena",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Malena",
     "positions": [
-      "Ranged"
+      "Ranged",
+      "Melee",
+      "Siege"
     ],
     "strength": 6,
     "type": "Silver",
@@ -5994,7 +5553,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -6015,13 +5574,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/mangonel.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/mangonel-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/mangonel-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/mangonel-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6030,7 +5589,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -6063,7 +5622,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -6095,7 +5654,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -6127,7 +5686,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -6163,7 +5722,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -6181,13 +5740,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 9,
+    "strength": 10,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/menno-coehoorn.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/menno-coehoorn-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/menno-coehoorn-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/menno-coehoorn-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6196,7 +5755,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -6204,12 +5763,13 @@
   },
   {
     "categories": [
+      "Fleeting",
       "Special",
       "Weather"
     ],
     "faction": "Neutral",
     "flavor": "The sky dimmed of a sudden, and clouds amassed over the town. It grew fiendishly dark, and a cold gust swept in. \"Oh my,\" gasped Yennefer. \"We're about to make quite the mess, I think.\"",
-    "info": "Spawn Frost and Rain effects.",
+    "info": "Spawn a Biting Frost or Torrential Rain card, then banish self.",
     "key": "merigolds_hailstorm",
     "name": "Merigold’s Hailstorm",
     "positions": [
@@ -6229,7 +5789,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -6262,7 +5822,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -6294,7 +5854,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -6332,7 +5892,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -6365,7 +5925,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -6391,32 +5951,9 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "categories": [
-      "Special"
-    ],
-    "faction": "Neutral",
-    "info": "Add 4 base strength to a non-Gold unit on your side of the battlefield.",
-    "key": "mutagen",
-    "name": "Mutagen",
-    "positions": [
-      "Event"
-    ],
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Common"
       }
     ]
   },
@@ -6450,7 +5987,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -6483,7 +6020,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -6492,7 +6029,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "They call us Death's heads. Care to find out why?",
-    "info": "Remove 4 strength from a Spying non-Gold unit on either side of the battlefield. If the unit was destroyed, gain 4 base strength.",
+    "info": "Remove 5 strength from a Spying non-Gold unit on either side of the battlefield. If the unit was destroyed, gain 4 base strength.",
     "key": "nauzicaa_brigade",
     "loyalty": [
       "Loyal"
@@ -6516,7 +6053,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -6551,7 +6088,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -6587,7 +6124,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -6620,7 +6157,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -6656,7 +6193,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -6679,8 +6216,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/nilfgaardian-knight.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/nilfgaardian-knight-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/nilfgaardian-knight-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/nilfgaardian-knight-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6689,7 +6226,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -6725,7 +6262,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -6761,7 +6298,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -6796,7 +6333,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -6831,7 +6368,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -6864,7 +6401,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -6902,7 +6439,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -6938,7 +6475,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -6971,7 +6508,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -7009,7 +6546,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -7042,7 +6579,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -7078,7 +6615,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -7111,7 +6648,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -7144,7 +6681,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -7177,7 +6714,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -7209,7 +6746,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -7242,7 +6779,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -7274,30 +6811,9 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
-      }
-    ]
-  },
-  {
-    "faction": "Monsters",
-    "info": "No ability.",
-    "key": "rabid_wolf",
-    "name": "Rabid Wolf",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 1,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Epic"
       }
     ]
   },
@@ -7321,7 +6837,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -7354,30 +6870,9 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
-      }
-    ]
-  },
-  {
-    "faction": "Skellige",
-    "info": "Immune to Frost. When first appearing, gain 1 base strength of it’s Round 2 or 2 base strength if it’s Round 3.",
-    "key": "raging_bear",
-    "name": "Raging Bear",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 6,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Rare"
       }
     ]
   },
@@ -7411,29 +6906,9 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
-      }
-    ]
-  },
-  {
-    "faction": "Neutral",
-    "info": "Play a random Bronze unit from your deck.",
-    "key": "rally",
-    "name": "Rally",
-    "positions": [
-      "Event"
-    ],
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Common"
       }
     ]
   },
@@ -7464,7 +6939,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -7497,7 +6972,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -7530,7 +7005,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -7563,7 +7038,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -7600,33 +7075,8 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
-        "rarity": "Legendary"
-      }
-    ]
-  },
-  {
-    "faction": "Neutral",
-    "flavor": "He becomes invisible at will. His glance hypnotizes into a deep sleep. He then drinks his fill, turns into a bat and flies off. Altogether uncouth.",
-    "info": "No ability.",
-    "key": "regis_higher_vampire",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Regis: Higher Vampire",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 8,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Legendary"
       }
     ]
@@ -7661,7 +7111,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -7697,7 +7147,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -7733,7 +7183,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -7765,7 +7215,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -7797,7 +7247,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -7829,7 +7279,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -7864,7 +7314,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -7900,7 +7350,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -7919,7 +7369,9 @@
     ],
     "name": "Sabrina Glevissig",
     "positions": [
-      "Ranged"
+      "Ranged",
+      "Melee",
+      "Siege"
     ],
     "strength": 1,
     "type": "Silver",
@@ -7936,7 +7388,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -7969,7 +7421,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8005,7 +7457,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -8038,7 +7490,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8074,7 +7526,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -8106,7 +7558,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8142,29 +7594,8 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Neutral",
-    "info": "Remove 1 strength from a random opposing non-Gold unit.",
-    "key": "shadow",
-    "name": "Shadow",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 1,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Epic"
       }
     ]
@@ -8199,7 +7630,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8235,7 +7666,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8271,7 +7702,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8307,7 +7738,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8315,12 +7746,13 @@
   },
   {
     "categories": [
+      "Fleeting",
       "Special",
       "Weather"
     ],
     "faction": "Neutral",
     "flavor": "This ain't no normal storm. This here's the wrath of the gods.",
-    "info": "Spawn Fog and Rain effects.",
+    "info": "Spawn an Impenetrable Fog or Torrential Rain card, then banish self.",
     "key": "skellige_storm",
     "name": "Skellige Storm",
     "positions": [
@@ -8340,7 +7772,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8349,7 +7781,7 @@
   {
     "faction": "Skellige",
     "flavor": "Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!",
-    "info": "Lose 3 strength at the start of your turn. When removed from the battlefield, spawn Craven Revived on the same row.",
+    "info": "Lose 2 strength at the start of your turn. When removed from the battlefield, spawn Craven Revived on the same row.",
     "key": "skjall",
     "loyalty": [
       "Loyal"
@@ -8375,65 +7807,16 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Skellige",
-    "info": "Immune to Weather. Move to a random opposing row at the start of your turn and remove 1 strength from all non-Gold units on the row.",
-    "key": "spectral_whale",
-    "loyalty": [
-      "Disloyal"
-    ],
-    "name": "Spectral Whale",
-    "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
-    ],
-    "strength": 4,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-skellige-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "categories": [
-      "Special"
-    ],
-    "faction": "Neutral",
-    "info": "Remove 4 base strength from an opposing non-Gold unit.",
-    "key": "spores",
-    "name": "Spores",
-    "positions": [
-      "Event"
-    ],
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Common"
       }
     ]
   },
   {
     "faction": "Nilfgaard",
     "flavor": "The North has nothing with which it could surprise us.",
-    "info": "Gain 1 strength for each revealed card in either player’s hand. While on the battlefield, gain 1 strength whenever a card in either player’s hand is revealed.",
+    "info": "While in your hand, deck or on the battlefield, gain 1 strength whenever a card in either player’s hand is revealed.",
     "key": "spotter",
     "loyalty": [
       "Loyal"
@@ -8444,13 +7827,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 5,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/spotter.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/spotter-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/spotter-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/spotter-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8459,7 +7842,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8491,7 +7874,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8524,7 +7907,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8544,13 +7927,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 10,
+    "strength": 8,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/succubus-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/succubus-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/succubus-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/succubus-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8559,7 +7942,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -8568,7 +7951,7 @@
   {
     "faction": "Skellige",
     "flavor": "The emperor also thought him an accidental king. At first.",
-    "info": "If possible, discard 1 card and draw 1 card.",
+    "info": "Draw 1 card, then discard 1 card.",
     "key": "svanrige",
     "loyalty": [
       "Loyal"
@@ -8592,7 +7975,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8625,7 +8008,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8658,7 +8041,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8691,7 +8074,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -8724,7 +8107,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8756,7 +8139,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -8789,7 +8172,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -8798,7 +8181,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Tibor's zeal was legendary. It was said when the emperor passed, he'd not so much bow as somersault.",
-    "info": "If your opponent has not passed, gain 15 strength, then your opponent draws a card and reveals it.",
+    "info": "If your opponent has not passed, gain 15 strength, then your opponent draws a card and reveals it. When removed, set base strength to 7.",
     "key": "tibor_eggebracht",
     "loyalty": [
       "Loyal"
@@ -8822,7 +8205,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -8855,7 +8238,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -8895,7 +8278,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8907,7 +8290,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Many believe the empire's power rests upon the shoulder of its disciplined army and dutiful mages. In truth, the Nilfgaardian floren rules the world.",
-    "info": "Move an opposing Spying non-Gold unit to your side and add 4 to its strength.",
+    "info": "Move an opposing Spying non-Gold unit to your side and add 8 to its strength.",
     "key": "treason",
     "name": "Treason",
     "positions": [
@@ -8927,7 +8310,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -8963,7 +8346,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -8999,7 +8382,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -9036,7 +8419,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -9071,7 +8454,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -9104,30 +8487,9 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Neutral",
-    "info": "Add 2 strength to all other units.",
-    "key": "unicorn",
-    "name": "Unicorn",
-    "positions": [
-      "Siege"
-    ],
-    "strength": 1,
-    "type": "Gold",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-neutral-300x376.png"
-        },
-        "availability": "NonOwnable",
-        "rarity": "Legendary"
       }
     ]
   },
@@ -9146,13 +8508,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 7,
+    "strength": 8,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/02/vanhemar.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/02/vanhemar-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/02/vanhemar-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/02/vanhemar-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9161,7 +8523,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -9194,7 +8556,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -9230,7 +8592,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -9266,7 +8628,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -9302,7 +8664,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -9338,7 +8700,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -9374,7 +8736,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -9410,7 +8772,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -9419,14 +8781,16 @@
   {
     "faction": "Monsters",
     "flavor": "They sat still on their horses, seemingly relaxed. He saw their weapons – short spears with wide tips. Swords with oddly forged guards. Battle axes. Toothed gisarmes.",
-    "info": "When played and at the end of every 2 turns, destroy the weakest non-Gold unit on the row (except self) and absorb its strength.",
+    "info": "Every 2 turns, at the end of the turn destroy the weakest non-Gold unit on the row (except self) and absorb its strength.",
     "key": "vran_warrior",
     "loyalty": [
       "Loyal"
     ],
     "name": "Vran Warrior",
     "positions": [
-      "Ranged"
+      "Ranged",
+      "Melee",
+      "Siege"
     ],
     "strength": 5,
     "type": "Bronze",
@@ -9443,7 +8807,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -9481,7 +8845,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -9500,17 +8864,15 @@
     ],
     "name": "Vrihedd Dragoon",
     "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
+      "Ranged"
     ],
     "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-dragoon.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-dragoon-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-dragoon-1.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-dragoon-1-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9519,7 +8881,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -9538,8 +8900,6 @@
     ],
     "name": "Vrihedd Officer",
     "positions": [
-      "Ranged",
-      "Melee",
       "Siege"
     ],
     "strength": 4,
@@ -9547,8 +8907,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-officer-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-officer-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-officer-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/vrihedd-officer-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9557,7 +8917,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -9596,7 +8956,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -9615,9 +8975,7 @@
     ],
     "name": "Vrihedd Vanguard",
     "positions": [
-      "Ranged",
-      "Melee",
-      "Siege"
+      "Melee"
     ],
     "strength": 5,
     "type": "Bronze",
@@ -9634,7 +8992,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -9670,7 +9028,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -9702,7 +9060,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -9735,7 +9093,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -9743,12 +9101,13 @@
   },
   {
     "categories": [
+      "Fleeting",
       "Special",
       "Weather"
     ],
     "faction": "Neutral",
     "flavor": "Behold Tedd Deireadh, the Final Age. The world destroyed by the White Frost.",
-    "info": "Spawn Frost and Fog effects.",
+    "info": "Spawn a Biting Frost or Impenetrable Fog card, then banish self.",
     "key": "white_frost",
     "name": "White Frost",
     "positions": [
@@ -9768,7 +9127,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -9801,33 +9160,8 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "faction": "Monsters",
-    "flavor": "Cry 'Havoc!', and let slip the dogs of war.",
-    "info": "Immune to Frost.",
-    "key": "wild_hunt_hound",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Wild Hunt Hound",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 2,
-    "type": "Bronze",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/12/coming-soon-monsters-300x376.png"
-        },
-        "availability": "NonOwnable",
         "rarity": "Epic"
       }
     ]
@@ -9862,7 +9196,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -9898,7 +9232,7 @@
         },
         "mill": {
           "normal": 5,
-          "premium": 25
+          "premium": 5
         },
         "rarity": "Common"
       }
@@ -9931,7 +9265,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -9947,7 +9281,7 @@
     ],
     "name": "Wyvern",
     "positions": [
-      "Ranged"
+      "Siege"
     ],
     "strength": 5,
     "type": "Bronze",
@@ -9964,7 +9298,7 @@
         },
         "mill": {
           "normal": 10,
-          "premium": 50
+          "premium": 10
         },
         "rarity": "Rare"
       }
@@ -9985,13 +9319,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 9,
+    "strength": 11,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/xarthisius-1.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/xarthisius-1-300x376.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/xarthisius-2.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/xarthisius-2-300x376.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -10000,7 +9334,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -10038,7 +9372,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -10074,7 +9408,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -10110,7 +9444,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }
@@ -10146,7 +9480,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -10182,7 +9516,7 @@
         },
         "mill": {
           "normal": 50,
-          "premium": 200
+          "premium": 50
         },
         "rarity": "Epic"
       }
@@ -10218,7 +9552,7 @@
         },
         "mill": {
           "normal": 200,
-          "premium": 800
+          "premium": 200
         },
         "rarity": "Legendary"
       }

@@ -70,7 +70,7 @@ def getCardJson(html):
 
     soup = BeautifulSoup(html, 'html.parser')
     # All the information is found inside this element.
-    cardArticle = soup.find('div', id='primary').article
+    cardArticle = soup.find('div', id='primary').main
 
     # The card name is found outside of cardArticle. Just the main header of the page.
     name = cardArticle.find('h1').get_text()
@@ -93,6 +93,7 @@ def getCardJson(html):
     # a try catch. Cards are collectible by default unless otherwise noted.
     # There is no way to differentiate a token from an unreleased/removed card of the game.
     try:
+        #Invalid as of March 26 2017
         textCollectable = content.find('ul', class_="card-cats").find_next_sibling('strong').a.get_text().strip()
         if textCollectable == "Uncollectible":
             variation["availability"] = "NonOwnable"
@@ -110,7 +111,7 @@ def getCardJson(html):
 
     # The div contains an unordered list. We will get all the elements of that list
     # and iterate through them.
-    for data in content.select('ul.card-cats > li'):
+    for data in cardArticle.select('ul.card-cats > li'):
         # The name of the card field is inside a strong element.
         attribute = data.strong.get_text().strip()
 
