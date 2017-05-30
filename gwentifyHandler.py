@@ -185,8 +185,14 @@ def getCardJson(html):
     # Some cards might not have their info data already either. We wrap it in a try catch it case the element doesn't
     # exists.
     try:
-        info = cardArticle.find('div', class_="card-text").find('p').get_text().strip()
-        dataMap["info"] = info
+        infos = cardArticle.find('div', class_="card-text").find_all('p')
+        infoString = ""
+        for info in infos:
+            # Check if empty. Add space if not
+            if infoString:
+                infoString += " "
+            infoString += info.get_text().strip()
+        dataMap["info"] = infoString
     except AttributeError:
         pass
         # dataMap["info"] = ""

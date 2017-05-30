@@ -452,7 +452,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Like a cross between a crab, a spider… and a mountain.",
-    "info": "Armor 2",
+    "info": "Armor 2 Whenever an Ally Consumes a card, Spawn an Arachas. Effort: Damage self by 1 (ignoring Armor).",
     "key": "arachas_behemoth",
     "loyalty": [
       "Loyal"
@@ -736,7 +736,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "What crossbows want to be when they grow up.",
-    "info": "Deploy: Pick an Enemy and Damage it and all Enemies with the same Power by 1 (ignoring Armor).",
+    "info": "Deploy: Pick an Enemy and Damage it and all Enemies with the same Power by 1 (ignoring Armor). Fresh Crew: Repeat the Deploy ability.",
     "key": "ballista",
     "loyalty": [
       "Loyal"
@@ -915,7 +915,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Best thing about frost? Bodies of the fallen don't rot so quickly.",
-    "info": "Apply Frost to a row.",
+    "info": "Apply Frost to a row. Frost: Turn Start: Damage Units on the row by 1.",
     "key": "biting_frost",
     "name": "Biting Frost",
     "positions": [
@@ -979,7 +979,7 @@
       "Special"
     ],
     "faction": "Neutral",
-    "info": "Destroy an Ally.",
+    "info": "Destroy an Ally. Spawn a Bear.",
     "key": "bloodcurdling_roar",
     "name": "Bloodcurdling Roar",
     "positions": [
@@ -1046,7 +1046,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "By the time we'd heard them, it was already too late…",
-    "info": "Whenever this Unit is moved, Boost it by 2.",
+    "info": "Whenever this Unit is moved, Boost it by 2. Deploy: Summon all other copies of this Unit to its row.",
     "key": "blue_mountain_commando",
     "loyalty": [
       "Loyal"
@@ -1084,7 +1084,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "I'd do anything for Temeria. Mostly though, I kill for her.",
-    "info": "Summon this Unit (only 1 copy) whenever a different Ally with the same power is played and place it on that Unit’s row.",
+    "info": "Summon this Unit (only 1 copy) whenever a different Ally with the same power is played and place it on that Unit’s row. Trio: Create 1 base copy of a Blue Stripes Command on the bottom of your Deck.",
     "key": "blue_stripes_commando",
     "loyalty": [
       "Loyal"
@@ -1122,7 +1122,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Blue Stripes and Scoia'tael are similar in one regard – hatred fuels both.",
-    "info": "Armor 2.",
+    "info": "Armor 2. Deploy: Clear Weather from the row.",
     "key": "blue_stripes_scout",
     "loyalty": [
       "Loyal"
@@ -1157,7 +1157,7 @@
   {
     "faction": "Skellige",
     "flavor": "I'm near ready to puke from boredom.",
-    "info": "Veteran: Strength self by 1.",
+    "info": "Veteran: Strength self by 1. Deploy: Spawn a Spectral Whale on your opponent’s side.",
     "key": "blueboy_lugos",
     "loyalty": [
       "Loyal"
@@ -1193,7 +1193,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Admit your mistakes and bury them proper - else they'll come back to haunt you.",
-    "info": "Deploy: Boost all Lubberkins in your Hand, Deck and Graveyard by 5.",
+    "info": "Deploy: Boost all Lubberkins in your Hand, Deck and Graveyard by 5. Deathwish: Summon a Lubberkin.",
     "key": "botchling",
     "loyalty": [
       "Loyal"
@@ -1262,7 +1262,7 @@
   {
     "faction": "Scoia'tael",
     "flavor": "That doddery dolt? Ye cannae even tell if he's alive or stuffed!",
-    "info": "Spawn: Brouver Hoog",
+    "info": "Spawn: Brouver Hoog Deploy: Play a Silver Unit from your Deck. Shuffle the others back.",
     "key": "brouver_hoog",
     "name": "Brouver Hoog",
     "strength": 4,
@@ -1732,7 +1732,7 @@
   },
   {
     "faction": "Skellige",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Boost 3 Damaged Units to the left by half their Power (rounding up). Effort: Weaken self by 2.",
     "key": "clan_an_craite_warcrier",
     "loyalty": [
       "Loyal"
@@ -1767,7 +1767,7 @@
   {
     "faction": "Skellige",
     "flavor": "Our clan's bards will sing of my deeds long after you're dead and forgotten!",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Damage self by 1.",
     "key": "clan_an_craite_warrior",
     "loyalty": [
       "Loyal"
@@ -1800,7 +1800,7 @@
   {
     "faction": "Skellige",
     "flavor": "So ye can hit a movin' target at two hundred paces? Me, too. In a storm.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Damage 3 Units by 1.",
     "key": "clan_brokvar_archer",
     "loyalty": [
       "Loyal"
@@ -1833,7 +1833,7 @@
   {
     "faction": "Skellige",
     "flavor": "Better believe we can hunt. Thing is, not much game on Undvik…",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Strengthen self by 1 whenever an adjacent Unit is Damaged. Deploy: Damage a Unit by 3.",
     "key": "clan_brokvar_hunter",
     "loyalty": [
       "Loyal"
@@ -1868,7 +1868,7 @@
   {
     "faction": "Skellige",
     "flavor": "Can see the fear in their eyes. Fear o' me… fear o' Clan Dimun!",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Discard all copies of this Unit from your Deck.",
     "key": "clan_dimun_pirate",
     "loyalty": [
       "Loyal"
@@ -1903,7 +1903,7 @@
   {
     "faction": "Skellige",
     "flavor": "Haul together, hoist the colors high!",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Boost this Unit by 1, wherever it is, whenever you Discard a unit.",
     "key": "clan_dimun_pirate_captain",
     "loyalty": [
       "Loyal"
@@ -1938,7 +1938,7 @@
   {
     "faction": "Skellige",
     "flavor": "They'll shatter on our shields like waves on a craggy shore.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Damage a Unit by 2. if it was already Damaged, Summon another Clan Drummond Shieldmaiden.",
     "key": "clan_drummond_shieldmaiden",
     "loyalty": [
       "Loyal"
@@ -1971,7 +1971,7 @@
   {
     "faction": "Skellige",
     "flavor": "The deeds of Clan Heymaey will go down in history.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Boost 3 Units to the left by 3, 2, and 1 respectively.",
     "key": "clan_heymaey_skald",
     "loyalty": [
       "Loyal"
@@ -2006,7 +2006,7 @@
   {
     "faction": "Skellige",
     "flavor": "Ye're in for a poundin'.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Heal 3 units to the left.",
     "key": "clan_tordarroch_armorsmith",
     "loyalty": [
       "Loyal"
@@ -2041,7 +2041,7 @@
   {
     "faction": "Skellige",
     "flavor": "Remember me words – a good shield can save yer life.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Strengthen a unit by 2.",
     "key": "clan_tordarroch_shieldsmith",
     "loyalty": [
       "Loyal"
@@ -2074,7 +2074,7 @@
   {
     "faction": "Skellige",
     "flavor": "Swords are for wenches. Get yourself an axe.",
-    "info": "Armor 2",
+    "info": "Armor 2 Veteran: Strengthen self by 1. Boost self by 1 whenever an Enemy is Damaged.",
     "key": "clan_tuirseach_axeman",
     "loyalty": [
       "Loyal"
@@ -2109,7 +2109,7 @@
   {
     "faction": "Skellige",
     "flavor": "Friends we show heart, foes we show our axe. Remember that.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Strengthen self by 3 whenever it enters the Graveyard.",
     "key": "clan_tuirseach_skirmishers",
     "loyalty": [
       "Loyal"
@@ -2142,7 +2142,7 @@
   {
     "faction": "Skellige",
     "flavor": "We are an Craite! What others buy with gold, we buy with our lifeblood.",
-    "info": "Veteran: Strengthen by 1.",
+    "info": "Veteran: Strengthen by 1. Resurrect this Unit whenever it is Discarded.",
     "key": "clan_an_craite_raider",
     "loyalty": [
       "Loyal"
@@ -2279,7 +2279,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Many nonhumans, fed up with the racism and xenophobia they encounter in the cities, decide to join the Scoia'tael.",
-    "info": "Armor 2",
+    "info": "Armor 2 Damage a random Enemy by 2 whenever you Mulligan a card.",
     "key": "commando_neophyte",
     "loyalty": [
       "Loyal"
@@ -2350,7 +2350,7 @@
   {
     "faction": "Skellige",
     "flavor": "Nilfgaardians call 'im Tirth ys Muire, the Wild Boar o' the Sea. Use 'im to scare their kiddies!",
-    "info": "Spawn: Crach an Criate",
+    "info": "Spawn: Crach an Criate Deploy: Play the Highest Loyal Unit in your Deck, Strengthen it by 3, then Damage it by 1.",
     "key": "crach_an_craite",
     "name": "Crach An Craite",
     "strength": 4,
@@ -2578,7 +2578,7 @@
   {
     "faction": "Monsters",
     "flavor": "That is not dead which can eternal lie, and with strange aeons even death may die.",
-    "info": "Spawn: Dagon.",
+    "info": "Spawn: Dagon. Deploy: Spawn Biting Frost, Impenetrable Fog or Torrential Rain.",
     "key": "dagon",
     "name": "Dagon",
     "strength": 7,
@@ -2843,7 +2843,7 @@
   {
     "faction": "Skellige",
     "flavor": "When a warrant says \"dead or alive,\" most bounty hunters'll just kill you. Not me. Should I catch you, you'll hang, and I'll tickle your feet as you expire.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Damage 3 Allies by 1. Effort: Strengthen self by 1.",
     "key": "djenge_frett",
     "loyalty": [
       "Loyal"
@@ -2917,7 +2917,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "You might manage to hide from them, but once spotted, don't bother trying to run.",
-    "info": "Every time this Unit is moved, Damage a random Enemy by 2.",
+    "info": "Every time this Unit is moved, Damage a random Enemy by 2. Deploy: Damage a Unit by 2.",
     "key": "dol_blathanna_marksman",
     "loyalty": [
       "Loyal"
@@ -3128,7 +3128,7 @@
       "Weather"
     ],
     "faction": "Neutral",
-    "info": "Apply Drought to all rows on your opponent’s side.",
+    "info": "Apply Drought to all rows on your opponent’s side. Drought: Turn Start: Damage the Lowest Unit on the row by 3.",
     "key": "drought",
     "name": "Drought",
     "positions": [
@@ -3376,7 +3376,7 @@
     ],
     "faction": "Monsters",
     "flavor": "How do you fight an earth elemental? You don't. You run. Fast as you can.",
-    "info": "Deploy: Give this Unit a Shield.",
+    "info": "Deploy: Give this Unit a Shield. Deathwish: Spawn 2 Lesser Earth Elementals at the end of the row.",
     "key": "earth_elemental",
     "loyalty": [
       "Loyal"
@@ -3409,7 +3409,7 @@
   {
     "faction": "Scoia'tael",
     "flavor": "The dryad queen has eyes of molten silver, and a heart of cold–forged steel.",
-    "info": "Spawn: Eithne",
+    "info": "Spawn: Eithne Deploy: Resurrect a Special card from your Graveyard.",
     "key": "eithne",
     "name": "Eithné",
     "strength": 5,
@@ -3439,7 +3439,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Who would think that overgrown bats would have a taste for gaudy jewelry?",
-    "info": "Resilient.",
+    "info": "Resilient. Deploy: Consume an Ally.",
     "key": "ekimmara",
     "loyalty": [
       "Loyal"
@@ -3513,7 +3513,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I spit on Scoia'tael ideals, but not on their coin.",
-    "info": "If this Unit is Spying, move it to your side after you play an Ambush Unit.",
+    "info": "If this Unit is Spying, move it to your side after you play an Ambush Unit. Deploy: Draw 2 Bronze Special cards. Play 1 and shuffle the other back.",
     "key": "elven_mercenary",
     "loyalty": [
       "Disloyal"
@@ -3584,7 +3584,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "They do not call me the Patient. Take care they do not call you the Headless.",
-    "info": "Spawn: Emhyr var Emreis",
+    "info": "Spawn: Emhyr var Emreis Deploy: Return an Ally to your Hand, then play a card from your Hand.",
     "key": "emhyr_var_emreis",
     "name": "Emhyr Var Emreis",
     "strength": 3,
@@ -3678,7 +3678,7 @@
   {
     "faction": "Monsters",
     "flavor": "Have some dignity. You know how this will end.",
-    "info": "Spawn: Eredin.",
+    "info": "Spawn: Eredin. Deploy: Spawn a Bronze Wild Hunt Unit.",
     "key": "eredin",
     "name": "Eredin",
     "strength": 5,
@@ -3776,7 +3776,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "\"Here she comes,\" he thought, \"our imperial interest. A mock-princess, a mock-queen for Cintra. A mock-ruler for the mouth of the Yarra, future lifeblood of the empire.\"",
-    "info": "Turn Start: Boost self by 1 while Spying. When your opponent passes, move this Unit to the opposite side.",
+    "info": "Turn Start: Boost self by 1 while Spying. When your opponent passes, move this Unit to the opposite side. Deploy: If not Spying, Strengthen self by 3.",
     "key": "fake_ciri",
     "loyalty": [
       "Disloyal",
@@ -3917,7 +3917,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Not the best for taking cities, but great for razing them to the ground.",
-    "info": "When Revealed: Damage a random Enemy by 3.",
+    "info": "When Revealed: Damage a random Enemy by 3. Deploy: Damage an Enemy by 3.",
     "key": "fire_scorpion",
     "loyalty": [
       "Loyal"
@@ -3985,7 +3985,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims.",
-    "info": "Summon or Resurrect this unit whenever you apply Fog to an opposing row and place it on that row on your side.",
+    "info": "Summon or Resurrect this unit whenever you apply Fog to an opposing row and place it on that row on your side. Destroy this Unit when there is no Fog on its row on your opponent’s side.",
     "key": "foglet",
     "loyalty": [
       "Loyal"
@@ -4020,7 +4020,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Don't need advisors and their schemes. I place my trust in my soldiers' blades.",
-    "info": "Spawn: Foltest",
+    "info": "Spawn: Foltest Deploy: Boost all Units in your Hand and Deck by 1.",
     "key": "foltest",
     "name": "Foltest",
     "strength": 4,
@@ -4047,7 +4047,7 @@
   {
     "faction": "Scoia'tael",
     "flavor": "To live in peace, we first must kill. This is human oppression's cruel finale.",
-    "info": "Spawn: Francesca",
+    "info": "Spawn: Francesca Deploy: Mulligan up to 3 cards.",
     "key": "francesca",
     "name": "Francesca",
     "strength": 4,
@@ -4115,7 +4115,7 @@
       "Mage"
     ],
     "faction": "Nilfgaard",
-    "info": "Deploy: If Spying, set own base Power to 2.",
+    "info": "Deploy: If Spying, set own base Power to 2. Deploy: Set the Power of the Unit on the right to that of the Unit on the left.",
     "key": "fringilla_vigo",
     "loyalty": [
       "Disloyal",
@@ -4522,7 +4522,7 @@
   {
     "faction": "Skellige",
     "flavor": "No one knows how he got his nickname – no one's dared to ask.",
-    "info": "Spawn: Harald the Cripple",
+    "info": "Spawn: Harald the Cripple Deploy: Damage a Unit by 5. If this Destroys it, repeat this ability with Damage Power reduced by 1.",
     "key": "harald_the_cripple",
     "name": "Harald the Cripple",
     "strength": 3,
@@ -4698,7 +4698,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "King Henselt did not look like a thief, but, with all due respect, that's really what he was.",
-    "info": "Spawn: Henselt",
+    "info": "Spawn: Henselt Deploy: Summon all copies of a Bronze Ally.",
     "key": "henselt",
     "name": "Henselt",
     "strength": 2,
@@ -4760,7 +4760,7 @@
   {
     "faction": "Skellige",
     "flavor": "Now let's drink to Emperor of Nilfgaard – may he die of somethin' hideous!",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Damage a Unit by 5. If it was Destroyed, Strengthen the Highest Unit in your Graveyard by 3.",
     "key": "holger_blackhand",
     "loyalty": [
       "Loyal"
@@ -4937,7 +4937,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A good commander's dream… and a bad one's horror.",
-    "info": "Apply Fog to a row.",
+    "info": "Apply Fog to a row. Fog: Turn Start: Damage the Highest Unit(s) on the row by 2.",
     "key": "impenetrable_fog",
     "name": "Impenetrable Fog",
     "positions": [
@@ -4966,7 +4966,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "The Impera Brigade never surrenders. Ever.",
-    "info": "Boost self by 2 when you play a Spying Unit.",
+    "info": "Boost self by 2 when you play a Spying Unit. Deploy: Boost self by 2 for each Spying Enemy.",
     "key": "impera_brigade",
     "loyalty": [
       "Loyal"
@@ -5071,7 +5071,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "King or beggar, what's the difference? One dh'oine less.",
-    "info": "Whenever an Enemy moves to a different row, Damage it by 2.",
+    "info": "Whenever an Enemy moves to a different row, Damage it by 2. Deploy: Damage an Enemy by 4.",
     "key": "iorveth",
     "loyalty": [
       "Loyal"
@@ -5253,7 +5253,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "A sword is but one of many tools at a ruler's disposal.",
-    "info": "Spawn: John Calveit",
+    "info": "Spawn: John Calveit Deploy: Look at the top 3 cards in your Deck. Play 1 and place the others back.",
     "key": "john_calveit",
     "name": "John Calveit",
     "strength": 4,
@@ -5389,7 +5389,7 @@
   {
     "faction": "Skellige",
     "flavor": "Some call her the \"Iron Maiden.\"",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Damage self by 1.",
     "key": "jutta_an_dimun",
     "loyalty": [
       "Loyal"
@@ -5490,7 +5490,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "\"You gotta recalibrate the arm by five degrees.\" \"Do what by the what now?\"",
-    "info": "Boost each Ally by 1 when it appears on your side and add 1 Armor to it. If it’s a Machine, Boost by 2 and add 2 Armor instead.",
+    "info": "Boost each Ally by 1 when it appears on your side and add 1 Armor to it. If it’s a Machine, Boost by 2 and add 2 Armor instead. Crewmen 1.",
     "key": "kaedweni_siege_support",
     "loyalty": [
       "Loyal"
@@ -5675,7 +5675,7 @@
   {
     "faction": "Skellige",
     "flavor": "No one can replace Bran. Though they're sure to try.",
-    "info": "Spawn: King Bran",
+    "info": "Spawn: King Bran Deploy: Discard 3 cards from your Deck (including Golds) and Strengthen Units among them by 1.",
     "key": "king_bran",
     "name": "King Bran",
     "strength": 3,
@@ -5876,7 +5876,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Witchers never die in their beds.",
-    "info": "Deploy: If Spying, set own base Power to 1.",
+    "info": "Deploy: If Spying, set own base Power to 1. Deploy: Banish 2 adjacent Units on both sides and Strengthen this Unit by their Power.",
     "key": "letho_of_gulet",
     "loyalty": [
       "Disloyal",
@@ -5954,7 +5954,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "I name thee Dea and embrace thee as my daughter.",
-    "info": "Deploy: Boost all Botchlings in your Hand, Deck and Graveyard by 5.",
+    "info": "Deploy: Boost all Botchlings in your Hand, Deck and Graveyard by 5. Deathwish: Summon a Botchling.",
     "key": "lubberkin",
     "loyalty": [
       "Loyal"
@@ -6097,7 +6097,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I have you, dh'oine. You are all the same.",
-    "info": "Armor 3.",
+    "info": "Armor 3. Turn Start: Move a random Unit on another row on this side to this row.",
     "key": "malena",
     "loyalty": [
       "Disloyal",
@@ -6476,7 +6476,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Lady Eithné's daughter had inherited her sublime beauty and her wild hatred for all that is human.",
-    "info": "Ambush.",
+    "info": "Ambush. Spring when a Unit appears on the opponent’s side and Damage it by 5.",
     "key": "morenn",
     "loyalty": [
       "Loyal"
@@ -6547,7 +6547,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "The summer sun reflected in the quiet waters of the Alba -- that's Nilfgaard to me.",
-    "info": "Spawn: Morvran Voorhis",
+    "info": "Spawn: Morvran Voorhis Deploy: Reveal up to 3 cards from either player’s Hand.",
     "key": "morvran_voorhis",
     "name": "Morvran Voorhis",
     "strength": 6,
@@ -6745,7 +6745,7 @@
     ],
     "faction": "Monsters",
     "flavor": "These little guys are almost cute, if you ignore the whole vicious killer aspect.",
-    "info": "Boost self by 1 while in your Hand, Deck or on your side of the Board whenever an Ally Consumes a card.",
+    "info": "Boost self by 1 while in your Hand, Deck or on your side of the Board whenever an Ally Consumes a card. Deathwish: Summon a Nekker.",
     "key": "nekker",
     "loyalty": [
       "Loyal"
@@ -6844,7 +6844,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Sons of noble houses, born in the City of the Golden Towers, from the elite backbone of the Imperial Army.",
-    "info": "Armor 2",
+    "info": "Armor 2 Deploy: Reveal a random card from your Hand.",
     "key": "nilfgaardian_knight",
     "loyalty": [
       "Loyal"
@@ -6880,7 +6880,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle.",
-    "info": "Armor 3",
+    "info": "Armor 3 Biting Frost Damage increased to 2.",
     "key": "nithral",
     "loyalty": [
       "Loyal"
@@ -6989,7 +6989,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Do not disturb.",
-    "info": "Turn Start: If there are 3 or more Units on the opposite row, wake up.",
+    "info": "Turn Start: If there are 3 or more Units on the opposite row, wake up. Deploy: Boost adjacent Units by 1.",
     "key": "old_speartip_asleep",
     "loyalty": [
       "Loyal"
@@ -7271,7 +7271,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "He wears armor made of gold. Of course he's a jerk.",
-    "info": "Armor 2",
+    "info": "Armor 2 Timer 2, Turn Start: Boost this Unit by the number of Machine Allies, then restart the Timer. Crewmen 1.",
     "key": "prince_stennis",
     "loyalty": [
       "Loyal"
@@ -7306,7 +7306,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Picture Dandelion in a dress and you've got the general idea.",
-    "info": "Turn End: Boost a random Ally by 3.",
+    "info": "Turn End: Boost a random Ally by 3. Counter 3: Decrease whenever this Unit Boosts an Ally. At Counter 0, move this Unit to the bottom of your Deck.",
     "key": "priscilla",
     "loyalty": [
       "Loyal"
@@ -7345,7 +7345,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Mooooooo.",
-    "info": "Retaliation: Spawn a Chort on the row.",
+    "info": "Retaliation: Spawn a Chort on the row. Deathwish: Spawn a Chort on the row.",
     "key": "prize_winning_cow",
     "loyalty": [
       "Loyal"
@@ -7380,7 +7380,7 @@
   {
     "faction": "Skellige",
     "flavor": "The queen is guarded by the hardiest and fiercest shieldmaidens Skellige's ever known.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Resurrect all Queensguards from your Graveyard.",
     "key": "queensguard",
     "loyalty": [
       "Loyal"
@@ -7445,7 +7445,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "A king should be merciless towards his enemies and generous to his friends.",
-    "info": "Spawn: Radovid",
+    "info": "Spawn: Radovid Deploy: Lock 2 Enemies and Damage them by 4.",
     "key": "radovid",
     "name": "Radovid",
     "strength": 3,
@@ -7476,7 +7476,7 @@
     ],
     "faction": "Neutral",
     "flavor": "In the Final Age, Hemdall will come forth to face the evil issuing from the land of Morhogg – the legions of wraiths, demons and specters of Chaos.",
-    "info": "Apply Ragh Nar Roog to all rows on your opponent’s side.",
+    "info": "Apply Ragh Nar Roog to all rows on your opponent’s side. Ragh Nar Roog: Turn Start: Damage the Highest Unit on the row by 3.",
     "key": "ragh_nar_roog",
     "name": "Ragh Nar Roog",
     "positions": [
@@ -7578,7 +7578,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "See this here tattoo? 'At's me, hackin' at a dragon. A DRAGON, m'lady.",
-    "info": "Bond: Boost all copies of this Unit by 1, wherever they are.",
+    "info": "Bond: Boost all copies of this Unit by 1, wherever they are. Trio: Damage the Highest Enemy by half its Power (rounding down and ignoring Armor).",
     "key": "reaver_hunter",
     "loyalty": [
       "Loyal"
@@ -7646,7 +7646,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "I'll die for Redania, I'll kill for Redania… I'll even eat worms for Redania!",
-    "info": "Armor 3.",
+    "info": "Armor 3. Whenever this Unit’s Armor reaches 0, Boost self by 5.",
     "key": "redanian_elite",
     "loyalty": [
       "Loyal"
@@ -7714,7 +7714,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Not wealth or fame but intentions true -- that's what makes a hero of you!",
-    "info": "Armor 2.",
+    "info": "Armor 2. Turn Start: If this Unit is Armored, Boost Adjacent Units by 1.",
     "key": "redanian_knight-elect",
     "loyalty": [
       "Loyal"
@@ -7828,7 +7828,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Never manages to hit the same place twice, which, upon further reflection, might constitute a real problem.",
-    "info": "Deploy: Damage an Enemy by 2 (ignoring Armor).",
+    "info": "Deploy: Damage an Enemy by 2 (ignoring Armor). Fresh Crew: Repeat the Deploy ability.",
     "key": "reinforced_ballista",
     "loyalty": [
       "Loyal"
@@ -7866,7 +7866,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "The latest rage in assaults on walled cities.",
-    "info": "Deploy: Add 2 Armor to adjacent Units.",
+    "info": "Deploy: Add 2 Armor to adjacent Units. Fresh Crew: Boost self by 3.",
     "key": "reinforced_siege_tower",
     "loyalty": [
       "Loyal"
@@ -8616,7 +8616,7 @@
     ],
     "faction": "Neutral",
     "flavor": "This ain't no normal storm. This here's the wrath of the gods.",
-    "info": "Apply Skellige Storm to a row.",
+    "info": "Apply Skellige Storm to a row. Skelige Storm: Turn Start: Damage the Units at the end of the row by 3, 2, and 1.",
     "key": "skellige_storm",
     "name": "Skellige Storm",
     "positions": [
@@ -8645,7 +8645,7 @@
   {
     "faction": "Skellige",
     "flavor": "Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Timer 2, Turn End: Convert this Unit’s current Power into base Power.",
     "key": "skjall",
     "loyalty": [
       "Loyal"
@@ -8850,7 +8850,7 @@
   {
     "faction": "Skellige",
     "flavor": "The emperor also thought him an accidental king. At first.",
-    "info": "Veteran: Strengthen self by 1.",
+    "info": "Veteran: Strengthen self by 1. Deploy: Draw a card (including Golds) then Discard a card from your Hand.",
     "key": "svanrige",
     "loyalty": [
       "Loyal"
@@ -9160,7 +9160,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Even the rain in this land smells vile.",
-    "info": "Apply Rain to a row.",
+    "info": "Apply Rain to a row. Rain: Turn Start: Damage the Lowest Unit(s) on the row by 2.",
     "key": "torrential_rain",
     "name": "Torrential Rain",
     "positions": [
@@ -9193,7 +9193,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I'd gladly kill you from up close, stare in your eyes… But you reek, human.",
-    "info": "Ambush.",
+    "info": "Ambush. Spring when your opponent passes and Boost 2 Units on either side of this Unit by 2.",
     "key": "toruviel",
     "loyalty": [
       "Loyal"
@@ -9263,7 +9263,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Castle won't batter itself down, now will it? Get them trebuchets rollin'!",
-    "info": "Deploy: Damage all Units on a row on your opponent’s side by 2 (ignoring Armor).",
+    "info": "Deploy: Damage all Units on a row on your opponent’s side by 2 (ignoring Armor). Fresh Crew: Increase the Damage dealt by 1.",
     "key": "trebuchet",
     "loyalty": [
       "Loyal"
@@ -9410,7 +9410,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Join me King Ravodid army. Order got - guard boatses.",
-    "info": "Armor 4",
+    "info": "Armor 4 Trio: Counts as part of any Northern Realms Trio on the row.",
     "key": "trollololo",
     "loyalty": [
       "Loyal"
@@ -9484,7 +9484,7 @@
   {
     "faction": "Monsters",
     "flavor": "No one, not even among the higher vampires, knows exactly how old the Unseen Elder is. They only know they should never, under any circumstances, defy his will.",
-    "info": "Spawn: Unseen Elder.",
+    "info": "Spawn: Unseen Elder. Deploy: Consume 3 Allies, but Strengthen this Unit by their Power instead of Boosting it.",
     "key": "unseen_elder",
     "name": "Unseen Elder",
     "strength": 4,
@@ -9878,7 +9878,7 @@
     ],
     "faction": "Monsters",
     "flavor": "They sat still on their horses, seemingly relaxed. He saw their weapons – short spears with wide tips. Swords with oddly forged guards. Battle axes. Toothed gisarmes.",
-    "info": "Deploy: Consume the Unit to the right.",
+    "info": "Deploy: Consume the Unit to the right. Timer 2, Turn Start: Consume the Unit to the right, then restart the Timer.",
     "key": "vran_warrior",
     "loyalty": [
       "Loyal"
@@ -10026,7 +10026,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "No matter what you may have heard, elves don't take human scalps. Too much lice.",
-    "info": "Ambush.",
+    "info": "Ambush. Timer: 2. Turn Start: Spring.",
     "key": "vrihedd_sappers",
     "loyalty": [
       "Loyal"
@@ -10175,7 +10175,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Behold Tedd Deireadh, the Final Age. The world destroyed by the White Frost.",
-    "info": "Apply Frost to a row on your opponent’s side and the row above it.",
+    "info": "Apply Frost to a row on your opponent’s side and the row above it. Frost: Turn Start: Damage Units on the row by 1.",
     "key": "white_frost",
     "name": "White Frost",
     "positions": [
@@ -10317,7 +10317,7 @@
     ],
     "faction": "Monsters",
     "flavor": "First the buffalo horns atop their helms penetrate one's view, then the crest betwixt them, and finally the skull–like face exposed beneath their visors.",
-    "info": "Round End, Brave: If this unit is on the Board, give it Resilience.",
+    "info": "Round End, Brave: If this unit is on the Board, give it Resilience. Trio, Turn End: Boost self by 1.",
     "key": "wild_hunt_rider",
     "loyalty": [
       "Loyal"
@@ -10542,7 +10542,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Ever hear o' the dragon Ocvist? From Quartz Mountain? Well, Yarpen Zigrin and his band o' dwarves did 'im in.",
-    "info": "Resilient.",
+    "info": "Resilient. Whenever a Dwarf Ally (including Golds) is played, Boost self by 1.",
     "key": "yarpen_zigrin",
     "loyalty": [
       "Loyal"
