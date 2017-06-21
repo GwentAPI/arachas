@@ -15,8 +15,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/113307_Adrenaline_Rush_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/113307_Adrenaline_Rush_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/113307_Adrenaline_Rush_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/113307_Adrenaline_Rush_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -37,7 +37,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Better to die standing than to live on bent knee.",
-    "info": "Summon this Unit when you have 5 or more Elf Allies.",
+    "info": "When you have 5 or more Elf Allies, play this Unit from your Deck.",
     "key": "aelirenn",
     "loyalty": [
       "Loyal"
@@ -51,8 +51,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/142211_Aelirenn_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/142211_Aelirenn_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142211_Aelirenn_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142211_Aelirenn_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -73,7 +73,7 @@
     ],
     "faction": "Neutral",
     "flavor": "The druid Vaedermakar controls the elements. He soothes storms into silence, musters destructive hail, summons lightning to turn foes into ash. So I advise you well… treat him with utmost respect.",
-    "info": "Play a Weather card from your Deck or Graveyard. Shuffle the others from your Deck back.",
+    "info": "Play a Bronze or Silver Weather card from your Deck or Graveyard. Shuffle the others from your Deck back.",
     "key": "aeromancy",
     "name": "Aeromancy",
     "positions": [
@@ -83,8 +83,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/113208_Aeromancy_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/113208_Aeromancy_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/113208_Aeromancy_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/113208_Aeromancy_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -105,7 +105,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Brokilon bleeds… and not even I can heal it.",
-    "info": "Deploy: You may Resurrect a Special card from your opponent’s Graveyard. Effort: Weaken self by 4.",
+    "info": "Deploy: You may Resurrect a Special card from your opponent’s Graveyard. If you do, Weaken self by 4.",
     "key": "aglais",
     "loyalty": [
       "Loyal"
@@ -121,8 +121,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/10/142106_Aglaïs_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/10/142106_Aglaïs_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142106_Aglaïs_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142106_Aglaïs_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -140,7 +140,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Pledge your allegiance to our Emperor, Emhyr var Emreis... or die.",
-    "info": "Timer 2, Turn Start: Summon a copy of this Unit to its row.",
+    "info": "After 2 turns, at the start of your turn, play an Alba Pikeman on the row.",
     "key": "alba_pikeman",
     "loyalty": [
       "Loyal"
@@ -154,8 +154,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/162311_Alba_Pikemen_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/162311_Alba_Pikemen_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162311_Alba_Pikemen_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162311_Alba_Pikemen_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -187,8 +187,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/01/162312_Alba_Spearmen_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/01/162312_Alba_Spearmen_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162312_Alba_Spearmen_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162312_Alba_Spearmen_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -209,7 +209,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "A ball of fire? Why, naturally. Whatsoever Your Imperial Majesty desires.",
-    "info": "Deploy, Clash: Each player Draws a card (including Golds). The card Drawn by your opponent is Revealed.",
+    "info": "Deploy: If neither player has passed, each player draws the top card from their Deck. Your opponent’s card is Revealed.",
     "key": "albrich",
     "loyalty": [
       "Loyal"
@@ -223,8 +223,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162201_Albrich_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162201_Albrich_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162201_Albrich_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162201_Albrich_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -259,8 +259,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162316_Alchemist_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162316_Alchemist_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162316_Alchemist_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162316_Alchemist_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -281,7 +281,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A few of Alzur's monstrous creations roam the world still. Not least among them the horrid viy, who massacred its mage-creator and destroyed half of Maribor before fleeing into Riverdell's gloomy woodland.",
-    "info": "Strengthen the Highest Unit in your Deck by 2, then play it.",
+    "info": "Strengthen 1 of the Highest Bronze or Silver Units in your Deck by 2 and play it.",
     "key": "alzurs_double_cross",
     "name": "Alzur’s Double Cross",
     "positions": [
@@ -291,8 +291,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/113209_Alzurs_Double_Cross_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/113209_Alzurs_Double_Cross_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/113209_Alzurs_Double_Cross_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/113209_Alzurs_Double_Cross_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -323,8 +323,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/113301_Alzurs_Thunder_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/113301_Alzurs_Thunder_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/113301_Alzurs_Thunder_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/113301_Alzurs_Thunder_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -356,8 +356,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162315_Ambassador_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162315_Ambassador_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162315_Ambassador_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162315_Ambassador_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -378,7 +378,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Many primal fears lurk in the hearts of men. The fear of the mist is well–founded…",
-    "info": "Turn Start: Boost self by 1 if Fog is anywhere on the Board.",
+    "info": "Every turn, at the start of your turn, Boost self by 1 if Fog is anywhere on the Board.",
     "key": "ancient_foglet",
     "loyalty": [
       "Loyal"
@@ -394,8 +394,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132302_Ancient_Foglet_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132302_Ancient_Foglet_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132302_Ancient_Foglet_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132302_Ancient_Foglet_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -416,7 +416,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Ugly – nature's way of saying \"stay away.\"",
-    "info": "Deploy: Summon all copies of this Unit.",
+    "info": "Deploy: Play all Arachasae from your Deck.",
     "key": "arachas",
     "loyalty": [
       "Loyal"
@@ -430,8 +430,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132304_Arachas_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132304_Arachas_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132304_Arachas_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132304_Arachas_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -452,7 +452,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Like a cross between a crab, a spider… and a mountain.",
-    "info": "Armor 2 Whenever an Ally Consumes a card, Spawn an Arachas. Effort: Damage self by 1 (ignoring Armor).",
+    "info": "Whenever an Ally Consumes a card, Spawn an Arachas and Damage self by 1 (ignoring Armor). Deploy: Gain 2 Armor.",
     "key": "arachas_behemoth",
     "loyalty": [
       "Loyal"
@@ -461,13 +461,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132201_Arachas_Behemoth_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132201_Arachas_Behemoth_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132201_Arachas_Behemoth_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132201_Arachas_Behemoth_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -498,8 +498,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200023_Arachas_Venom_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200023_Arachas_Venom_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200023_Arachas_Venom_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200023_Arachas_Venom_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -520,7 +520,7 @@
     ],
     "faction": "Monsters",
     "flavor": "It's a griffin, just more... griffiny.",
-    "info": "Deploy: Remove Weather from the row.",
+    "info": "Deploy: Clear Weather from the row on your side.",
     "key": "archgriffin",
     "loyalty": [
       "Loyal"
@@ -536,8 +536,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132307_Archgriffin_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132307_Archgriffin_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132307_Archgriffin_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132307_Archgriffin_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -567,13 +567,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 3,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200033_Aretuza_Adept_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200033_Aretuza_Adept_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200033_Aretuza_Adept_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200033_Aretuza_Adept_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -604,8 +604,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/163101_Assassination_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/163101_Assassination_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/163101_Assassination_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/163101_Assassination_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -626,7 +626,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Nilfgaardian mages do have a choice: servile submission, or the gallows.",
-    "info": "Deploy: Shuffle up to 2 cards from your Graveyard into your Deck.",
+    "info": "Deploy: Shuffle up to 2 cards from either Graveyard into that player’s Deck.",
     "key": "assire_var_anahid",
     "loyalty": [
       "Loyal"
@@ -640,8 +640,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162202_Assire_var_Anahid_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162202_Assire_var_Anahid_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162202_Assire_var_Anahid_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162202_Assire_var_Anahid_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -662,7 +662,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Letho's got a plan... what could go wrong?",
-    "info": "Deploy: Toggle 2 Units’ Lock. if Enemies, also Damage them by 1.",
+    "info": "Deploy: Toggle 2 Units’ Lock. If Enemies, Damage them by 1 as well.",
     "key": "auckes",
     "loyalty": [
       "Loyal"
@@ -676,8 +676,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162208_Auckes_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162208_Auckes_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162208_Auckes_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162208_Auckes_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -698,7 +698,7 @@
     ],
     "faction": "Neutral",
     "flavor": "You humans have… unusual tastes.",
-    "info": "Deploy, Clash: Both players Draw 2 cards (including Golds).",
+    "info": "Deploy: If neither player has passed, both players draw the top 2 cards from their Deck.",
     "key": "avallach",
     "loyalty": [
       "Loyal"
@@ -714,8 +714,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132105_Avallach_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132105_Avallach_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132105_Avallach_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132105_Avallach_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -736,7 +736,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "What crossbows want to be when they grow up.",
-    "info": "Deploy: Pick an Enemy and Damage it and all Enemies with the same Power by 1 (ignoring Armor). Fresh Crew: Repeat the Deploy ability.",
+    "info": "Deploy: Damage an Enemy and all Enemies with the same Power by 1 (ignoring Armor). Fresh Crew: Repeat the Deploy ability.",
     "key": "ballista",
     "loyalty": [
       "Loyal"
@@ -752,8 +752,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122301_Ballista_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122301_Ballista_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122301_Ballista_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122301_Ballista_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -774,7 +774,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Our mead smells rotten to ye, do it? Easy to fix – I'll break yer nose!",
-    "info": "Deploy: Play a random Dwarf from your Deck (including Golds) and Boost it by 3.",
+    "info": "Deploy: Play a random Bronze or Silver Dwarf from your Deck and Boost it by 3.",
     "key": "barclay_els",
     "loyalty": [
       "Loyal"
@@ -788,8 +788,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142207_Barclay_Els_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142207_Barclay_Els_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142207_Barclay_Els_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142207_Barclay_Els_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -810,7 +810,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Gaze long into the abyss, and the abyss will gaze back into you.",
-    "info": "Swap the Power of the Highest and Lowest Unit on the Board.",
+    "info": "Swap the Power of the Highest and Lowest Unit.",
     "key": "bekkers_twisted_mirror",
     "name": "Bekker’s Twisted Mirror",
     "positions": [
@@ -820,8 +820,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/113315_Bekkers_Twisted_Mirror__art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/113315_Bekkers_Twisted_Mirror__art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/113315_Bekkers_Twisted_Mirror__art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/113315_Bekkers_Twisted_Mirror__art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -852,13 +852,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152302_Berserker_Skirmisher_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152302_Berserker_Skirmisher_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152302_Berserker_Skirmisher_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152302_Berserker_Skirmisher_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -876,7 +876,7 @@
   {
     "faction": "Skellige",
     "flavor": "Skellige must have a strong king. No matter what it takes.",
-    "info": "Deploy: Move a Unit from your opponent’s Graveyard to yours. Turn Start: Damage self by 1 and adjacent Units by 2.",
+    "info": "Deploy: Move a Unit from your opponent’s Graveyard to yours. Every turn, at the start of your turn, Damage self by 1 and Units adjacent to this Unit by 2.",
     "key": "birna_bran",
     "loyalty": [
       "Disloyal"
@@ -892,8 +892,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152105_Birna_Bran_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152105_Birna_Bran_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152105_Birna_Bran_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152105_Birna_Bran_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -915,7 +915,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Best thing about frost? Bodies of the fallen don't rot so quickly.",
-    "info": "Apply Frost to a row. Frost: Turn Start: Damage Units on the row by 1.",
+    "info": "Apply Frost to a row on your opponent’s side. Frost: Every turn, at the start of your turn, Damage all Units on the row by 1.",
     "key": "biting_frost",
     "name": "Biting Frost",
     "positions": [
@@ -925,8 +925,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/113302_Frost_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/113302_Frost_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/113302_Frost_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/113302_Frost_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -958,8 +958,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162305_Black_Infantry_Arbalists_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162305_Black_Infantry_Arbalists_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162305_Black_Infantry_Arbalists_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162305_Black_Infantry_Arbalists_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -989,8 +989,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200021_Svarlblood_Ritual_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200021_Svarlblood_Ritual_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200021_Svarlblood_Ritual_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200021_Svarlblood_Ritual_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1008,7 +1008,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "I've not been a good father, I know, but… perhaps it's not too late.",
-    "info": "Round End: If this unit is in your Deck, move it to the top. While in your Deck during a Round, Boost self by 1 whenever an Enemy is Destroyed.",
+    "info": "If this Unit is in your Deck at the end of the Round, place it on top. Whenever an Enemy is Destroyed during a Round while this Unit is in your Deck, Boost it by 1.",
     "key": "bloody_baron",
     "loyalty": [
       "Loyal"
@@ -1019,13 +1019,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122101_Bloody_Baron_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122101_Bloody_Baron_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122101_Bloody_Baron_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122101_Bloody_Baron_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1046,7 +1046,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "By the time we'd heard them, it was already too late…",
-    "info": "Whenever this Unit is moved, Boost it by 2. Deploy: Summon all other copies of this Unit to its row.",
+    "info": "Whenever this Unit is moved, Boost it by 2. Deploy: Play all Blue Mountain Commandos from your Deck.",
     "key": "blue_mountain_commando",
     "loyalty": [
       "Loyal"
@@ -1057,13 +1057,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 2,
+    "strength": 3,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142316_Blue_Mountain_Commando_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142316_Blue_Mountain_Commando_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142316_Blue_Mountain_Commando_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142316_Blue_Mountain_Commando_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1084,7 +1084,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "I'd do anything for Temeria. Mostly though, I kill for her.",
-    "info": "Summon this Unit (only 1 copy) whenever a different Ally with the same power is played and place it on that Unit’s row. Trio: Create 1 base copy of a Blue Stripes Command on the bottom of your Deck.",
+    "info": "Whenever a different Ally with the same Power as this Unit is played, play this Unit from your Deck (1 copy max) and place it on that Ally’s row. Whenever you complete a Blue Stripes Commando Trio, create 1 base copy of a Blue Stripes Commando on the bottom of your Deck.",
     "key": "blue_stripes_commando",
     "loyalty": [
       "Loyal"
@@ -1100,8 +1100,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122311_Blue_Stripes_Commando_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122311_Blue_Stripes_Commando_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2016/06/122311_Blue_Stripes_Commando_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2016/06/122311_Blue_Stripes_Commando_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1122,7 +1122,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Blue Stripes and Scoia'tael are similar in one regard – hatred fuels both.",
-    "info": "Armor 2. Deploy: Clear Weather from the row.",
+    "info": "Deploy: Gain 2 Armor. Deploy: Clear weather from the row on your side. Crewmen 1.",
     "key": "blue_stripes_scout",
     "loyalty": [
       "Loyal"
@@ -1138,8 +1138,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122310_Blue_Stripes_Scout_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122310_Blue_Stripes_Scout_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122310_Blue_Stripes_Scout_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122310_Blue_Stripes_Scout_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1157,7 +1157,7 @@
   {
     "faction": "Skellige",
     "flavor": "I'm near ready to puke from boredom.",
-    "info": "Veteran: Strength self by 1. Deploy: Spawn a Spectral Whale on your opponent’s side.",
+    "info": "Veteran: 1. Deploy: Spawn a Spectral Whale on your opponent’s side.",
     "key": "blueboy_lugos",
     "loyalty": [
       "Loyal"
@@ -1171,8 +1171,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152201_Blueboy_Lugos_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152201_Blueboy_Lugos_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152201_Blueboy_Lugos_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152201_Blueboy_Lugos_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1193,7 +1193,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Admit your mistakes and bury them proper - else they'll come back to haunt you.",
-    "info": "Deploy: Boost all Lubberkins in your Hand, Deck and Graveyard by 5. Deathwish: Summon a Lubberkin.",
+    "info": "Deploy: Boost all Lubberkins in your Hand, Deck and Graveyard by 5. Deathwish: Play a Lubberkin from your Deck.",
     "key": "botchling",
     "loyalty": [
       "Loyal"
@@ -1207,8 +1207,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122401_Botchling_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122401_Botchling_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122401_Botchling_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122401_Botchling_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1243,8 +1243,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142209_Braenn_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142209_Braenn_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142209_Braenn_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142209_Braenn_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1270,8 +1270,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200167_Brouver_Hoog_Leader_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200167_Brouver_Hoog_Leader_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200167_Brouver_Hoog_Leader_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200167_Brouver_Hoog_Leader_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1289,11 +1289,12 @@
   {
     "categories": [
       "Doomed",
-      "Relentless"
+      "Relentless",
+      "Stubborn"
     ],
     "faction": "Nilfgaard",
     "flavor": "His eyes flashed under his winged helmet. Fire gleamed from his sword's blade.",
-    "info": "Deploy: If Nilfgaard, trigger your Leader’s Deploy ability.",
+    "info": "Deploy: If playing as Nilfgaard, trigger your Leader’s Deploy ability.",
     "key": "cahir",
     "loyalty": [
       "Loyal"
@@ -1304,13 +1305,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 5,
+    "strength": 4,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162104_Cahir_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162104_Cahir_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162104_Cahir_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162104_Cahir_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1331,7 +1332,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Men require constant alluring. Mystique and refinement do the job quite well.",
-    "info": "Deploy: Draw a card (including Golds). Keep it, or place it at the bottom of your Deck and Draw another.",
+    "info": "Deploy: Draw the top card from your Deck. Keep it, or place it at the bottom of your Deck and draw the new top card.",
     "key": "cantarella",
     "loyalty": [
       "Disloyal"
@@ -1347,8 +1348,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162210_Cantarella_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162210_Cantarella_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162210_Cantarella_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162210_Cantarella_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1386,8 +1387,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132104_Caranthir_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132104_Caranthir_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132104_Caranthir_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132104_Caranthir_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1424,8 +1425,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132106_Caretaker_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132106_Caretaker_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132106_Caretaker_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132106_Caretaker_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1457,8 +1458,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162213_Ceallach_aep_Gruffyd_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162213_Ceallach_aep_Gruffyd_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162213_Ceallach_aep_Gruffyd_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162213_Ceallach_aep_Gruffyd_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1490,13 +1491,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 5,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132217_Celeano_Harpy_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132217_Celeano_Harpy_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132217_Celeano_Harpy_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132217_Celeano_Harpy_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1514,7 +1515,7 @@
   {
     "faction": "Skellige",
     "flavor": "They call me Sparrowhawk. Know why? Because I eat rats like you for breakfast.",
-    "info": "Counter 4: Decrease whenever a unit is Resurrected on your side. At Counter 0, Resurrect this Unit.",
+    "info": "After 4 Units are Resurrected on your side while this Unit is in the Graveyard, Resurrect it.",
     "key": "cerys",
     "loyalty": [
       "Loyal"
@@ -1530,8 +1531,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200177_Cerys_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200177_Cerys_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200177_Cerys_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200177_Cerys_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1552,7 +1553,7 @@
     ],
     "faction": "Skellige",
     "flavor": "He'll not reveal his name till he's defeated. He's a troll errant, see?",
-    "info": "Turn Start: Strengthen this Unit by 2 if it is the only Unit on the row.",
+    "info": "Every turn, at the start of your turn, Strengthen this Unit by 2 if it is the only Unit on the row.",
     "key": "champion_of_champions",
     "loyalty": [
       "Loyal"
@@ -1568,8 +1569,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152202_Champion_of_Champions_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152202_Champion_of_Champions_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152202_Champion_of_Champions_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152202_Champion_of_Champions_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1606,8 +1607,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/112405_Chort_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/112405_Chort_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/112405_Chort_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/112405_Chort_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1628,7 +1629,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "The path to freedom is paved in blood, not ink.",
-    "info": "Deploy: Move a Unit to this row on its side and toggle its Lock.",
+    "info": "Deploy: Toggle a Unit’s Lock and move it to this row on its side.",
     "key": "ciaran",
     "loyalty": [
       "Loyal"
@@ -1644,8 +1645,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142206_Ciaran_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142206_Ciaran_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142206_Ciaran_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142206_Ciaran_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1663,7 +1664,7 @@
   {
     "faction": "Neutral",
     "flavor": "I go wherever I please, whenever I please.",
-    "info": "Round End, Brave: If this Unit is on the Board, return it to your Hand.",
+    "info": "At the end of the Round, return this Unit to your Hand if you lost.",
     "key": "ciri",
     "loyalty": [
       "Loyal"
@@ -1674,13 +1675,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 7,
+    "strength": 5,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/112101_Ciri_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/112101_Ciri_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/112101_Ciri_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/112101_Ciri_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1732,7 +1733,7 @@
   },
   {
     "faction": "Skellige",
-    "info": "Veteran: Strengthen self by 1. Deploy: Boost 3 Damaged Units to the left by half their Power (rounding up). Effort: Weaken self by 2.",
+    "info": "Veteran: 1. Deploy: Boost 3 Damaged Units to the left by half their Power (rounding up). For every Unit affected, Weaken self by 1.",
     "key": "clan_an_craite_warcrier",
     "loyalty": [
       "Loyal"
@@ -1767,7 +1768,7 @@
   {
     "faction": "Skellige",
     "flavor": "Our clan's bards will sing of my deeds long after you're dead and forgotten!",
-    "info": "Veteran: Strengthen self by 1. Deploy: Damage self by 1.",
+    "info": "Veteran: 1. Deploy: Damage self by 1.",
     "key": "clan_an_craite_warrior",
     "loyalty": [
       "Loyal"
@@ -1776,13 +1777,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 8,
+    "strength": 9,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152303_An_Craite_Warrior_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152303_An_Craite_Warrior_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152303_An_Craite_Warrior_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152303_An_Craite_Warrior_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1800,7 +1801,7 @@
   {
     "faction": "Skellige",
     "flavor": "So ye can hit a movin' target at two hundred paces? Me, too. In a storm.",
-    "info": "Veteran: Strengthen self by 1. Deploy: Damage 3 Units by 1.",
+    "info": "Veteran: 1. Deploy: Damage 3 Units by 1.",
     "key": "clan_brokvar_archer",
     "loyalty": [
       "Loyal"
@@ -1833,7 +1834,7 @@
   {
     "faction": "Skellige",
     "flavor": "Better believe we can hunt. Thing is, not much game on Undvik…",
-    "info": "Veteran: Strengthen self by 1. Strengthen self by 1 whenever an adjacent Unit is Damaged. Deploy: Damage a Unit by 3.",
+    "info": "Whenever a Unit adjacent to this Unit is Damaged, Strengthen self by 1. Deploy: Damage a Unit by 3.",
     "key": "clan_brokvar_hunter",
     "loyalty": [
       "Loyal"
@@ -1868,7 +1869,7 @@
   {
     "faction": "Skellige",
     "flavor": "Can see the fear in their eyes. Fear o' me… fear o' Clan Dimun!",
-    "info": "Veteran: Strengthen self by 1. Deploy: Discard all copies of this Unit from your Deck.",
+    "info": "Veteran: 1. Deploy: Discard all copies of this Unit from your Deck.",
     "key": "clan_dimun_pirate",
     "loyalty": [
       "Loyal"
@@ -1903,7 +1904,7 @@
   {
     "faction": "Skellige",
     "flavor": "Haul together, hoist the colors high!",
-    "info": "Veteran: Strengthen self by 1. Boost this Unit by 1, wherever it is, whenever you Discard a unit.",
+    "info": "Veteran: 1. Whenever you Discard a Unit, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
     "key": "clan_dimun_pirate_captain",
     "loyalty": [
       "Loyal"
@@ -1914,13 +1915,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152306_Dimun_Pirate_Captain_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152306_Dimun_Pirate_Captain_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152306_Dimun_Pirate_Captain_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152306_Dimun_Pirate_Captain_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -1938,7 +1939,7 @@
   {
     "faction": "Skellige",
     "flavor": "They'll shatter on our shields like waves on a craggy shore.",
-    "info": "Veteran: Strengthen self by 1. Deploy: Damage a Unit by 2. if it was already Damaged, Summon another Clan Drummond Shieldmaiden.",
+    "info": "Veteran: 1. Deploy: Damage a Unit by 2. If it was already Damaged, play a Clan Drummond Shieldmaiden from your Deck.",
     "key": "clan_drummond_shieldmaiden",
     "loyalty": [
       "Loyal"
@@ -1971,7 +1972,7 @@
   {
     "faction": "Skellige",
     "flavor": "The deeds of Clan Heymaey will go down in history.",
-    "info": "Veteran: Strengthen self by 1. Deploy: Boost 3 Units to the left by 3, 2, and 1 respectively.",
+    "info": "Veteran: 1. Deploy: Boost 3 Units to the left by 3, 2, and 1 respectively.",
     "key": "clan_heymaey_skald",
     "loyalty": [
       "Loyal"
@@ -2006,7 +2007,7 @@
   {
     "faction": "Skellige",
     "flavor": "Ye're in for a poundin'.",
-    "info": "Veteran: Strengthen self by 1. Deploy: Heal 3 units to the left.",
+    "info": "Veteran: 1. Deploy: Heal 3 units to the left.",
     "key": "clan_tordarroch_armorsmith",
     "loyalty": [
       "Loyal"
@@ -2041,7 +2042,7 @@
   {
     "faction": "Skellige",
     "flavor": "Remember me words – a good shield can save yer life.",
-    "info": "Veteran: Strengthen self by 1. Deploy: Strengthen a unit by 2.",
+    "info": "Veteran 1. Deploy: Strengthen an Ally by 2.",
     "key": "clan_tordarroch_shieldsmith",
     "loyalty": [
       "Loyal"
@@ -2074,7 +2075,7 @@
   {
     "faction": "Skellige",
     "flavor": "Swords are for wenches. Get yourself an axe.",
-    "info": "Armor 2 Veteran: Strengthen self by 1. Boost self by 1 whenever an Enemy is Damaged.",
+    "info": "Veteran 1. Whenever an Enemy is Damaged, Boost self by 1. Deploy: Gain 2 Armor.",
     "key": "clan_tuirseach_axeman",
     "loyalty": [
       "Loyal"
@@ -2109,7 +2110,7 @@
   {
     "faction": "Skellige",
     "flavor": "Friends we show heart, foes we show our axe. Remember that.",
-    "info": "Veteran: Strengthen self by 1. Strengthen self by 3 whenever it enters the Graveyard.",
+    "info": "Veteran: 1. Whenever this Unit enters the Graveyard, Strengthen it by 3.",
     "key": "clan_tuirseach_skirmishers",
     "loyalty": [
       "Loyal"
@@ -2142,7 +2143,7 @@
   {
     "faction": "Skellige",
     "flavor": "We are an Craite! What others buy with gold, we buy with our lifeblood.",
-    "info": "Veteran: Strengthen by 1. Resurrect this Unit whenever it is Discarded.",
+    "info": "Veteran: 1. Whenever this Unit is Discarded, Resurrect it immediately.",
     "key": "clan_an_craite_raider",
     "loyalty": [
       "Loyal"
@@ -2279,7 +2280,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Many nonhumans, fed up with the racism and xenophobia they encounter in the cities, decide to join the Scoia'tael.",
-    "info": "Armor 2 Damage a random Enemy by 2 whenever you Mulligan a card.",
+    "info": "Whenever you Mulligan a card, Damage a random Enemy by 2.",
     "key": "commando_neophyte",
     "loyalty": [
       "Loyal"
@@ -2288,13 +2289,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142401_Scoiatael_Neophyte_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142401_Scoiatael_Neophyte_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142401_Scoiatael_Neophyte_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142401_Scoiatael_Neophyte_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2350,7 +2351,7 @@
   {
     "faction": "Skellige",
     "flavor": "Nilfgaardians call 'im Tirth ys Muire, the Wild Boar o' the Sea. Use 'im to scare their kiddies!",
-    "info": "Spawn: Crach an Criate Deploy: Play the Highest Loyal Unit in your Deck, Strengthen it by 3, then Damage it by 1.",
+    "info": "Spawn: Crach an Criate Deploy: Play the Highest Loyal Bronze or Silver Unit in your Deck, Strengthen it by 3 and Damage it by 1.",
     "key": "crach_an_craite",
     "name": "Crach An Craite",
     "strength": 4,
@@ -2377,7 +2378,7 @@
   {
     "faction": "Monsters",
     "flavor": "We'll cut you up, boy. A fine broth you will make.",
-    "info": "Deploy: Summon Whispess & Weavess.",
+    "info": "Deploy: Play Whispess and Weavess from your Deck.",
     "key": "crone_brewess",
     "loyalty": [
       "Loyal"
@@ -2410,7 +2411,7 @@
   {
     "faction": "Monsters",
     "flavor": "I sense your pain. I see your fear.",
-    "info": "Deploy: Summon Brewess & Whispess.",
+    "info": "Deploy: Play Brewess and Whispess from your Deck.",
     "key": "crone_weavess",
     "loyalty": [
       "Loyal"
@@ -2443,7 +2444,7 @@
   {
     "faction": "Monsters",
     "flavor": "I'd be your best – and last.",
-    "info": "Deploy: Summon Brewess & Weavess.",
+    "info": "Deploy: Play Brewess and Weavess from your Deck.",
     "key": "crone_whispess",
     "loyalty": [
       "Loyal"
@@ -2479,7 +2480,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Cynthia's talents can be deadly. She needs a tight leash.",
-    "info": "Deploy: Reveal the Highest unit (including Golds) in your opponent’s Hand and Boost self by the Revealed Unit’s Power.",
+    "info": "Deploy: Reveal 1 of the Highest Units in your opponent’s Hand (including Golds) and Boost self by its Power.",
     "key": "cynthia",
     "loyalty": [
       "Loyal"
@@ -2545,7 +2546,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Learned a lot at Braibant Military Academy, How to scrub potatoes, for instance.",
-    "info": "When this Unit is Revealed, play it and Draw a card.",
+    "info": "When this Unit is Revealed, play it and draw the top card from your Deck.",
     "key": "daerlan_foot_soldiers",
     "loyalty": [
       "Loyal"
@@ -2581,13 +2582,13 @@
     "info": "Spawn: Dagon. Deploy: Spawn Biting Frost, Impenetrable Fog or Torrential Rain.",
     "key": "dagon",
     "name": "Dagon",
-    "strength": 7,
+    "strength": 6,
     "type": "Leader",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200158_Dagon_Leader_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200158_Dagon_Leader_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200158_Dagon_Leader_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200158_Dagon_Leader_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2605,7 +2606,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Dandelion, you're a cynic, a lecher, a liar – and my best friend.",
-    "info": "Deploy: Boost up to 3 Units in your Deck by 3.",
+    "info": "Deploy: Boost up to 3 Bronze or Silver Units in your Deck by 3.",
     "key": "dandelion",
     "loyalty": [
       "Loyal"
@@ -2643,7 +2644,7 @@
     ],
     "faction": "Neutral",
     "flavor": "When you run out of peasants, decoys also make decent arrow fodder.",
-    "info": "Return an Ally to your Hand, Strengthen it by 3, then play it.",
+    "info": "Return an Ally to your Hand, Strengthen it by 3 and play it.",
     "key": "decoy",
     "name": "Decoy",
     "positions": [
@@ -2675,7 +2676,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I know how to execute orders, so take your advice somewhere else.",
-    "info": "Deploy: Strengthen all other Dwarves in your Deck, Hand and on your side of the Board by 1.",
+    "info": "Deploy: Strengthen all other Bronze and Silver Dwarves in your Deck, Hand and on your side of the Board by 1.",
     "key": "dennis_cranmer",
     "loyalty": [
       "Loyal"
@@ -2711,7 +2712,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "I once made a prisoner vomit his own entrails... Ah, good times...",
-    "info": "Deploy: Spawn Torrential Rain, Alzur’s Thunder or Clear Skies.",
+    "info": "Deploy: Spawn Torrential Rain, Clear Skies or Alzur’s Thunder.",
     "key": "dethmold",
     "loyalty": [
       "Loyal"
@@ -2744,7 +2745,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Really believe you can dupe me with that tale you just pulled from your arse?",
-    "info": "Deploy: Play the top 2 cards (including Golds) from your Deck.",
+    "info": "Deploy: Play the top 2 cards in your Deck.",
     "key": "dijkstra",
     "loyalty": [
       "Disloyal"
@@ -2755,13 +2756,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 3,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122105_Dijkstra_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122105_Dijkstra_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122105_Dijkstra_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122105_Dijkstra_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -2782,7 +2783,7 @@
     ],
     "faction": "Neutral",
     "flavor": "An important part of every Witch Hunter's kit. In one muted flash, it turns the most powerful sorcerer into pork jelly ripe for cutting.",
-    "info": "Demote and Reset 3 adjacent Units.",
+    "info": "Choose 3 adjacent Units (can be Golds) and Reset them. If any are Gold, Demote them first.",
     "key": "dimeritium_bomb",
     "name": "Dimeritium Bomb",
     "positions": [
@@ -2814,7 +2815,7 @@
     ],
     "faction": "Neutral",
     "flavor": "The mage's arms were twisted and bound behind his back. The Redanians gave the fetters a good shake. Terranova cried out, lurched, bent backwards, bowed forward, then retched and groaned. It was clear of what his manacles were made.",
-    "info": "Toggle a Unit’s Lock. If it is Gold, Demote it.",
+    "info": "Choose a Unit (can be Gold) and toggle its Lock. If it is Gold, Demote it first.",
     "key": "dimeritium_shackles",
     "name": "Dimeritium Shackles",
     "positions": [
@@ -2843,7 +2844,7 @@
   {
     "faction": "Skellige",
     "flavor": "When a warrant says \"dead or alive,\" most bounty hunters'll just kill you. Not me. Should I catch you, you'll hang, and I'll tickle your feet as you expire.",
-    "info": "Veteran: Strengthen self by 1. Deploy: Damage 3 Allies by 1. Effort: Strengthen self by 1.",
+    "info": "Veteran 1. Deploy: Damage 3 Allies by 1 and Strengthen self by 1 for each.",
     "key": "djenge_frett",
     "loyalty": [
       "Loyal"
@@ -2953,7 +2954,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "As long as we stand, no human foot shall trample Dol Blathanna's meadows.",
-    "info": "Whenever you play a Special card, Boost self by 1 wherever this unit is.",
+    "info": "Whenever you play a Special card, Boost this Unit by 1 while in your Hand, Deck or on your side of the Board.",
     "key": "dol_blathanna_protector",
     "loyalty": [
       "Loyal"
@@ -2964,13 +2965,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 2,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200039_Dol_Blathanna_Protector_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200039_Dol_Blathanna_Protector_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200039_Dol_Blathanna_Protector_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200039_Dol_Blathanna_Protector_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3000,13 +3001,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 4,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142304_Dol_Blathanna_Trapper_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142304_Dol_Blathanna_Trapper_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142304_Dol_Blathanna_Trapper_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142304_Dol_Blathanna_Trapper_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3030,13 +3031,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152204_Donar_an_Hindar_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152204_Donar_an_Hindar_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152204_Donar_an_Hindar_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152204_Donar_an_Hindar_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3054,7 +3055,7 @@
   {
     "faction": "Skellige",
     "flavor": "Hear ye now the tale of the heroic deeds of Clan an Craite.",
-    "info": "Deploy: Strengthen 2 Units in your Graveyard by 3.",
+    "info": "Deploy: Strengthen up to 2 Units in your Graveyard by 3.",
     "key": "draig_bon-dhu",
     "loyalty": [
       "Loyal"
@@ -3090,7 +3091,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Some men cannot admit defeat. Some keep fighting from beyond the grave.",
-    "info": "Deploy: Damage a random Enemy by 1. Repeat 6 times.",
+    "info": "Deploy: Damage a random Enemy by 1 (ignoring Armor). Repeat 6 times.",
     "key": "draug",
     "loyalty": [
       "Loyal"
@@ -3128,7 +3129,7 @@
       "Weather"
     ],
     "faction": "Neutral",
-    "info": "Apply Drought to all rows on your opponent’s side. Drought: Turn Start: Damage the Lowest Unit on the row by 3.",
+    "info": "Apply Drought to all rows on your opponent’s side. Drought: Every turn, at the start of your turn, Damage 1 of the Lowest Units on the row by 2.",
     "key": "drought",
     "name": "Drought",
     "positions": [
@@ -3242,13 +3243,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 2,
+    "strength": 3,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122314_Dun_Banner_Heavy_Cavalry_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122314_Dun_Banner_Heavy_Cavalry_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122314_Dun_Banner_Heavy_Cavalry_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122314_Dun_Banner_Heavy_Cavalry_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3266,7 +3267,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Stay calm, everyone. And be alert. The true owners of those cloaks and beaver-skin caps might be elsewhere.",
-    "info": "Turn Start: If you have not passed and are losing the Round by more than 20 Power, Summon this Unit.",
+    "info": "If at the start of your turn you have not passed and are losing the Round by more than 20 Power, play this Unit from your Deck.",
     "key": "dun_banner_light_cavalry",
     "loyalty": [
       "Loyal"
@@ -3302,7 +3303,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "The key's mixin' pleasure an' business – like smackin' foes and gettin' coin for it.",
-    "info": "Deploy: Move an Ally to this row and Boost it by 3.",
+    "info": "Deploy: Move a Unit on another row to this row on its side. If it’s an Ally, Boost it by 3.",
     "key": "dwarven_mercenary",
     "loyalty": [
       "Loyal"
@@ -3409,7 +3410,7 @@
   {
     "faction": "Scoia'tael",
     "flavor": "The dryad queen has eyes of molten silver, and a heart of cold–forged steel.",
-    "info": "Spawn: Eithne Deploy: Resurrect a Special card from your Graveyard.",
+    "info": "Spawn: Eithne Deploy: Resurrect a Special card.",
     "key": "eithne",
     "name": "Eithné",
     "strength": 5,
@@ -3439,7 +3440,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Who would think that overgrown bats would have a taste for gaudy jewelry?",
-    "info": "Resilient. Deploy: Consume an Ally.",
+    "info": "Deploy: Gain Resilience. Deploy: Consume an Ally.",
     "key": "ekimmara",
     "loyalty": [
       "Loyal"
@@ -3486,13 +3487,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 8,
+    "strength": 9,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142214_Eleyas_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142214_Eleyas_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142214_Eleyas_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142214_Eleyas_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3513,7 +3514,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I spit on Scoia'tael ideals, but not on their coin.",
-    "info": "If this Unit is Spying, move it to your side after you play an Ambush Unit. Deploy: Draw 2 Bronze Special cards. Play 1 and shuffle the other back.",
+    "info": "If this Unit is Spying, move it to your side after you play an Ambush Unit. Deploy: Draw the top 2 Bronze Special cards in your Deck. Play 1 and shuffle the other back.",
     "key": "elven_mercenary",
     "loyalty": [
       "Disloyal"
@@ -3551,7 +3552,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "You mean to say the she–elf danced amidst the fray? Have you lost your mind, corporal?!",
-    "info": "Summon this unit immediately after it is Mulliganed.",
+    "info": "Whenever you Mulligan this Unit, play it from your Deck immediately.",
     "key": "elven_wardancer",
     "loyalty": [
       "Loyal"
@@ -3584,16 +3585,16 @@
   {
     "faction": "Nilfgaard",
     "flavor": "They do not call me the Patient. Take care they do not call you the Headless.",
-    "info": "Spawn: Emhyr var Emreis Deploy: Return an Ally to your Hand, then play a card from your Hand.",
+    "info": "Spawn: Emhyr var Emreis Deploy: Return an Ally to your Hand, then play a card from your Hand (can be Gold).",
     "key": "emhyr_var_emreis",
     "name": "Emhyr Var Emreis",
-    "strength": 3,
+    "strength": 4,
     "type": "Leader",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200162_Emhyr_var_Emreis_Leader_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200162_Emhyr_var_Emreis_Leader_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200162_Emhyr_var_Emreis_Leader_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200162_Emhyr_var_Emreis_Leader_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -3611,7 +3612,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "But... but there's no justice in it! One does not kill the messenger!",
-    "info": "Deploy: Draw 2 Bronze Units (other than an Emissary). Play 1 and shuffle the other back.",
+    "info": "Deploy: Draw the top 2 Bronze Units (not including Emissaries) from your Deck. Play 1 and shuffle the other back.",
     "key": "emissary",
     "loyalty": [
       "Disloyal"
@@ -3649,7 +3650,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Epidemics respect no persons, no borders.",
-    "info": "Destroy the Lowest Unit(s).",
+    "info": "Destroy all the Lowest Units.",
     "key": "epidemic",
     "name": "Epidemic",
     "positions": [
@@ -3705,7 +3706,7 @@
   {
     "faction": "Skellige",
     "flavor": "Only the ignorant dismiss the importance of myths.",
-    "info": "Deploy: Draw 2 cards (including Golds) then Discard 2 cards from your Hand.",
+    "info": "Deploy: Draw the top 2 cards from your Deck, then Discard 2 cards (can be Golds) from your Hand.",
     "key": "ermion",
     "loyalty": [
       "Loyal"
@@ -3743,7 +3744,7 @@
     ],
     "faction": "Neutral",
     "flavor": "I'm a simple witcher, Wolf. Don't fight dragons, don't fraternize with kings and don't sleep with sorceresses…",
-    "info": "Deploy: Summon Vesemir & Lambert.",
+    "info": "Deploy: Play Vesemir and Lambert from your Deck.",
     "key": "eskel",
     "loyalty": [
       "Loyal"
@@ -3776,7 +3777,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "\"Here she comes,\" he thought, \"our imperial interest. A mock-princess, a mock-queen for Cintra. A mock-ruler for the mouth of the Yarra, future lifeblood of the empire.\"",
-    "info": "Turn Start: Boost self by 1 while Spying. When your opponent passes, move this Unit to the opposite side. Deploy: If not Spying, Strengthen self by 3.",
+    "info": "If this Unit is Spying at the start of your turn, Boost it by 1. If it is Spying when your opponent passes, move it on the opposite side. Deploy: When you play this Unit on your side, Strengthen it by 3.",
     "key": "fake_ciri",
     "loyalty": [
       "Disloyal",
@@ -3812,7 +3813,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Stitch red to red, white to white, and everything will be all right.",
-    "info": "Deploy: Shuffle a different Bronze Ally back into your Deck, then play a random Bronze Unit from your Deck.",
+    "info": "Deploy: Choose a different Bronze Ally and shuffle it back into your Deck, then play a random Bronze Unit from your Deck.",
     "key": "field_medic",
     "loyalty": [
       "Loyal"
@@ -3881,7 +3882,7 @@
   {
     "faction": "Monsters",
     "flavor": "Can't stand the heat? Then you don't stand a chance.",
-    "info": "Deploy: Spawn 3 Lesser Fire Elementals. Brave: Strengthen self by 2.",
+    "info": "Deploy: Spawn 3 Lesser Fire Elementals.",
     "key": "fire_elemental",
     "loyalty": [
       "Loyal"
@@ -3917,7 +3918,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Not the best for taking cities, but great for razing them to the ground.",
-    "info": "When Revealed: Damage a random Enemy by 3. Deploy: Damage an Enemy by 3.",
+    "info": "Whenever this Unit is Revealed, Damage a random Enemy by 3. Deploy: Damage an Enemy by 3.",
     "key": "fire_scorpion",
     "loyalty": [
       "Loyal"
@@ -3985,7 +3986,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims.",
-    "info": "Summon or Resurrect this unit whenever you apply Fog to an opposing row and place it on that row on your side. Destroy this Unit when there is no Fog on its row on your opponent’s side.",
+    "info": "Whenever you apply Fog to an opposing row, play this Unit from your Deck or Resurrect it on that row on your side. When all Fog has been cleared from the Board, Destroy this Unit.",
     "key": "foglet",
     "loyalty": [
       "Loyal"
@@ -4020,16 +4021,16 @@
   {
     "faction": "Northern Realms",
     "flavor": "Don't need advisors and their schemes. I place my trust in my soldiers' blades.",
-    "info": "Spawn: Foltest Deploy: Boost all Units in your Hand and Deck by 1.",
+    "info": "Spawn: Foltest Deploy: Boost all Loyal Bronze and Silver Units in your Hand and Deck by 1.",
     "key": "foltest",
     "name": "Foltest",
-    "strength": 4,
+    "strength": 5,
     "type": "Leader",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200168_Foltest_Leader_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200168_Foltest_Leader_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200168_Foltest_Leader_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200168_Foltest_Leader_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4050,13 +4051,13 @@
     "info": "Spawn: Francesca Deploy: Mulligan up to 3 cards.",
     "key": "francesca",
     "name": "Francesca",
-    "strength": 4,
+    "strength": 6,
     "type": "Leader",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200165_Francesca_Leader_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200165_Francesca_Leader_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200165_Francesca_Leader_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200165_Francesca_Leader_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4078,7 +4079,7 @@
     ],
     "faction": "Monsters",
     "flavor": "”What have I done?” the mage cried out, frightened of his own creation.",
-    "info": "Deploy: Draw a card (including Golds). Move adjacent Units to a random row on the same side.",
+    "info": "Deploy: Move a Unit on another row on this side to this row. Draw the top card from your Deck.",
     "key": "frightener",
     "loyalty": [
       "Disloyal"
@@ -4115,7 +4116,7 @@
       "Mage"
     ],
     "faction": "Nilfgaard",
-    "info": "Deploy: If Spying, set own base Power to 2. Deploy: Set the Power of the Unit on the right to that of the Unit on the left.",
+    "info": "Deploy: If Spying, set own base Power to 1. Deploy: Set the Power of the Unit on the right to that of the Unit on the left.",
     "key": "fringilla_vigo",
     "loyalty": [
       "Disloyal",
@@ -4154,7 +4155,7 @@
     ],
     "faction": "Neutral",
     "flavor": "He always grants exactly what you wish for. That's the problem.",
-    "info": "Deploy: Gamble with the Man of Glass. Success: Play a card from your Deck (including Golds). Shuffle the others back. Failure: Your opponent Draws a card (including Golds). Tie: Both players Draw a card (including Golds).",
+    "info": "Deploy: Guess whether a random Bronze or Silver Unit from your opponent’s Deck is Higher or Lower than 5. Success: Play any card from your Deck. Shuffle the others back. Failure: Your opponent draws the top Bronze or Silver card from their Deck. Tie: Both players draw the top Bronze or Silver card from their Deck.",
     "key": "gaunter_odimm",
     "loyalty": [
       "Loyal"
@@ -4268,7 +4269,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A twist of a witcher's fingers can light a lamp… or incinerate a foe.",
-    "info": "Deploy: Destroy the Highest Unit(s) on the opposite row if that row totals 20 or more Power.",
+    "info": "Deploy: Destroy all the Highest Units on the opposite row if that row totals 20 or more Power.",
     "key": "geralt_igni",
     "loyalty": [
       "Loyal"
@@ -4306,7 +4307,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Paintings should convey emotion, not words.",
-    "info": "Deploy: Draw a Gold card and a Silver card. Play one and return the other to the top of your Deck.",
+    "info": "Deploy: Draw the top Gold card and top Silver card from your Deck. Play one and return the other to the top of your Deck.",
     "key": "geels",
     "loyalty": [
       "Loyal"
@@ -4380,7 +4381,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Big, bad, ugly. Squats in the sewers.",
-    "info": "Deploy: Consume a card from your Hand, then Draw a card (including Golds).",
+    "info": "Deploy: Consume a card from your Hand, then draw the top card from your Deck.",
     "key": "giant_toad",
     "loyalty": [
       "Loyal"
@@ -4418,7 +4419,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Their long tongues're for slurping marrow – and whipping prey.",
-    "info": "Timer 1, Turn Start: Consume all Units in your Graveyard, but only Boost this Unit by 1 for each.",
+    "info": "After 1 turn, at the start of your turn, Consume all Units in your Graveyard, but only Boost self by 1 for each.",
     "key": "grave_hag",
     "loyalty": [
       "Loyal"
@@ -4453,7 +4454,7 @@
   {
     "faction": "Skellige",
     "flavor": "An archdruid, a master of alchemy, and the grumpiest old fart in the Isles.",
-    "info": "Deploy: Spawn Impenetrable Fog, Bloodcurdling Roar or Clear Skies.",
+    "info": "Deploy: Spawn Impenetrable Fog, Clear Skies or Bloodcurdling Roar.",
     "key": "gremist",
     "loyalty": [
       "Loyal"
@@ -4489,7 +4490,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Griffins like to toy with their prey. Eat 'em alive, piece by piece.",
-    "info": "Deploy: Move a card from one Graveyard to the other. Brave: Strengthen self by 2.",
+    "info": "Deploy: Move a card from one Graveyard to the other.",
     "key": "griffin",
     "loyalty": [
       "Loyal"
@@ -4498,13 +4499,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 6,
+    "strength": 8,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132312_Griffin_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132312_Griffin_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132312_Griffin_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132312_Griffin_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -4548,12 +4549,11 @@
   },
   {
     "categories": [
-      "Beast",
-      "Harpy"
+      "Beast"
     ],
     "faction": "Monsters",
     "flavor": "There are many species of harpy, and all are kleptomaniacs.",
-    "info": "Deploy: Trigger the Deathwish of adjacent Units.",
+    "info": "Deploy: Trigger the Deathwish of Units adjacent to this Unit.",
     "key": "harpy",
     "loyalty": [
       "Loyal"
@@ -4698,7 +4698,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "King Henselt did not look like a thief, but, with all due respect, that's really what he was.",
-    "info": "Spawn: Henselt Deploy: Summon all copies of a Bronze Ally.",
+    "info": "Spawn: Henselt Deploy: Choose a Bronze Ally. Play all copies of it from your Deck.",
     "key": "henselt",
     "name": "Henselt",
     "strength": 2,
@@ -4725,7 +4725,7 @@
   {
     "faction": "Skellige",
     "flavor": "Instead of mournin' the fallen, let's drink to their memory!",
-    "info": "Deploy: Spawn Lord of Undvik on your opponent’s side. Whenever an Enemy Lord of Undvik is Destroyed, Boost self by 10.",
+    "info": "Deploy: Spawn Lord of Undvik on the leftmost side of the opposite row. Whenever an Enemy Lord of Undvik is Destroyed, Boost self by 10.",
     "key": "hjalmar",
     "loyalty": [
       "Loyal"
@@ -4760,7 +4760,7 @@
   {
     "faction": "Skellige",
     "flavor": "Now let's drink to Emperor of Nilfgaard – may he die of somethin' hideous!",
-    "info": "Veteran: Strengthen self by 1. Deploy: Damage a Unit by 5. If it was Destroyed, Strengthen the Highest Unit in your Graveyard by 3.",
+    "info": "Veteran: 1. Deploy: Damage a Unit by 5. If it was Destroyed, Strengthen 1 of the Highest Units in your Graveyard by 3.",
     "key": "holger_blackhand",
     "loyalty": [
       "Loyal"
@@ -4796,7 +4796,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed.",
-    "info": "Boost self by 5 if Frost is anywhere on the Board. Damage self by 5 when the last Frost is removed from the Board.",
+    "info": "If Frost is anywhere on the Board, Boost self by 5. When the last Frost is cleared, Damage self by 5.",
     "key": "ice_giant",
     "loyalty": [
       "Loyal"
@@ -4833,7 +4833,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I am a Sage. My power lies in possessing knowledge. Not sharing it.",
-    "info": "Deploy: Spawn Quen Sign, Impenetrable Fog or Clear Skies.",
+    "info": "Deploy: Spawn Impenetrable Fog, Clear Skies or Quen Sign.",
     "key": "ida_emean",
     "loyalty": [
       "Loyal"
@@ -4902,9 +4902,12 @@
     ]
   },
   {
+    "categories": [
+      "Special"
+    ],
     "faction": "Neutral",
     "flavor": "The witcher moved with unnatural speed. Too fast for the human eye to register.",
-    "info": "Boost 3 adjacent Units by 3 and add 3 Armor to them.",
+    "info": "Add 3 Armor to 3 adjacent Units and Boost them by 3.",
     "key": "immune_boost",
     "name": "Immune Boost",
     "positions": [
@@ -4937,7 +4940,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A good commander's dream… and a bad one's horror.",
-    "info": "Apply Fog to a row. Fog: Turn Start: Damage the Highest Unit(s) on the row by 2.",
+    "info": "Apply Fog to a row on your opponent’s side. Fog: Every turn, at the start of your turn, Damage all the Highest Units on the row by 2.",
     "key": "impenetrable_fog",
     "name": "Impenetrable Fog",
     "positions": [
@@ -4966,7 +4969,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "The Impera Brigade never surrenders. Ever.",
-    "info": "Boost self by 2 when you play a Spying Unit. Deploy: Boost self by 2 for each Spying Enemy.",
+    "info": "Whenever you play a Spying Unit (including Golds), Boost self by 2. Deploy: Boost self by 2 for each Spying Enemy (including Golds).",
     "key": "impera_brigade",
     "loyalty": [
       "Loyal"
@@ -4999,7 +5002,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Members of the emperor's fanatic body guard fight to the bitter end.",
-    "info": "Deploy: Look at the top Unit in your Deck. If it’s Bronze, gain 2 Armor. If it’s Silver, Boost self by 1. if it’s Gold, Promote self.",
+    "info": "Deploy: Look at the top Unit in your Deck. If it’s Bronze, gain 2 Armor. If it’s Silver, Boost self by 1. If it’s Gold, Promote self.",
     "key": "impera_enforcers",
     "loyalty": [
       "Loyal"
@@ -5035,7 +5038,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "The most powerful of Nilfgaard's mages have mastered the art of creating golems. On a few occassions, they've even managed to make them fight for the imperial cause...",
-    "info": "Orders: Summon this Unit.",
+    "info": "Orders: Play this Unit from your Deck.",
     "key": "imperial_golem",
     "loyalty": [
       "Loyal"
@@ -5044,13 +5047,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 2,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132407_Obedientl_Golem_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132407_Obedientl_Golem_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132407_Obedientl_Golem_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132407_Obedientl_Golem_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5144,7 +5147,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "It dawns on them once they notice my scar: a realization of imminent death.",
-    "info": "Play an Ambush card from your Deck.",
+    "info": "Play a Bronze or Silver Ambush card from your Deck.",
     "key": "isengrim",
     "loyalty": [
       "Loyal"
@@ -5194,13 +5197,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 2,
+    "strength": 4,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142107_Ithlinne_Aegli_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142107_Ithlinne_Aegli_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142107_Ithlinne_Aegli_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142107_Ithlinne_Aegli_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5218,7 +5221,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "To describe the manner in which Duke de Wett led the Verden Group as \"incompetent\" would be far too kind.",
-    "info": "Deploy: Play the top loyal Unit from your Deck and Boost it by 10.",
+    "info": "Deploy: Play the top Loyal Bronze or Silver Unit in your Deck and Boost it by 10.",
     "key": "joachim_de_wett",
     "loyalty": [
       "Disloyal"
@@ -5253,7 +5256,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "A sword is but one of many tools at a ruler's disposal.",
-    "info": "Spawn: John Calveit Deploy: Look at the top 3 cards in your Deck. Play 1 and place the others back.",
+    "info": "Spawn: John Calveit Deploy: Look at the top 3 cards in your Deck. Play 1. The others remain on top.",
     "key": "john_calveit",
     "name": "John Calveit",
     "strength": 4,
@@ -5280,7 +5283,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "That square should bear the names of my soldiers, of the dead. Not mine.",
-    "info": "Deploy: Force all Northern Realms Machine Allies to Damage a random Enemy by 2. Effort: Weaken self by 1 (to a minimum of 1 base Power).",
+    "info": "Deploy: Force all Northern Realms Machine Allies to Damage a random Enemy by 2.",
     "key": "john_natalis",
     "loyalty": [
       "Loyal"
@@ -5291,13 +5294,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 10,
+    "strength": 8,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122103_John_Natalis_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122103_John_Natalis_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122103_John_Natalis_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122103_John_Natalis_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5318,7 +5321,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Life without savoring the sound of \"surreptitious shananacking\" is like licking snails through a cloth.",
-    "info": "Deploy: Discard a card in your Hand (including Golds), then create in your Hand a card of the same color from your opponent’s Deck.",
+    "info": "Deploy: Discard a card in your Hand (can be Gold), then create a copy in your Hand of a card of the same color in your opponent’s Deck.",
     "key": "johnny",
     "loyalty": [
       "Loyal"
@@ -5327,13 +5330,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 7,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/112211_Johnny__art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/112211_Johnny__art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/112211_Johnny__art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/112211_Johnny__art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5354,7 +5357,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Skellige legend claims the mighty and terrible Jotunn, King of Giants, reigned over the isles in ancient times. He was slain by Hemdall, but with his dying breath he vowed to return for Ragh nar Roog.",
-    "info": "Deploy: Move 2 adjacent Enemies to this Unit’s row on your opponent’s side and Damage them by 2.",
+    "info": "Deploy: Move 3 adjacent Enemies to this Unit’s row on their side and Damage them by 2.",
     "key": "jotunn",
     "loyalty": [
       "Loyal"
@@ -5389,7 +5392,7 @@
   {
     "faction": "Skellige",
     "flavor": "Some call her the \"Iron Maiden.\"",
-    "info": "Veteran: Strengthen self by 1. Deploy: Damage self by 1.",
+    "info": "Veteran: 1. Deploy: Damage self by 1.",
     "key": "jutta_an_dimun",
     "loyalty": [
       "Loyal"
@@ -5398,13 +5401,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 11,
+    "strength": 12,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152208_Jutta_An_Dimun_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152208_Jutta_An_Dimun_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152208_Jutta_An_Dimun_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152208_Jutta_An_Dimun_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5422,7 +5425,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Forward, you sorry sods! Forward or you'll see the Nilfgaardians are the least of your worries!",
-    "info": "Deploy: Boost all Units with the same Power as this Unit by 1, wherever they are.",
+    "info": "Deploy: Boost by 1 this Unit and all Loyal Units with the same Power in your Hand, Deck or on your side of the Board. Crewmen 1.",
     "key": "kaedweni_sergeant",
     "loyalty": [
       "Loyal"
@@ -5528,7 +5531,7 @@
     ],
     "faction": "Skellige",
     "flavor": "When the time comes, the cockerel Kambi shall crow and awaken Hemdall.",
-    "info": "Timer 3, Turn Start: Spawn Hemdall.",
+    "info": "After 3 turns, at the start of your turn, Spawn Hemdall.",
     "key": "kambi",
     "loyalty": [
       "Disloyal"
@@ -5539,13 +5542,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 3,
+    "strength": 1,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152104_Kambi_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152104_Kambi_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152104_Kambi_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152104_Kambi_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5575,13 +5578,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 4,
+    "strength": 5,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132220_Katakan_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132220_Katakan_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132220_Katakan_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132220_Katakan_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5613,13 +5616,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 10,
+    "strength": 8,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132107_Kayran_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132107_Kayran_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132107_Kayran_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132107_Kayran_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5675,16 +5678,16 @@
   {
     "faction": "Skellige",
     "flavor": "No one can replace Bran. Though they're sure to try.",
-    "info": "Spawn: King Bran Deploy: Discard 3 cards from your Deck (including Golds) and Strengthen Units among them by 1.",
+    "info": "Spawn: King Bran Deploy: Discard up to 3 cards from your Deck and Strengthen all Units among them by 1. Then shuffle your deck.",
     "key": "king_bran",
     "name": "King Bran",
-    "strength": 3,
+    "strength": 4,
     "type": "Leader",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200159_King_Bran_Leader_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200159_King_Bran_Leader_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200159_King_Bran_Leader_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200159_King_Bran_Leader_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5700,6 +5703,9 @@
     ]
   },
   {
+    "categories": [
+      "Regressing"
+    ],
     "faction": "Neutral",
     "flavor": "I might just discover I look great without ears... or hands. Apparently the King of Beggars accepts both as partial payment.",
     "info": "Deploy, Brave: Strengthen self enough to tie the Round or to a maximum of 15 base Power.",
@@ -5770,7 +5776,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Now that's the kind of negotiating I understand.",
-    "info": "Deploy: Summon Eskel & Vesemir.",
+    "info": "Deploy: Play Eskel and Vesemir from your Deck.",
     "key": "lambert",
     "loyalty": [
       "Loyal"
@@ -5803,7 +5809,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "He would just sit there and stare at me, not saying a word. His eyes, they were... fish-like, somehow. No brows, no lashes... Just these balls of water, with a black stone sunk in each. He would devour me with those eyes in total silence. That frightened me more than the beatings.",
-    "info": "Deploy: Reveal a Unit in your Hand (including Golds) and Damage an Enemy by the Revealed Unit’s Power.",
+    "info": "Deploy: Reveal a Unit in your Hand (can be Gold) and Damage an Enemy by its Power.",
     "key": "leo_bonhart",
     "loyalty": [
       "Loyal"
@@ -5837,46 +5843,11 @@
   },
   {
     "categories": [
-      "Construct"
-    ],
-    "faction": "Nilfgaard",
-    "info": "No ability.",
-    "key": "lesser_guardian",
-    "loyalty": [
-      "Loyal"
-    ],
-    "name": "Lesser Guardian",
-    "positions": [
-      "Melee"
-    ],
-    "strength": 6,
-    "type": "Silver",
-    "variations": [
-      {
-        "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/02/nilfgaard-coming-soon.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/02/nilfgaard-coming-soon-500x627.png"
-        },
-        "availability": "BaseSet",
-        "craft": {
-          "normal": 200,
-          "premium": 800
-        },
-        "mill": {
-          "normal": 50,
-          "premium": 50
-        },
-        "rarity": "Epic"
-      }
-    ]
-  },
-  {
-    "categories": [
       "Witcher"
     ],
     "faction": "Nilfgaard",
     "flavor": "Witchers never die in their beds.",
-    "info": "Deploy: If Spying, set own base Power to 1. Deploy: Banish 2 adjacent Units on both sides and Strengthen this Unit by their Power.",
+    "info": "Deploy: If Spying, set own base Power to 1. Deploy: Banish 2 Units to each side of this Unit and Boost this Unit by their Power.",
     "key": "letho_of_gulet",
     "loyalty": [
       "Disloyal",
@@ -5888,13 +5859,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 5,
+    "strength": 7,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162101_Letho_of_Gulet__art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162101_Letho_of_Gulet__art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162101_Letho_of_Gulet__art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162101_Letho_of_Gulet__art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -5916,7 +5887,7 @@
     ],
     "faction": "Skellige",
     "flavor": "Escape them? In the waters of Skellige? Good luck.",
-    "info": "Turn Start: Damage the Unit to the right by 1, then Strengthen self by 2.",
+    "info": "Every turn, at the start of your turn, Damage the Unit to the right by 1, then Strengthen self by 2.",
     "key": "light_longship",
     "loyalty": [
       "Loyal"
@@ -5954,7 +5925,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "I name thee Dea and embrace thee as my daughter.",
-    "info": "Deploy: Boost all Botchlings in your Hand, Deck and Graveyard by 5. Deathwish: Summon a Botchling.",
+    "info": "Deploy: Boost all Botchlings in your Hand, Deck and Graveyard by 5. Deathwish: Play a Botchling from your Deck.",
     "key": "lubberkin",
     "loyalty": [
       "Loyal"
@@ -6025,7 +5996,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I'm telling ye, we're born fer battle – we slash straight at their knees!",
-    "info": "Resilient.",
+    "info": "Deploy: Gain Resilience.",
     "key": "mahakam_defender",
     "loyalty": [
       "Loyal"
@@ -6061,7 +6032,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Only one punishment for disturbin' the peace in Mahakam: a hammer to the heid.",
-    "info": "Deploy: Boost an Ally by 3. If it’s a Dwarf, Boost by 5 instead.",
+    "info": "Deploy: Boost an Ally by 3. If it’s a Dwarf, Boost by 4 instead.",
     "key": "mahakam_guard",
     "loyalty": [
       "Loyal"
@@ -6097,7 +6068,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I have you, dh'oine. You are all the same.",
-    "info": "Armor 3. Turn Start: Move a random Unit on another row on this side to this row.",
+    "info": "Every turn, at the start of your turn, move a random Unit on another row on this side to this row. Deploy: Gain 3 Armor.",
     "key": "malena",
     "loyalty": [
       "Disloyal",
@@ -6136,7 +6107,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "This model specializes in slinging corpses and ripe dung.",
-    "info": "Whenever a card is Revealed, deal 2 Damage to a random Enemy.",
+    "info": "Whenever a card is Revealed, Damage a random Enemy by 2.",
     "key": "mangonel",
     "loyalty": [
       "Loyal"
@@ -6145,13 +6116,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162317_Mangonel_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162317_Mangonel_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162317_Mangonel_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162317_Mangonel_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6240,7 +6211,7 @@
     ],
     "faction": "Neutral",
     "flavor": "We are but pawns in a game played by old men, sent to fight and die on their senile whims...",
-    "info": "Strengthen the Lowest Unit in your Deck by 2, then play it.",
+    "info": "Strengthen 1 of the Lowest Bronze or Silver Units in your Deck by 2 and play it.",
     "key": "marching_orders",
     "name": "Marching Orders",
     "positions": [
@@ -6272,7 +6243,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Eat enough of them, and the world will never be the same...",
-    "info": "Reset a Unit and Strengthen it by 3; or Reset a Unit and Weaken it by 3.",
+    "info": "Spawn Spores or Mutagen.",
     "key": "mardroeme",
     "name": "Mardroeme",
     "positions": [
@@ -6405,7 +6376,7 @@
   {
     "faction": "Scoia'tael",
     "flavor": "With each arrow I loose, I think of my da. He'd be proud. I think.",
-    "info": "Deploy, Clash: Return the Highest Enemy to your opponent’s Hand, then the Highest Ally to your Hand.",
+    "info": "Deploy: If neither player has passed, return the Highest Enemy to your opponent’s Hand, then return the Highest Ally to your Hand.",
     "key": "milva",
     "loyalty": [
       "Loyal"
@@ -6416,13 +6387,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 8,
+    "strength": 9,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142104_Milva_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142104_Milva_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142104_Milva_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142104_Milva_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6476,7 +6447,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Lady Eithné's daughter had inherited her sublime beauty and her wild hatred for all that is human.",
-    "info": "Ambush. Spring when a Unit appears on the opponent’s side and Damage it by 5.",
+    "info": "Ambush: When an Enemy appears, turn this Unit over and Damage that Enemy by 5.",
     "key": "morenn",
     "loyalty": [
       "Loyal"
@@ -6487,13 +6458,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142208_Morenn_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142208_Morenn_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142208_Morenn_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142208_Morenn_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6547,7 +6518,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "The summer sun reflected in the quiet waters of the Alba -- that's Nilfgaard to me.",
-    "info": "Spawn: Morvran Voorhis Deploy: Reveal up to 3 cards from either player’s Hand.",
+    "info": "Spawn: Morvran Voorhis Deploy: Reveal up to 3 cards from either player’s Hand (can be Golds).",
     "key": "morvran_voorhis",
     "name": "Morvran Voorhis",
     "strength": 6,
@@ -6613,7 +6584,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "You exact from the earth a blood ransom, ripping out its riches by force. To us it bloomed, bore fruit and gave freely, for it loved us as we loved it.",
-    "info": "Play a Special card from your Deck. Shuffle the others back.",
+    "info": "Play a Bronze or Silver Special card from your Deck. Shuffle the others back.",
     "key": "natures_gift",
     "name": "Nature’s Gift",
     "positions": [
@@ -6675,7 +6646,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "The Emperor will teach the North discipline.",
-    "info": "Deploy: Boost 1 Ally or Revealed Unit in your Hand by 3 and clear Weather from the row.",
+    "info": "Deploy: Clear Weather from the row on your side and Boost 1 Ally or Revealed Unit in your Hand by 3.",
     "key": "nauzicaa_standard_bearer",
     "loyalty": [
       "Loyal"
@@ -6713,7 +6684,7 @@
     ],
     "faction": "Neutral",
     "flavor": "We have ways of making you talk... alive or dead.",
-    "info": "Banish a Unit from either Graveyard and Boost your Highest Ally by its Power.",
+    "info": "Banish a Unit from either Graveyard and Boost an Ally by its Power.",
     "key": "necromancy",
     "name": "Necromancy",
     "positions": [
@@ -6745,7 +6716,7 @@
     ],
     "faction": "Monsters",
     "flavor": "These little guys are almost cute, if you ignore the whole vicious killer aspect.",
-    "info": "Boost self by 1 while in your Hand, Deck or on your side of the Board whenever an Ally Consumes a card. Deathwish: Summon a Nekker.",
+    "info": "Whenever an Ally Consumes a card while this Unit is in your Hand, Deck or on your side of the Board, Boost self by 1. Deathwish: Play a Nekker from your Deck.",
     "key": "nekker",
     "loyalty": [
       "Loyal"
@@ -6754,13 +6725,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 2,
+    "strength": 3,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132305_Nekker_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132305_Nekker_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132305_Nekker_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132305_Nekker_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6778,7 +6749,7 @@
   {
     "faction": "Monsters",
     "flavor": "Take heed, gents, there's nekkers under this here bridge.",
-    "info": "Deploy: Choose a Bronze ally and create 2 base copies of it on the bottom of your Deck.",
+    "info": "Deploy: Choose a Bronze Ally and create 2 base copies of it on the bottom of your Deck.",
     "key": "nekker_warrior",
     "loyalty": [
       "Loyal"
@@ -6844,7 +6815,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Sons of noble houses, born in the City of the Golden Towers, from the elite backbone of the Imperial Army.",
-    "info": "Armor 2 Deploy: Reveal a random card from your Hand.",
+    "info": "Deploy: Gain 2 Armor. Deploy: Reveal a random card from your Hand (can be Gold).",
     "key": "nilfgaardian_knight",
     "loyalty": [
       "Loyal"
@@ -6880,7 +6851,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle.",
-    "info": "Armor 3 Biting Frost Damage increased to 2.",
+    "info": "Frost Damage on your opponent’s side is increased to 2. Deploy: Gain 2 Armor.",
     "key": "nithral",
     "loyalty": [
       "Loyal"
@@ -6918,7 +6889,7 @@
     ],
     "faction": "Neutral",
     "flavor": "The Master of Quartz Mountain, the Destroyer, Trajan's Slayer. In his free time, he likes long walks and candlelight dinners.",
-    "info": "Timer 4, Turn Start: Damage all Enemies by 1, then return this Unit to your Hand and Transform it into Exhausted Ocvist.",
+    "info": "After 4 turns, at the start of your turn, Damage all Enemies by 1, return this Unit to your Hand and Transform it into Exhausted Ocvist.",
     "key": "ocvist",
     "loyalty": [
       "Loyal"
@@ -6951,7 +6922,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Drinkin' without Odrin is like rowin' without a paddle.",
-    "info": "Turn Start: Move to a random row and Boost Units on it by 1.",
+    "info": "Every turn, at the start of your turn, move this Unit to a random row and Boost all Units on it by 1.",
     "key": "odrin",
     "loyalty": [
       "Loyal"
@@ -6962,13 +6933,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 5,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122213_Odrin_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122213_Odrin_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122213_Odrin_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122213_Odrin_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -6989,7 +6960,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Do not disturb.",
-    "info": "Turn Start: If there are 3 or more Units on the opposite row, wake up. Deploy: Boost adjacent Units by 1.",
+    "info": "If at the start of your turn there are 3 or more Units on the opposite row, wake up. Deploy: Boost Units adjacent to this Unit by 1.",
     "key": "old_speartip_asleep",
     "loyalty": [
       "Loyal"
@@ -7027,7 +6998,7 @@
     ],
     "faction": "Neutral",
     "flavor": "At least you now know I don't easily lose my head.",
-    "info": "Veteran: Resurrect this Unit and Weaken it by 2.",
+    "info": "At the start of Rounds 2 and 3, if this Unit is in the Graveyard, Resurrect it and Weaken it by 2.",
     "key": "olgierd",
     "loyalty": [
       "Loyal"
@@ -7096,9 +7067,12 @@
     ]
   },
   {
+    "categories": [
+      "Special"
+    ],
     "faction": "Neutral",
     "flavor": "While deadly for men, Potions are merely toxic for witchers. Yet even they must measure every drop, lest they exceed the maximum dosage... and pay the maximum price.",
-    "info": "Damage 3 adjacent Units by 3 and remove 3 Armor from them.",
+    "info": "Remove 3 Armor from 3 adjacent Units and Damage them by 3.",
     "key": "overdose",
     "name": "Overdose",
     "positions": [
@@ -7131,7 +7105,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "They said the queen was prone to outbursts, but I did not expect that…",
-    "info": "Deploy, Clash: Shuffle the Lowest Ally into your Deck, then shuffle the Lowest Enemy into your opponent’s Deck (does not affect Pavetta).",
+    "info": "Deploy: If neither player has passed, shuffle the Lowest Ally into your Deck, then shuffle the Lowest Enemy into your opponent’s Deck. Does not affect Pavetta.",
     "key": "pavetta",
     "loyalty": [
       "Loyal"
@@ -7140,13 +7114,13 @@
     "positions": [
       "Ranged"
     ],
-    "strength": 5,
+    "strength": 7,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122210_Pavetta_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122210_Pavetta_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122210_Pavetta_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122210_Pavetta_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7173,13 +7147,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 4,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162204_Peter_Saar_Gwynleve_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162204_Peter_Saar_Gwynleve_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162204_Peter_Saar_Gwynleve_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162204_Peter_Saar_Gwynleve_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7238,7 +7212,7 @@
     ],
     "faction": "Skellige",
     "flavor": "Modron Freya, the Great Mother, is the goddess of love, beauty and bounty.",
-    "info": "Deploy: Resurrect a Bronze Unit from your Graveyard.",
+    "info": "Deploy: Resurrect a Bronze Unit.",
     "key": "priestess_of_freya",
     "loyalty": [
       "Loyal"
@@ -7271,7 +7245,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "He wears armor made of gold. Of course he's a jerk.",
-    "info": "Armor 2 Timer 2, Turn Start: Boost this Unit by the number of Machine Allies, then restart the Timer. Crewmen 1.",
+    "info": "Every 2 turns, at the start of your turn, Boost this Unit by the number of Machine Allies. Crewmen 1. Deploy: Gain 2 Armor.",
     "key": "prince_stennis",
     "loyalty": [
       "Loyal"
@@ -7306,7 +7280,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Picture Dandelion in a dress and you've got the general idea.",
-    "info": "Turn End: Boost a random Ally by 3. Counter 3: Decrease whenever this Unit Boosts an Ally. At Counter 0, move this Unit to the bottom of your Deck.",
+    "info": "Every turn, at the end of your turn, Boost a random Ally by 3. After this Unit Boosts 4 Allies without leaving the Board, shuffle it back into your Deck.",
     "key": "priscilla",
     "loyalty": [
       "Loyal"
@@ -7380,7 +7354,7 @@
   {
     "faction": "Skellige",
     "flavor": "The queen is guarded by the hardiest and fiercest shieldmaidens Skellige's ever known.",
-    "info": "Veteran: Strengthen self by 1. Deploy: Resurrect all Queensguards from your Graveyard.",
+    "info": "Deploy: Resurrect all your Queensguards.",
     "key": "queensguard",
     "loyalty": [
       "Loyal"
@@ -7389,13 +7363,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 3,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152307_Queensguard_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152307_Queensguard_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152307_Queensguard_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152307_Queensguard_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7445,16 +7419,16 @@
   {
     "faction": "Northern Realms",
     "flavor": "A king should be merciless towards his enemies and generous to his friends.",
-    "info": "Spawn: Radovid Deploy: Lock 2 Enemies and Damage them by 4.",
+    "info": "Spawn: Radovid Deploy: Toggle 2 Units’ Lock. If Enemies, Damage them by 4 as well.",
     "key": "radovid",
     "name": "Radovid",
-    "strength": 3,
+    "strength": 4,
     "type": "Leader",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200169_Radovid_Leader_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200169_Radovid_Leader_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200169_Radovid_Leader_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200169_Radovid_Leader_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7476,7 +7450,7 @@
     ],
     "faction": "Neutral",
     "flavor": "In the Final Age, Hemdall will come forth to face the evil issuing from the land of Morhogg – the legions of wraiths, demons and specters of Chaos.",
-    "info": "Apply Ragh Nar Roog to all rows on your opponent’s side. Ragh Nar Roog: Turn Start: Damage the Highest Unit on the row by 3.",
+    "info": "Apply Ragh Nar Roog to all rows on your opponent’s side. Ragh Nar Roog: Every turn, at the start of your turn, Damage 1 of the Highest Units on the row by 2.",
     "key": "ragh_nar_roog",
     "name": "Ragh Nar Roog",
     "positions": [
@@ -7543,7 +7517,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "When Cintra fell, Attre followed, leaving its defenders a choice: accept the Nilfgaardian leash or die.",
-    "info": "Deploy: Play a Disloyal Unit from your Deck. Shuffle the others back.",
+    "info": "Deploy: Play a Bronze or Silver Disloyal Unit from your Deck. Shuffle the others back.",
     "key": "rainfarn",
     "loyalty": [
       "Loyal"
@@ -7554,7 +7528,7 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 4,
     "type": "Gold",
     "variations": [
       {
@@ -7578,7 +7552,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "See this here tattoo? 'At's me, hackin' at a dragon. A DRAGON, m'lady.",
-    "info": "Bond: Boost all copies of this Unit by 1, wherever they are. Trio: Damage the Highest Enemy by half its Power (rounding down and ignoring Armor).",
+    "info": "Deploy or Bond: Boost all Reaver Hunters in your Hand, Deck and on your side of the Board by 1. When a Revear Hunter Trio is completed, Damage the Highest Enemy by half its Power (rounding down and ignoring Armor).",
     "key": "reaver_hunter",
     "loyalty": [
       "Loyal"
@@ -7589,13 +7563,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122306_Reaver_Hunter_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122306_Reaver_Hunter_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122306_Reaver_Hunter_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122306_Reaver_Hunter_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7613,7 +7587,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Haven't had much luck with monsters of late, so we enlisted.",
-    "info": "Deploy: Summon a copy of a different Bronze Ally.",
+    "info": "Deploy: Choose a different Bronze Ally. Play a Copy of it from your Deck.",
     "key": "reaver_scout",
     "loyalty": [
       "Loyal"
@@ -7646,7 +7620,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "I'll die for Redania, I'll kill for Redania… I'll even eat worms for Redania!",
-    "info": "Armor 3. Whenever this Unit’s Armor reaches 0, Boost self by 5.",
+    "info": "Whenever this Unit’s Armor reaches 0, boost self by 5. Deploy: Gain 3 Armor.",
     "key": "redanian_elite",
     "loyalty": [
       "Loyal"
@@ -7681,7 +7655,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "For glory! For Radovid!",
-    "info": "Turn Start: If not Armored, Boost this Unit by 2 and add 2 Armor to it.",
+    "info": "Every turn, at the start of your turn, if this Unit has no Armor, Boost it by 2 and add 2 Armor to it.",
     "key": "redanian_knight",
     "loyalty": [
       "Loyal"
@@ -7690,13 +7664,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122308_Redanian_Knight_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122308_Redanian_Knight_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122308_Redanian_Knight_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122308_Redanian_Knight_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7714,7 +7688,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Not wealth or fame but intentions true -- that's what makes a hero of you!",
-    "info": "Armor 2. Turn Start: If this Unit is Armored, Boost Adjacent Units by 1.",
+    "info": "If this Unit has Armor at the start of your turn, Boost units adjacent to it by 1. Deploy: Gain 2 Armor.",
     "key": "redanian_knight-elect",
     "loyalty": [
       "Loyal"
@@ -7752,7 +7726,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Men, the polite ones, at least, would call me a monster. A blood–drinking freak.",
-    "info": "Timer 2, Turn Start: Boost self by 7 if you are winning the Round.",
+    "info": "After 2 turns, at the start of your turn, Boost self by 7 if you are winning the Round.",
     "key": "regis",
     "loyalty": [
       "Loyal"
@@ -7839,13 +7813,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122302_Reinforced_Ballista_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122302_Reinforced_Ballista_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122302_Reinforced_Ballista_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122302_Reinforced_Ballista_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7866,7 +7840,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "The latest rage in assaults on walled cities.",
-    "info": "Deploy: Add 2 Armor to adjacent Units. Fresh Crew: Boost self by 3.",
+    "info": "Deploy: Add 2 Armor to Units adjacent to this Unit. Fresh Crew: Boost self by 3.",
     "key": "reinforced_siege_tower",
     "loyalty": [
       "Loyal"
@@ -7877,13 +7851,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122304_Reinforced_Siege_Tower_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122304_Reinforced_Siege_Tower_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122304_Reinforced_Siege_Tower_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122304_Reinforced_Siege_Tower_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -7904,7 +7878,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Feel that? The earth trembles each time Big Bertha looses a stone.",
-    "info": "Turn Start: Damage a random Enemy by 1 (ignoring Armor).",
+    "info": "Every turn, at the start of your turn, Damage a random Enemy by 1 (ignoring Armor).",
     "key": "reinforced_trebuchet",
     "loyalty": [
       "Loyal"
@@ -7940,7 +7914,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Sound the retreat! Regroup! And wait for reinforccements!",
-    "info": "Play a Unit from your Deck. Then shuffle the others back.",
+    "info": "Play a Bronze or Silver Unit from your Deck. Shuffle the others back.",
     "key": "reinforcement",
     "name": "Reinforcement",
     "positions": [
@@ -8004,7 +7978,7 @@
     ],
     "faction": "Skellige",
     "flavor": "Those cursed sorcresses are stealing our thunder! Whyever should folk choose a procedure taking several hours, when some perfumed tart can solve their problem with a wave of her hand?",
-    "info": "Return a Unit from your Graveyard to your Hand, then Discard a card.",
+    "info": "Return a Unit from your Graveyard to your Hand, then Discard a card from your Hand.",
     "key": "restore",
     "name": "Restore",
     "positions": [
@@ -8036,7 +8010,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Geralt, we gotta have a man-to-horse talk. No offense, but your riding skills? They leave a bit to be desired, buddy.",
-    "info": "Summon this Unit on a random row whenever you play a Gold card (excluding Leaders).",
+    "info": "Whenever you play a Gold Unit from your Hand, play Roach from your Deck on a random row.",
     "key": "roach",
     "loyalty": [
       "Loyal"
@@ -8047,13 +8021,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 5,
+    "strength": 4,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/112210_Roach_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/112210_Roach_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/112210_Roach_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/112210_Roach_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8191,13 +8165,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142101_Saesenthessis_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142101_Saesenthessis_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142101_Saesenthessis_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142101_Saesenthessis_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8218,7 +8192,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Little Sarah wants to play!",
-    "info": "Deploy: Shuffle a card from your Hand (including Golds) back into your Deck, then Draw a different card of the same color.",
+    "info": "Deploy: Shuffle a card from your Hand (can be Gold) back into your Deck, then draw the top different card of the same color from your Deck.",
     "key": "sarah",
     "loyalty": [
       "Loyal"
@@ -8227,13 +8201,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 7,
+    "strength": 8,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/112212_Sarah_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/112212_Sarah_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/112212_Sarah_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/112212_Sarah_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8254,7 +8228,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I care not for kings and their titles. In the east lives one who truly deserves a crown.",
-    "info": "Orders: Summon this Unit to a random row.",
+    "info": "Orders: Play this Unit from your Deck on a random row.",
     "key": "saskia",
     "loyalty": [
       "Loyal"
@@ -8293,7 +8267,7 @@
     ],
     "faction": "Skellige",
     "flavor": "\"Tame\"? Och, lad, Skelligers might train bears, but that don't at all mean they tame 'em…",
-    "info": "Damage each Enemy played by 1.",
+    "info": "Damage each Enemy that appears by 1.",
     "key": "savage_bear",
     "loyalty": [
       "Loyal"
@@ -8302,13 +8276,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152210_Savage_Bear_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152210_Savage_Bear_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152210_Savage_Bear_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152210_Savage_Bear_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8329,7 +8303,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Time to look death in the face.",
-    "info": "Deploy: You may Transform a card from your Hand (including Golds) into Scorch.",
+    "info": "Deploy: You may Transform a card from your Hand (can be Gold) into Scorch.",
     "key": "schirru",
     "name": "Schirru",
     "positions": [
@@ -8364,7 +8338,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Geralt took one step back. He'd seen men hit by Scorch before. Or more accurately, seen what remained of them afterwards.",
-    "info": "Destroy the Highest Unit(s).",
+    "info": "Destroy all the Highest Units.",
     "key": "scorch",
     "name": "Scorch",
     "positions": [
@@ -8443,13 +8417,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132406_Shadow_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132406_Shadow_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132406_Shadow_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132406_Shadow_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8467,7 +8441,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "I'm a medic. I tend to know what I'm doing when I prescribe something.",
-    "info": "Deploy: Resurrect a Unit from your Graveyard and add 4 Armor to it.",
+    "info": "Deploy: Resurrect a Unit and add 3 Armor to it.",
     "key": "shani",
     "loyalty": [
       "Loyal"
@@ -8505,7 +8479,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I was there, on the front lines! Right where the fightin' was the thickest!",
-    "info": "Deploy: Move all Units on the row to random rows on the same side. Effort: Boost self by 1.",
+    "info": "Deploy: Move all Units on the row to random rows on the same side and Boost self by 1 for each.",
     "key": "sheldon_skaggs",
     "loyalty": [
       "Loyal"
@@ -8543,7 +8517,7 @@
     ],
     "faction": "Skellige",
     "flavor": "Fall on your knees and beg Modron Freya for forgiveness.",
-    "info": "Deploy: Resurrect a Unit from your Graveyard.",
+    "info": "Deploy: Resurrect a Unit.",
     "key": "sigrdrifa",
     "loyalty": [
       "Loyal"
@@ -8579,7 +8553,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "The Lodge lacks humility. Our lust for power may yet be our undoing.",
-    "info": "Deploy: Play a Bronze Special card from your Hand, then Draw a card (including Golds).",
+    "info": "Deploy: You may play a Bronze Special card from your Hand. If you do, draw the top card from your Deck.",
     "key": "sile_de_tansarville",
     "loyalty": [
       "Loyal"
@@ -8616,7 +8590,7 @@
     ],
     "faction": "Neutral",
     "flavor": "This ain't no normal storm. This here's the wrath of the gods.",
-    "info": "Apply Skellige Storm to a row. Skelige Storm: Turn Start: Damage the Units at the end of the row by 3, 2, and 1.",
+    "info": "Apply Skellige Storm to a row on your opponent’s side. Skelige Storm: Every turn, at the start of your turn, Damage the leftmost units on the row by 3, 2 and 1, respectively.",
     "key": "skellige_storm",
     "name": "Skellige Storm",
     "positions": [
@@ -8645,7 +8619,7 @@
   {
     "faction": "Skellige",
     "flavor": "Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!",
-    "info": "Veteran: Strengthen self by 1. Timer 2, Turn End: Convert this Unit’s current Power into base Power.",
+    "info": "Veteran: 1. After 2 turns, at the end of your turn, convert this Unit’s current Power into base Power.",
     "key": "skjall",
     "loyalty": [
       "Loyal"
@@ -8678,7 +8652,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "The North has nothing with which it could surprise us.",
-    "info": "Whenever you Reveal a card, Boost this Unit by 1, wherever it is.",
+    "info": "Whenever either player Reveals a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
     "key": "spotter",
     "loyalty": [
       "Loyal"
@@ -8745,7 +8719,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "My mark scars the face of our future empress. That is my proudest achievement.",
-    "info": "Deploy: Choose a card from your Deck and place it on top (including Golds). Then shuffle the rest of your Deck.",
+    "info": "Deploy: Choose any card from your Deck and place it on top. Then shuffle the rest of your Deck.",
     "key": "stefan_skellen",
     "loyalty": [
       "Loyal"
@@ -8783,10 +8757,11 @@
     ],
     "faction": "Monsters",
     "flavor": "Why fight? There are much better ways to work off excess energy...",
-    "info": "Timer 2, Turn Start: Move the Highest other Unit on its row to your side.",
+    "info": "If played on your opponent’s side, then after 2 turns, at the start of your turn, move the Highest other Unit on its row to your side.",
     "key": "succubus",
     "loyalty": [
-      "Disloyal"
+      "Disloyal",
+      "Loyal"
     ],
     "name": "Succubus",
     "positions": [
@@ -8799,8 +8774,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132108_Succubus_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132108_Succubus_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132108_Succubus_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132108_Succubus_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8850,7 +8825,7 @@
   {
     "faction": "Skellige",
     "flavor": "The emperor also thought him an accidental king. At first.",
-    "info": "Veteran: Strengthen self by 1. Deploy: Draw a card (including Golds) then Discard a card from your Hand.",
+    "info": "Veteran: 1. Deploy: Draw the top card from your Deck, then Discard a card from your Hand (can be Gold).",
     "key": "svanrige",
     "loyalty": [
       "Loyal"
@@ -8859,13 +8834,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152213_Svanrige_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152213_Svanrige_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152213_Svanrige_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152213_Svanrige_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -8915,7 +8890,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "And hands off the girl! Whatever we may be, we're not savages.",
-    "info": "Deploy: Choose a Bronze Enemy or a Revealed opposing Bronze Unit and move all copies of it from your opponent’s Deck to their Graveyard.",
+    "info": "Deploy: Choose an Enemy or a Revealed opposing Unit and move all copies of it from your opponent’s Deck to their Graveyard.",
     "key": "sweers",
     "loyalty": [
       "Loyal"
@@ -8948,7 +8923,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Temeria! Temeria! Gods shed all grace on thee! And smite thy foes with horrid woes, for all eternity!",
-    "info": "Deploy: Summon all copies of this Unit.",
+    "info": "Deploy: Play all Temerian Infantrymen from your Deck.",
     "key": "temerian_infantryman",
     "loyalty": [
       "Loyal"
@@ -8986,7 +8961,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Piss off! We aren't all philanderers. Some of us have depth…",
-    "info": "Deploy: Draw 2 cards (including Golds). Keep 1 and shuffle the other back.",
+    "info": "Deploy: Draw the top 2 cards from your Deck. Keep 1 and shuffle the other back.",
     "key": "thaler",
     "loyalty": [
       "Disloyal"
@@ -9060,7 +9035,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A djinn, good sirs, fulfills but three wishes. Thus freed, it flees to dimensions unknown.",
-    "info": "Draw 2 cards. Play 1 and shuffle the other back.",
+    "info": "Draw your top 2 Bronze or Silver cards. Play 1 and shuffle the other back.",
     "key": "the_last_wish",
     "name": "The Last Wish",
     "positions": [
@@ -9121,7 +9096,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "Tibor's zeal was legendary. It was said when the emperor passed, he'd not so much bow as somersault.",
-    "info": "Deploy, Clash: Boost self by 15, then your opponent Draws a Revealed Bronze card.",
+    "info": "Deploy: If neither player has passed, Boost self by 15, then your opponent draws the top Bronze card from their Deck and Reveals it.",
     "key": "tibor_eggebracht",
     "loyalty": [
       "Loyal"
@@ -9132,13 +9107,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 10,
+    "strength": 8,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/162107_Tibor_Eggebracht_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/162107_Tibor_Eggebracht_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/162107_Tibor_Eggebracht_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/162107_Tibor_Eggebracht_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9160,7 +9135,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Even the rain in this land smells vile.",
-    "info": "Apply Rain to a row. Rain: Turn Start: Damage the Lowest Unit(s) on the row by 2.",
+    "info": "Apply Rain to a row on your opponent’s side. Rain: Every turn, at the start of your turn, Damage all the Lowest Units on the row by 2.",
     "key": "torrential_rain",
     "name": "Torrential Rain",
     "positions": [
@@ -9193,7 +9168,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "I'd gladly kill you from up close, stare in your eyes… But you reek, human.",
-    "info": "Ambush. Spring when your opponent passes and Boost 2 Units on either side of this Unit by 2.",
+    "info": "Ambush. When your opponent passes, turn this Unit over and Boost 2 Units on each side by 2.",
     "key": "toruviel",
     "loyalty": [
       "Loyal"
@@ -9298,7 +9273,7 @@
   {
     "faction": "Northern Realms",
     "flavor": "Soldiers loyal to the old baron of Tridam left the city with Falibor, thus becoming renegades wanted by the law.",
-    "info": "Armor 3.",
+    "info": "Deploy: Gain 3 Armor.",
     "key": "tridam_infantryman",
     "loyalty": [
       "Loyal"
@@ -9372,7 +9347,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Cap'n... our arrows, they've... they've got wings!",
-    "info": "Turn Start: Boost the Lowest Ally/Allies by 1.",
+    "info": "Every turn, at the start of your turn, Boost all other Lowest Allies by 1.",
     "key": "triss_butterfly_spell",
     "loyalty": [
       "Loyal"
@@ -9410,7 +9385,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Join me King Ravodid army. Order got - guard boatses.",
-    "info": "Armor 4 Trio: Counts as part of any Northern Realms Trio on the row.",
+    "info": "Counts as part of any Northern Realms Trio on the row. Deploy: Gain 5 Armor.",
     "key": "trollololo",
     "loyalty": [
       "Loyal"
@@ -9449,7 +9424,7 @@
     ],
     "faction": "Skellige",
     "flavor": "The gods have spoken: a sacrifice is required.",
-    "info": "Deploy: Draw 2 cards from your Deck (including Golds). Keep one and Discard the other.",
+    "info": "Deploy: Draw the top 2 cards from your Deck. Keep one and Discard the other.",
     "key": "udalryk",
     "loyalty": [
       "Disloyal"
@@ -9484,16 +9459,16 @@
   {
     "faction": "Monsters",
     "flavor": "No one, not even among the higher vampires, knows exactly how old the Unseen Elder is. They only know they should never, under any circumstances, defy his will.",
-    "info": "Spawn: Unseen Elder. Deploy: Consume 3 Allies, but Strengthen this Unit by their Power instead of Boosting it.",
+    "info": "Spawn Unseen Elder. Deploy: Consume 3 Allies, but Strengthen instead of Boosting.",
     "key": "unseen_elder",
     "name": "Unseen Elder",
-    "strength": 4,
+    "strength": 5,
     "type": "Leader",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/200055_Unseen_Elder_Leader_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/200055_Unseen_Elder_Leader_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/200055_Unseen_Elder_Leader_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/200055_Unseen_Elder_Leader_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9514,7 +9489,7 @@
     ],
     "faction": "Skellige",
     "flavor": "Blood for Svalblod! Skulls for his throne!",
-    "info": "Turn End: Damage by 2 every Damaged Enemy with 2 Power or less.",
+    "info": "Every turn, at the end of your turn, Damage by 2 every Damaged Enemy with 2 Power or less.",
     "key": "vabjorn",
     "loyalty": [
       "Loyal"
@@ -9552,7 +9527,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "For a fire mage, he's not very... flamboyant.",
-    "info": "Deploy: Spawn Stammelford’s Tremors, Clear Skies or Biting Frost.",
+    "info": "Deploy: Spawn Biting Frost, Clear Skies or Stammelford’s Tremors.",
     "key": "vanhemar",
     "loyalty": [
       "Loyal"
@@ -9585,7 +9560,7 @@
   {
     "faction": "Nilfgaard",
     "flavor": "There's never been a problem a well-planed assassination couldn't solve.",
-    "info": "Deploy: Reveal up to 2 cards from your Hand. For each card Revealed this way, Reveal 1 random card from your opponent’s Hand.",
+    "info": "Deploy: Reveal up to 2 cards from your Hand (can be Golds). For each, Reveal 1 random card from your opponent’s Hand (can be Gold).",
     "key": "vattier_de_rideaux",
     "loyalty": [
       "Loyal"
@@ -9661,7 +9636,7 @@
     ],
     "faction": "Northern Realms",
     "flavor": "Better to live one day as a king than a whole life as a beggar.",
-    "info": "Summon this Unit whenever you trigger a Northern Realms Trio ability.",
+    "info": "Whenever you complete a Northern Realms Trio, play this Unit from your Deck.",
     "key": "ves",
     "loyalty": [
       "Loyal"
@@ -9670,13 +9645,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122204_Ves_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122204_Ves_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122204_Ves_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122204_Ves_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9697,7 +9672,7 @@
     ],
     "faction": "Neutral",
     "flavor": "If you're to be hanged, ask for water. Anything can happen before they fetch it.",
-    "info": "Deploy: Summon Eskel & Lambert.",
+    "info": "Deploy: Play Eskel and Lambert from your Deck.",
     "key": "vesemir",
     "loyalty": [
       "Loyal"
@@ -9706,13 +9681,13 @@
     "positions": [
       "Melee"
     ],
-    "strength": 6,
+    "strength": 7,
     "type": "Silver",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/112203_Vesemir_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/112203_Vesemir_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/112203_Vesemir_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/112203_Vesemir_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9775,13 +9750,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 3,
+    "strength": 1,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/122403_Vicovaro_Novice_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/122403_Vicovaro_Novice_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/122403_Vicovaro_Novice_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/122403_Vicovaro_Novice_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9802,7 +9777,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "We are all pawns on his board. Playing a game whose rules we do not know.",
-    "info": "Deploy: Destroy an Ally, then play the top card from your Deck (including Golds); or Clash: Destroy an Enemy, then your opponent Draws a Revealed Bronze card.",
+    "info": "Deploy: Destroy an Ally, then play the top card from your Deck; or, if neither player has passed, Destroy an Enemy, then your opponent draws the top Bronze card from their Deck and Reveals it.",
     "key": "vilgefortz",
     "loyalty": [
       "Loyal"
@@ -9840,7 +9815,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Also calls himself Borkh Three Jackdaws… he's not the best at names.",
-    "info": "Timer 3, Turn Start: Destroy the Highest Unit(s) on the Board twice.",
+    "info": "After 3 turns, at the start of your turn, Destroy all the Highest Units on the Board twice.",
     "key": "villentretenmerth",
     "loyalty": [
       "Loyal"
@@ -9851,13 +9826,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 6,
+    "strength": 4,
     "type": "Gold",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/112107_Villentretenmerth_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/112107_Villentretenmerth_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/112107_Villentretenmerth_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/112107_Villentretenmerth_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9878,7 +9853,7 @@
     ],
     "faction": "Monsters",
     "flavor": "They sat still on their horses, seemingly relaxed. He saw their weapons – short spears with wide tips. Swords with oddly forged guards. Battle axes. Toothed gisarmes.",
-    "info": "Deploy: Consume the Unit to the right. Timer 2, Turn Start: Consume the Unit to the right, then restart the Timer.",
+    "info": "Deploy: Consume the Unit to the right. Every 2 turns, at the start of your turn, Consume the Unit to the right.",
     "key": "vran_warrior",
     "loyalty": [
       "Loyal"
@@ -9889,13 +9864,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 5,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/132308_Vran_Warrior_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/132308_Vran_Warrior_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/132308_Vran_Warrior_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/132308_Vran_Warrior_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9916,7 +9891,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "\"Vrihedd? What's that mean?\" \"Trouble.\"",
-    "info": "Promote this Unit when you play a Weather card.",
+    "info": "Deploy: Clear Weather from the row on your side and move a Unit to this row on its side.",
     "key": "vrihedd_brigade",
     "loyalty": [
       "Loyal"
@@ -9927,13 +9902,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 4,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142302_Vrihedd_Brigade_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142302_Vrihedd_Brigade_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142302_Vrihedd_Brigade_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142302_Vrihedd_Brigade_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -9954,7 +9929,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Most terrible things I've witnessed? The Catriona plague, the razing of Vengerberg and the charge of the Vrihedd Dragoons.",
-    "info": "Turn Start: Boost a random Unit in your Hand by 1.",
+    "info": "Every turn, at the start of your turn, Boost a random Loyal Unit in your Hand by 1.",
     "key": "vrihedd_dragoon",
     "loyalty": [
       "Loyal"
@@ -9999,13 +9974,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 7,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142303_Vrihedd_Officer_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142303_Vrihedd_Officer_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142303_Vrihedd_Officer_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142303_Vrihedd_Officer_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -10026,7 +10001,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "No matter what you may have heard, elves don't take human scalps. Too much lice.",
-    "info": "Ambush. Timer: 2. Turn Start: Spring.",
+    "info": "Ambush: After 2 turns, at the start of your turn, turn this Unit over.",
     "key": "vrihedd_sappers",
     "loyalty": [
       "Loyal"
@@ -10042,8 +10017,8 @@
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142307_Vrihedd_Sappers_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142307_Vrihedd_Sappers_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142307_Vrihedd_Sappers_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142307_Vrihedd_Sappers_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -10064,7 +10039,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Temerians, Redanians, all the same. Better off dead.",
-    "info": "Whenever you Mulligan a card, Boost this Unit by 1, wherever it is.",
+    "info": "Whenever you Mulligan a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
     "key": "vrihedd_vanguard",
     "loyalty": [
       "Loyal"
@@ -10075,13 +10050,13 @@
       "Melee",
       "Siege"
     ],
-    "strength": 3,
+    "strength": 4,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/142309_Vrihedd_Vanguard_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/142309_Vrihedd_Vanguard_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/142309_Vrihedd_Vanguard_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/142309_Vrihedd_Vanguard_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -10111,13 +10086,13 @@
     "positions": [
       "Siege"
     ],
-    "strength": 5,
+    "strength": 6,
     "type": "Bronze",
     "variations": [
       {
         "art": {
-          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/05/152314_War_Longship_art0.png",
-          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/05/152314_War_Longship_art0-500x617.png"
+          "fullsizeImage": "http://gwentify.com/wp-content/uploads/2017/06/152314_War_Longship_art0.png",
+          "thumbnailImage": "http://gwentify.com/wp-content/uploads/2017/06/152314_War_Longship_art0-500x617.png"
         },
         "availability": "BaseSet",
         "craft": {
@@ -10138,7 +10113,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Seen a lot o' ugly critters in me life – morays, lampreys, blobfish… But never nothin' like this!",
-    "info": "Deploy: Spawn Clear Skies, Lacerate or Torrential Rain.",
+    "info": "Deploy: Spawn Torrential Rain, Clear Skies or Lacerate.",
     "key": "water_hag",
     "loyalty": [
       "Loyal"
@@ -10175,7 +10150,7 @@
     ],
     "faction": "Neutral",
     "flavor": "Behold Tedd Deireadh, the Final Age. The world destroyed by the White Frost.",
-    "info": "Apply Frost to a row on your opponent’s side and the row above it. Frost: Turn Start: Damage Units on the row by 1.",
+    "info": "Apply Frost to a row on your opponent’s side and the row above it. Frost: Every turn, at the start of your turn, Damage all Units on the row by 1.",
     "key": "white_frost",
     "name": "White Frost",
     "positions": [
@@ -10207,7 +10182,7 @@
     ],
     "faction": "Skellige",
     "flavor": "Merely mention this name to a Nilfgaardian, and they'll feel a spreading warmth in their knickers.",
-    "info": "Turn Start: Strengthen the Unit to the left by 1 and Damage the Unit to the right by 1.",
+    "info": "Every turn, at the start of your turn, Strengthen the Unit to the left by 1 and Damage the Unit to the right by 1.",
     "key": "wild_boar_of_the_sea",
     "loyalty": [
       "Loyal"
@@ -10245,7 +10220,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Cry 'Havoc!', and let slip the dogs of war.",
-    "info": "Deploy: Summon Biting Frost.",
+    "info": "Deploy: Play a Biting Frost card from your Deck.",
     "key": "wild_hunt_hound",
     "loyalty": [
       "Loyal"
@@ -10281,7 +10256,7 @@
     ],
     "faction": "Monsters",
     "flavor": "For hundreds of years, Avallac'h tried to recreate the Elder Blood gene through back breeding - yet the elven children thus fostered were but dim sparks compared to Lara's flame.",
-    "info": "Deploy: Summon a copy of a different Bronze Wild Hunt Ally.",
+    "info": "Deploy: Choose a different Bronze Wild Hunt Ally. Play a copy of it from your Deck.",
     "key": "wild_hunt_navigator",
     "loyalty": [
       "Loyal"
@@ -10317,7 +10292,7 @@
     ],
     "faction": "Monsters",
     "flavor": "First the buffalo horns atop their helms penetrate one's view, then the crest betwixt them, and finally the skull–like face exposed beneath their visors.",
-    "info": "Round End, Brave: If this unit is on the Board, give it Resilience. Trio, Turn End: Boost self by 1.",
+    "info": "At the end of the Round, keep this Unit on the Board if you lost. If this Unit is part of a Trio at the end of your turn, Boost it by 1.",
     "key": "wild_hunt_rider",
     "loyalty": [
       "Loyal"
@@ -10355,7 +10330,7 @@
     ],
     "faction": "Monsters",
     "flavor": "The White Frost is coming.",
-    "info": "Deploy: Damage an Enemy by 3. if it was Destroyed, Boost self by 2.",
+    "info": "Deploy: Damage an Enemy by 3. If it was Destroyed, Boost self by 2.",
     "key": "wild_hunt_warrior",
     "loyalty": [
       "Loyal"
@@ -10429,7 +10404,7 @@
     ],
     "faction": "Monsters",
     "flavor": "Imagine a cross between a winged snake and a nightmare. Wyverns are worse.",
-    "info": "Deploy: Damage an Enemy by 2. Brave: Deal 3 extra Damage.",
+    "info": "Deploy: Damage an Enemy by 3.",
     "key": "wyvern",
     "loyalty": [
       "Loyal"
@@ -10465,7 +10440,7 @@
     ],
     "faction": "Nilfgaard",
     "flavor": "Astrology, hydromancy, haruspicy, ceromancy. Ovomancy, spodomancy, metroscopy, brontoscopy...",
-    "info": "Deploy: Look at the top 3 cards of your opponent’s Deck (including Golds). you may choose 1 and place it at the bottom of their Deck.",
+    "info": "Deploy: Look at the top 3 cards of your opponent’s Deck. You may move 1 to the bottom of their Deck.",
     "key": "xarthisius",
     "loyalty": [
       "Loyal"
@@ -10504,7 +10479,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "We are the drops of rain that together make a ferocious storm.",
-    "info": "Deploy: Draw a Unit and a Special card (including Golds). Keep 1 and shuffle the other back.",
+    "info": "Deploy: Draw the top Unit and top Special card from your Deck. Keep 1 and shuffle the other back.",
     "key": "yaevinn",
     "loyalty": [
       "Disloyal"
@@ -10542,7 +10517,7 @@
     ],
     "faction": "Scoia'tael",
     "flavor": "Ever hear o' the dragon Ocvist? From Quartz Mountain? Well, Yarpen Zigrin and his band o' dwarves did 'im in.",
-    "info": "Resilient. Whenever a Dwarf Ally (including Golds) is played, Boost self by 1.",
+    "info": "Whenever a Dwarf Ally (including Golds) is played, Boost self by 1. Deploy: Gain Resilience.",
     "key": "yarpen_zigrin",
     "loyalty": [
       "Loyal"
@@ -10616,7 +10591,7 @@
     ],
     "faction": "Neutral",
     "flavor": "A good sorceress must know when to conjure ice... and when to conjure fire.",
-    "info": "Turn Start: Damage the Highest Enemy/Enemies by 1.",
+    "info": "Every turn, at the start of your turn, Damage all the Highest Enemies by 1.",
     "key": "yennefer_the_conjurer",
     "loyalty": [
       "Loyal"
