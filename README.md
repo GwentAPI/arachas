@@ -1,5 +1,7 @@
 # arachas
 
+# As of 14/07/17 Arachas is no longer being maintained
+
 Arachas is a web crawler that is capable of extracting card data related to the GWENT®: The Witcher Card Game from community websites.
 Currently it only crawl the popular [gwentify](http://gwentify.com/) website.
 
